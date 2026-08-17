@@ -1,11 +1,11 @@
 województwo,powiat,gmina,typ gminy,TERYT,rok_raportu,url_do_pliku,typ,zawartosc
-mazowieckie,ciechanowski,Ciechanów,gmina miejska,1402011,2018,https://bip.umciechanow.pl/pliki/raport_o_stanie_miasta_ciechanow_2018.pdf,pdf,tekst
-mazowieckie,ciechanowski,Ciechanów,gmina miejska,1402011,2019,https://bip.umciechanow.pl/pliki/raport_o_stanie_miasta_ciechanow_2019.pdf,pdf,tekst
-mazowieckie,ciechanowski,Ciechanów,gmina miejska,1402011,2020,https://bip.umciechanow.pl/pliki/raport_o_stanie_miasta_ciechanow_2020.pdf,pdf,tekst
-mazowieckie,ciechanowski,Ciechanów,gmina miejska,1402011,2021,https://bip.umciechanow.pl/pliki/raport_o_stanie_miasta_ciechanow_2021.pdf,pdf,tekst
-mazowieckie,ciechanowski,Ciechanów,gmina miejska,1402011,2022,https://bip.umciechanow.pl/pliki/raport_o_stanie_miasta_ciechanow_2022.pdf,pdf,tekst
-mazowieckie,ciechanowski,Ciechanów,gmina miejska,1402011,2023,https://bip.umciechanow.pl/pliki/raport_o_stanie_miasta_ciechanow_2023.pdf,pdf,tekst
-mazowieckie,ciechanowski,Ciechanów,gmina miejska,1402011,2024,https://bip.umciechanow.pl/pliki/raport_o_stanie_miasta_ciechanow_2024.pdf,pdf,tekst
+mazowieckie,ciechanowski,Ciechanów,gmina miejska,1402011,2018,"https://bip.umciechanow.pl/pliki/Raport-o-stanie-Gminy-,6374.pdf",pdf,tekst
+mazowieckie,ciechanowski,Ciechanów,gmina miejska,1402011,2019,"https://bip.umciechanow.pl/pliki/Raport-o-stanie-Miasta-za-2019,8945.pdf",pdf,tekst
+mazowieckie,ciechanowski,Ciechanów,gmina miejska,1402011,2020,"https://bip.umciechanow.pl/pliki/raport-o-stanie-miasta-za-2020,9327.pdf",pdf,tekst
+mazowieckie,ciechanowski,Ciechanów,gmina miejska,1402011,2021,"https://bip.umciechanow.pl/pliki/raport-miasto-2021,10589.pdf",pdf,tekst
+mazowieckie,ciechanowski,Ciechanów,gmina miejska,1402011,2022,"https://bip.umciechanow.pl/pliki/Raport-o-stanie-miasta-za-2022-rok,12115.pdf",pdf,tekst
+mazowieckie,ciechanowski,Ciechanów,gmina miejska,1402011,2023,"https://bip.umciechanow.pl/pliki/Raport-o-stanie-miasta-za-2023-rok---25.04.2024-r,13520.pdf",pdf,tekst
+mazowieckie,ciechanowski,Ciechanów,gmina miejska,1402011,2024,"https://bip.umciechanow.pl/pliki/Raport-za-2024-11.04.2024-,14684.pdf",pdf,tekst
 mazowieckie,ciechanowski,Ciechanów,gmina miejska,1402011,2025,https://bip.umciechanow.pl/pliki/raport_o_stanie_miasta_ciechanow_2025.pdf,pdf,tekst
 mazowieckie,ciechanowski,Ciechanów,gmina wiejska,1402022,2018,https://gminaciechanow.pl/uploads/dokumenty/1/bip/4282/raport_o_stanie_gminy_ciechanow_za_2018_rok.pdf,pdf,tekst
 mazowieckie,ciechanowski,Ciechanów,gmina wiejska,1402022,2019,https://gminaciechanow.pl/uploads/dokumenty/1/bip/911/raport_o_stanie_gminy_ciechanow_za_2019_rok.pdf,pdf,tekst
@@ -28,9 +28,9 @@ mazowieckie,ciechanowski,Grudusk,gmina wiejska,1402052,2019,http://web.archive.o
 mazowieckie,ciechanowski,Grudusk,gmina wiejska,1402052,2020,http://web.archive.org/web/20251214051446/http://nowa.grudusk.com/pliki/Raport_o_stanie/2020/Raport%20o%20stanie%20Gminy%20Grudusk%20za%202020%20rok.pdf,pdf,tekst
 mazowieckie,ciechanowski,Grudusk,gmina wiejska,1402052,2021,http://web.archive.org/web/20250807195258/http://nowa.grudusk.com/pliki/aktualnosci/2022/05/Raport%20W%C3%B3jta%20Gminy%20o%20stanie%20Gminy%20Grudusk%20za%202021%20rok.pdf,pdf,tekst
 mazowieckie,ciechanowski,Grudusk,gmina wiejska,1402052,2022,http://web.archive.org/web/20250807195625/http://nowa.grudusk.com/pliki/Raport_o_stanie/22/Raport%20W%C3%B3jta%20Gminy%20o%20stanie%20Gminy%20Grudusk%20za%202022%20rok.pdf,pdf,tekst
-mazowieckie,ciechanowski,Grudusk,gmina wiejska,1402052,2023,https://ciechanow.praca.gov.pl/documents/1842500/20163822/Bezrobocie%20w%20gminach%20w%2011.2023.pdf,pdf,tekst
+mazowieckie,ciechanowski,Grudusk,gmina wiejska,1402052,2023,brak,brak,brak
 mazowieckie,ciechanowski,Grudusk,gmina wiejska,1402052,2024,brak,brak,brak
-mazowieckie,ciechanowski,Grudusk,gmina wiejska,1402052,2025,brak,brak,brak
+mazowieckie,ciechanowski,Grudusk,gmina wiejska,1402052,2025,https://bip-v1-files.idcom-jst.pl/sites/47556/wiadomosci/884946/files/raport_wojta_gminy_o_stanie_gminy_grudusk_za_2025_rok_podpisana.pdf,pdf,tekst
 mazowieckie,ciechanowski,Ojrzeń,gmina wiejska,1402062,2018,https://ojrzen.pl/wp-content/uploads/2019/06/Raport-o-stanie-gminy-2018.pdf,pdf,tekst
 mazowieckie,ciechanowski,Ojrzeń,gmina wiejska,1402062,2019,https://ojrzen.pl/wp-content/uploads/2020/05/Raport-o-stanie-gminy-Gmina-Ojrze%C5%84.pdf,pdf,tekst
 mazowieckie,ciechanowski,Ojrzeń,gmina wiejska,1402062,2020,http://ugojrzen.bip.org.pl/pliki/ugojrzen/raport_o_stanie_gminy_-_gmina_ojrzen_2020.pdf?20260815191706,pdf,tekst
@@ -919,13 +919,13 @@ podlaskie,białostocki,Dobrzyniewo Duże,gmina wiejska,2002032,2022,https://bip-
 podlaskie,białostocki,Dobrzyniewo Duże,gmina wiejska,2002032,2023,https://bip-ugdobrzyniewoduze.podlaskie.eu/resource/116962/ogłoszenie.pdf/attachment.1,pdf,tekst
 podlaskie,białostocki,Dobrzyniewo Duże,gmina wiejska,2002032,2024,https://dobrzyniewoduze-2024.g.fundacjamiasto.pl/,html,tekst
 podlaskie,białostocki,Dobrzyniewo Duże,gmina wiejska,2002032,2025,https://bip-ugdobrzyniewoduze.podlaskie.eu/resource/117532/20260517_Dobrzyniewo_Du%C5%BCe+Raport+o+stanie+Gminy+w+2025+roku.pdf,pdf,tekst
-podlaskie,białostocki,Grabówka,gmina wiejska,2002162,2018,NIEOSIAGALNY,NIEOSIAGALNY,NIEOSIAGALNY
-podlaskie,białostocki,Grabówka,gmina wiejska,2002162,2019,NIEOSIAGALNY,NIEOSIAGALNY,NIEOSIAGALNY
-podlaskie,białostocki,Grabówka,gmina wiejska,2002162,2020,NIEOSIAGALNY,NIEOSIAGALNY,NIEOSIAGALNY
-podlaskie,białostocki,Grabówka,gmina wiejska,2002162,2021,NIEOSIAGALNY,NIEOSIAGALNY,NIEOSIAGALNY
-podlaskie,białostocki,Grabówka,gmina wiejska,2002162,2022,NIEOSIAGALNY,NIEOSIAGALNY,NIEOSIAGALNY
-podlaskie,białostocki,Grabówka,gmina wiejska,2002162,2023,NIEOSIAGALNY,NIEOSIAGALNY,NIEOSIAGALNY
-podlaskie,białostocki,Grabówka,gmina wiejska,2002162,2024,NIEOSIAGALNY,NIEOSIAGALNY,NIEOSIAGALNY
+podlaskie,białostocki,Grabówka,gmina wiejska,2002162,2018,NIE_ISTNIEJE,NIE_ISTNIEJE,NIE_ISTNIEJE
+podlaskie,białostocki,Grabówka,gmina wiejska,2002162,2019,NIE_ISTNIEJE,NIE_ISTNIEJE,NIE_ISTNIEJE
+podlaskie,białostocki,Grabówka,gmina wiejska,2002162,2020,NIE_ISTNIEJE,NIE_ISTNIEJE,NIE_ISTNIEJE
+podlaskie,białostocki,Grabówka,gmina wiejska,2002162,2021,NIE_ISTNIEJE,NIE_ISTNIEJE,NIE_ISTNIEJE
+podlaskie,białostocki,Grabówka,gmina wiejska,2002162,2022,NIE_ISTNIEJE,NIE_ISTNIEJE,NIE_ISTNIEJE
+podlaskie,białostocki,Grabówka,gmina wiejska,2002162,2023,NIE_ISTNIEJE,NIE_ISTNIEJE,NIE_ISTNIEJE
+podlaskie,białostocki,Grabówka,gmina wiejska,2002162,2024,NIE_ISTNIEJE,NIE_ISTNIEJE,NIE_ISTNIEJE
 podlaskie,białostocki,Grabówka,gmina wiejska,2002162,2025,https://bip.gminagrabowka.pl/resource/1105/Za%C5%82acznik+do+zarz%C4%85dzenia.pdf,pdf,tekst
 podlaskie,białostocki,Gródek,gmina wiejska,2002042,2018,https://bip-uggrodek.podlaskie.eu/resource/9516/Raport_o_stanie_Gminy_Grodek_w_2018_r_.pdf,pdf,tekst
 podlaskie,białostocki,Gródek,gmina wiejska,2002042,2019,https://bip-uggrodek.podlaskie.eu/resource/9514/Raport_o_stanie_Gminy_Grodek_w_2019_r_.pdf,pdf,tekst
@@ -1019,7 +1019,7 @@ podlaskie,białostocki,Łapy,gmina miejsko-wiejska,2002063,2018,brak,brak,brak
 podlaskie,białostocki,Łapy,gmina miejsko-wiejska,2002063,2019,brak,brak,brak
 podlaskie,białostocki,Łapy,gmina miejsko-wiejska,2002063,2020,brak,brak,brak
 podlaskie,białostocki,Łapy,gmina miejsko-wiejska,2002063,2021,https://bip-umlapy.podlaskie.eu/resource/14/Uchwała Nr XLIII.pdf/attachment.1,pdf,tekst
-podlaskie,białostocki,Łapy,gmina miejsko-wiejska,2002063,2022,https://bip-umlapy.podlaskie.eu/resource/14/Uchwała nr LVIII_478_24 w sprawie zmiany Statutu Młodzieżowej Rady Miejskiej w Łapach.pdf/attachment.1,pdf,tekst
+podlaskie,białostocki,Łapy,gmina miejsko-wiejska,2002063,2022,https://bip-umlapy.wrotapodlasia.pl/resource/123572/RAPORT_GMINA_%C5%81APY_STAN_ZA_2022_rok_11-05-2023.pdf,pdf,tekst
 podlaskie,białostocki,Łapy,gmina miejsko-wiejska,2002063,2023,brak,brak,brak
 podlaskie,białostocki,Łapy,gmina miejsko-wiejska,2002063,2024,brak,brak,brak
 podlaskie,białostocki,Łapy,gmina miejsko-wiejska,2002063,2025,brak,brak,brak
@@ -1036,7 +1036,7 @@ podlaskie,bielski,Bielsk Podlaski,gmina wiejska,2003032,2019,https://bip-ugbiels
 podlaskie,bielski,Bielsk Podlaski,gmina wiejska,2003032,2020,https://bip-ugbielsk.podlaskie.eu/resource/122009/raport+za+rok+2020.pdf,pdf,tekst
 podlaskie,bielski,Bielsk Podlaski,gmina wiejska,2003032,2021,http://www.bielskpodlaski.pl/asp/pliki/pobierz/inwentaryzacja_dzikich_wysypisk_gmina_bielsk_podlaski_24_08_2021.pdf,pdf,tekst
 podlaskie,bielski,Bielsk Podlaski,gmina wiejska,2003032,2022,https://bip-ugbielsk.podlaskie.eu/resource/122009/raport_za_rok_2022.pdf,pdf,tekst
-podlaskie,bielski,Bielsk Podlaski,gmina wiejska,2003032,2023,https://bip-ugbielsk.podlaskie.eu/resource/121185/raport+za+rok+2023.pdf,pdf,tekst
+podlaskie,bielski,Bielsk Podlaski,gmina wiejska,2003032,2023,https://bip-ugbielsk.wrotapodlasia.pl/resource/121185/7900/raport+za+rok+2023.pdf,pdf,tekst
 podlaskie,bielski,Bielsk Podlaski,gmina wiejska,2003032,2024,https://umbielskpodlaski.pl/wp-content/uploads/2025/05/Roczny-raport-o-stanie-gminy-2024.pdf,pdf,tekst
 podlaskie,bielski,Bielsk Podlaski,gmina wiejska,2003032,2025,https://bip-ugbielsk.podlaskie.eu/resource/122009/RAPORT+O+STANIE+GMINY+BIELSK+PODLASKI+za+2025.pdf,pdf,tekst
 podlaskie,bielski,Boćki,gmina wiejska,2003042,2018,https://bip-ugbocki.podlaskie.eu/resource/file/download-file/id.5621,pdf,tekst
@@ -1063,22 +1063,22 @@ podlaskie,bielski,Brańsk,gmina wiejska,2003052,2022,https://samorzad.gov.pl/att
 podlaskie,bielski,Brańsk,gmina wiejska,2003052,2023,https://samorzad.gov.pl/attachment/d76605ac-168b-41c5-a287-f831073c98a6,pdf,tekst
 podlaskie,bielski,Brańsk,gmina wiejska,2003052,2024,https://samorzad.gov.pl/attachment/a13cc143-de23-4c94-8851-1625c67faea6,pdf,tekst
 podlaskie,bielski,Brańsk,gmina wiejska,2003052,2025,https://bip-umbransk.podlaskie.eu/resource/4800/G%25C5%2582osowanie+imienne++XIII+sesji+Rady+Miasta+Bra%25C5%2584sk+10.04.2025+r..pdf,pdf,tekst
-podlaskie,bielski,Orla,gmina wiejska,2003062,2018,NIEOSIAGALNY,NIEOSIAGALNY,NIEOSIAGALNY
-podlaskie,bielski,Orla,gmina wiejska,2003062,2019,NIEOSIAGALNY,NIEOSIAGALNY,NIEOSIAGALNY
-podlaskie,bielski,Orla,gmina wiejska,2003062,2020,NIEOSIAGALNY,NIEOSIAGALNY,NIEOSIAGALNY
-podlaskie,bielski,Orla,gmina wiejska,2003062,2021,NIEOSIAGALNY,NIEOSIAGALNY,NIEOSIAGALNY
-podlaskie,bielski,Orla,gmina wiejska,2003062,2022,NIEOSIAGALNY,NIEOSIAGALNY,NIEOSIAGALNY
-podlaskie,bielski,Orla,gmina wiejska,2003062,2023,NIEOSIAGALNY,NIEOSIAGALNY,NIEOSIAGALNY
-podlaskie,bielski,Orla,gmina wiejska,2003062,2024,NIEOSIAGALNY,NIEOSIAGALNY,NIEOSIAGALNY
-podlaskie,bielski,Orla,gmina wiejska,2003062,2025,https://bip-ugorla.podlaskie.eu/resource/6410/Raport o stanie Gminy Orla za 2025 rok.pdf/attachment.1,pdf,tekst
+podlaskie,bielski,Orla,gmina wiejska,2003062,2018,brak,brak,brak
+podlaskie,bielski,Orla,gmina wiejska,2003062,2019,brak,brak,brak
+podlaskie,bielski,Orla,gmina wiejska,2003062,2020,brak,brak,brak
+podlaskie,bielski,Orla,gmina wiejska,2003062,2021,brak,brak,brak
+podlaskie,bielski,Orla,gmina wiejska,2003062,2022,brak,brak,brak
+podlaskie,bielski,Orla,gmina wiejska,2003062,2023,brak,brak,brak
+podlaskie,bielski,Orla,gmina wiejska,2003062,2024,brak,brak,brak
+podlaskie,bielski,Orla,gmina wiejska,2003062,2025,https://bip-ugorla.podlaskie.eu/resource/6410/Raport%20o%20stanie%20Gminy%20Orla%20za%202025%20rok.pdf/attachment.1,pdf,tekst
 podlaskie,bielski,Rudka,gmina wiejska,2003072,2018,https://bip-ugrudka.podlaskie.eu/resource/file/download-file/id.4227/attachment.1,pdf,tekst
-podlaskie,bielski,Rudka,gmina wiejska,2003072,2019,NIEOSIAGALNY,NIEOSIAGALNY,NIEOSIAGALNY
-podlaskie,bielski,Rudka,gmina wiejska,2003072,2020,NIEOSIAGALNY,NIEOSIAGALNY,NIEOSIAGALNY
-podlaskie,bielski,Rudka,gmina wiejska,2003072,2021,NIEOSIAGALNY,NIEOSIAGALNY,NIEOSIAGALNY
-podlaskie,bielski,Rudka,gmina wiejska,2003072,2022,NIEOSIAGALNY,NIEOSIAGALNY,NIEOSIAGALNY
-podlaskie,bielski,Rudka,gmina wiejska,2003072,2023,NIEOSIAGALNY,NIEOSIAGALNY,NIEOSIAGALNY
-podlaskie,bielski,Rudka,gmina wiejska,2003072,2024,NIEOSIAGALNY,NIEOSIAGALNY,NIEOSIAGALNY
-podlaskie,bielski,Rudka,gmina wiejska,2003072,2025,NIEOSIAGALNY,NIEOSIAGALNY,NIEOSIAGALNY
+podlaskie,bielski,Rudka,gmina wiejska,2003072,2019,brak,brak,brak
+podlaskie,bielski,Rudka,gmina wiejska,2003072,2020,brak,brak,brak
+podlaskie,bielski,Rudka,gmina wiejska,2003072,2021,brak,brak,brak
+podlaskie,bielski,Rudka,gmina wiejska,2003072,2022,brak,brak,brak
+podlaskie,bielski,Rudka,gmina wiejska,2003072,2023,brak,brak,brak
+podlaskie,bielski,Rudka,gmina wiejska,2003072,2024,brak,brak,brak
+podlaskie,bielski,Rudka,gmina wiejska,2003072,2025,brak,brak,brak
 podlaskie,bielski,Wyszki,gmina wiejska,2003082,2018,https://ugwyszki-bip.podlaskie.pl/upload/doc/12366_20190604_084347.pdf,pdf,tekst
 podlaskie,bielski,Wyszki,gmina wiejska,2003082,2019,https://ugwyszki-bip.podlaskie.pl/upload/doc/12366_20200522_080801.pdf,pdf,tekst
 podlaskie,bielski,Wyszki,gmina wiejska,2003082,2020,https://ugwyszki-bip.podlaskie.pl/upload/doc/12365_20210521_123848.docx,docx,tekst
@@ -1095,13 +1095,13 @@ podlaskie,grajewski,Grajewo,gmina miejska,2004011,2022,https://bip.um.grajewo.pl
 podlaskie,grajewski,Grajewo,gmina miejska,2004011,2023,https://bip.um.grajewo.pl/resource/125506/4_raport_o_stanie_miasta_2023.pdf,pdf,tekst
 podlaskie,grajewski,Grajewo,gmina miejska,2004011,2024,https://bip.um.grajewo.pl/resource/125506/Raport+o+stanie+Miasta+Grajewo+w+2024+roku.pdf,pdf,tekst
 podlaskie,grajewski,Grajewo,gmina miejska,2004011,2025,https://bip.um.grajewo.pl/resource/125506/Raport+o+stanie+Miasta+Grajewo+w+2025+roku.pdf,pdf,tekst
-podlaskie,grajewski,Grajewo,gmina wiejska,2004022,2018,NIEOSIAGALNY,NIEOSIAGALNY,NIEOSIAGALNY
-podlaskie,grajewski,Grajewo,gmina wiejska,2004022,2019,NIEOSIAGALNY,NIEOSIAGALNY,NIEOSIAGALNY
+podlaskie,grajewski,Grajewo,gmina wiejska,2004022,2018,brak,brak,brak
+podlaskie,grajewski,Grajewo,gmina wiejska,2004022,2019,brak,brak,brak
 podlaskie,grajewski,Grajewo,gmina wiejska,2004022,2020,https://bip-uggrajewo.podlaskie.eu/resource/121086/RAPORT+o+stanie+Gminy+za+2020+r.pdf,pdf,tekst
 podlaskie,grajewski,Grajewo,gmina wiejska,2004022,2021,https://bip-uggrajewo.podlaskie.eu/resource/121085/RAPORT+O+STANIE+GMINY+ZA+2021+r.pdf,pdf,tekst
 podlaskie,grajewski,Grajewo,gmina wiejska,2004022,2022,https://samorzad.gov.pl/attachment/64000826-20d1-4280-b7f3-e792f8c9794b,pdf,tekst
-podlaskie,grajewski,Grajewo,gmina wiejska,2004022,2023,NIEOSIAGALNY,NIEOSIAGALNY,NIEOSIAGALNY
-podlaskie,grajewski,Grajewo,gmina wiejska,2004022,2024,NIEOSIAGALNY,NIEOSIAGALNY,NIEOSIAGALNY
+podlaskie,grajewski,Grajewo,gmina wiejska,2004022,2023,brak,brak,brak
+podlaskie,grajewski,Grajewo,gmina wiejska,2004022,2024,brak,brak,brak
 podlaskie,grajewski,Grajewo,gmina wiejska,2004022,2025,https://samorzad.gov.pl/attachment/b823ecfc-7b45-47af-bdcb-d8df965fa706,pdf,tekst
 podlaskie,grajewski,Radziłów,gmina wiejska,2004032,2018,https://bip-ugradzilow.podlaskie.eu/resource/116871/Raport+o+stanie+Gminy+Radzi%25C5%2582%25C3%25B3w+w+2018+r..pdf,pdf,tekst
 podlaskie,grajewski,Radziłów,gmina wiejska,2004032,2019,https://bip-ugradzilow.podlaskie.eu/resource/117884/RAPORT+O+STANIE+GMINY+RADZI%25C5%2581%25C3%2593W+ZA+2019+ROK.pdf,pdf,tekst
@@ -1319,13 +1319,13 @@ podlaskie,moniecki,Mońki,gmina miejsko-wiejska,2008063,2022,https://bip-ummonki
 podlaskie,moniecki,Mońki,gmina miejsko-wiejska,2008063,2023,https://bip-ummonki.podlaskie.eu/resource/121304/Raport+wersja+ostateczna.pdf,pdf,tekst
 podlaskie,moniecki,Mońki,gmina miejsko-wiejska,2008063,2024,https://bip-ummonki.podlaskie.eu/resource/121740/RAPORT+O+STANIE+GMINY+MO%25C5%2583KI+ZA+ROK+2023.pdf,pdf,tekst
 podlaskie,moniecki,Mońki,gmina miejsko-wiejska,2008063,2025,https://bip-ummonki.podlaskie.eu/resource/122445/RAPORT+O+STANIE+GMINY+MO%25C5%2583KI+za+2025+r..pdf,pdf,tekst
-podlaskie,moniecki,Trzcianne,gmina wiejska,2008072,2018,NIEOSIAGALNY,NIEOSIAGALNY,NIEOSIAGALNY
-podlaskie,moniecki,Trzcianne,gmina wiejska,2008072,2019,NIEOSIAGALNY,NIEOSIAGALNY,NIEOSIAGALNY
-podlaskie,moniecki,Trzcianne,gmina wiejska,2008072,2020,NIEOSIAGALNY,NIEOSIAGALNY,NIEOSIAGALNY
-podlaskie,moniecki,Trzcianne,gmina wiejska,2008072,2021,NIEOSIAGALNY,NIEOSIAGALNY,NIEOSIAGALNY
-podlaskie,moniecki,Trzcianne,gmina wiejska,2008072,2022,NIEOSIAGALNY,NIEOSIAGALNY,NIEOSIAGALNY
-podlaskie,moniecki,Trzcianne,gmina wiejska,2008072,2023,https://bip-ugtrzcianne.podlaskie.eu/resource/116387/Gmina+Trzcianne+RAPORT+2024.pdf,pdf,tekst
-podlaskie,moniecki,Trzcianne,gmina wiejska,2008072,2024,https://bip-ugtrzcianne.podlaskie.eu/resource/116567/Raport+2024.pdf,pdf,tekst
+podlaskie,moniecki,Trzcianne,gmina wiejska,2008072,2018,brak,brak,brak
+podlaskie,moniecki,Trzcianne,gmina wiejska,2008072,2019,brak,brak,brak
+podlaskie,moniecki,Trzcianne,gmina wiejska,2008072,2020,brak,brak,brak
+podlaskie,moniecki,Trzcianne,gmina wiejska,2008072,2021,brak,brak,brak
+podlaskie,moniecki,Trzcianne,gmina wiejska,2008072,2022,brak,brak,brak
+podlaskie,moniecki,Trzcianne,gmina wiejska,2008072,2023,https://bip-ugtrzcianne.podlaskie.eu/resource/116387/Zarz%C4%85dzenie.Projekt.2024-05-28.pdf,pdf,tekst
+podlaskie,moniecki,Trzcianne,gmina wiejska,2008072,2024,https://bip-ugtrzcianne.podlaskie.eu/resource/116387/Gmina+Trzcianne+RAPORT+2024.pdf,pdf,tekst
 podlaskie,moniecki,Trzcianne,gmina wiejska,2008072,2025,https://bip-ugtrzcianne.podlaskie.eu/resource/116777/Rapory+o+stanie+Gminy+Trzcianne+za+2025+r..pdf,pdf,tekst
 podlaskie,siemiatycki,Drohiczyn,gmina miejsko-wiejska,2010023,2018,https://bip-umdrohiczyn.podlaskie.eu/resource/117996/Raport+o+stanie+Gminy+Drohiczyn+za+2018+rok.pdf,pdf,tekst
 podlaskie,siemiatycki,Drohiczyn,gmina miejsko-wiejska,2010023,2019,https://bip-umdrohiczyn.podlaskie.eu/resource/119175/Raport+o+stanie+Gminy+za+2019+pdf..pdf,pdf,tekst
@@ -1431,12 +1431,12 @@ podlaskie,sokólski,Krynki,gmina miejsko-wiejska,2011043,2022,https://bip-umkryn
 podlaskie,sokólski,Krynki,gmina miejsko-wiejska,2011043,2023,https://bip-umkrynki.podlaskie.eu/resource/7637/Zarz%C4%85dzenie.9.2024.2024-05-31.Raport+o+stanie+gminy.pdf,pdf,tekst
 podlaskie,sokólski,Krynki,gmina miejsko-wiejska,2011043,2024,https://bip-umkrynki.podlaskie.eu/resource/8034/Zarz%25C4%2585dzenie.110.2025.2025-05-29.raport.o.stanie.gminy.pdf,pdf,tekst
 podlaskie,sokólski,Krynki,gmina miejsko-wiejska,2011043,2025,https://bip-umkrynki.podlaskie.eu/resource/8344/Zarz%25C4%2585dzenie.186.2026.2026-05-27.raport.o.stanie.gminy.pdf,pdf,tekst
-podlaskie,sokólski,Kuźnica,gmina wiejska,2011052,2018,NIEOSIAGALNY,NIEOSIAGALNY,NIEOSIAGALNY
-podlaskie,sokólski,Kuźnica,gmina wiejska,2011052,2019,NIEOSIAGALNY,NIEOSIAGALNY,NIEOSIAGALNY
-podlaskie,sokólski,Kuźnica,gmina wiejska,2011052,2020,NIEOSIAGALNY,NIEOSIAGALNY,NIEOSIAGALNY
-podlaskie,sokólski,Kuźnica,gmina wiejska,2011052,2021,NIEOSIAGALNY,NIEOSIAGALNY,NIEOSIAGALNY
-podlaskie,sokólski,Kuźnica,gmina wiejska,2011052,2022,NIEOSIAGALNY,NIEOSIAGALNY,NIEOSIAGALNY
-podlaskie,sokólski,Kuźnica,gmina wiejska,2011052,2023,NIEOSIAGALNY,NIEOSIAGALNY,NIEOSIAGALNY
+podlaskie,sokólski,Kuźnica,gmina wiejska,2011052,2018,brak,brak,brak
+podlaskie,sokólski,Kuźnica,gmina wiejska,2011052,2019,brak,brak,brak
+podlaskie,sokólski,Kuźnica,gmina wiejska,2011052,2020,brak,brak,brak
+podlaskie,sokólski,Kuźnica,gmina wiejska,2011052,2021,brak,brak,brak
+podlaskie,sokólski,Kuźnica,gmina wiejska,2011052,2022,brak,brak,brak
+podlaskie,sokólski,Kuźnica,gmina wiejska,2011052,2023,brak,brak,brak
 podlaskie,sokólski,Kuźnica,gmina wiejska,2011052,2024,https://bip-ugkuznica.podlaskie.eu/resource/20528/RAPORT+O+STANIE+GMINY+KU%C5%B9NICA+ZA+2024+ROK.pdf,pdf,tekst
 podlaskie,sokólski,Kuźnica,gmina wiejska,2011052,2025,https://bip-ugkuznica.podlaskie.eu/resource/20705/Raport+o+stanie+gminy+Ku%C5%BAnica+za+2025+rok.pdf,pdf,tekst
 podlaskie,sokólski,Nowy Dwór,gmina wiejska,2011062,2018,https://bip-ugnowydwor.podlaskie.eu/resource/4875/zarzadzenie_19_35,pdf,tekst
@@ -1535,14 +1535,14 @@ podlaskie,wysokomazowiecki,Klukowo,gmina wiejska,2013042,2022,https://bip-ugkluk
 podlaskie,wysokomazowiecki,Klukowo,gmina wiejska,2013042,2023,https://bip-ugklukowo.podlaskie.eu/resource/116930/Raport+o+stanie+gminy+za+2023+r..pdf,pdf,tekst
 podlaskie,wysokomazowiecki,Klukowo,gmina wiejska,2013042,2024,https://bip-ugklukowo.podlaskie.eu/resource/117472/Raport+o+stanie+gminy+za+2024+r.pdf,pdf,tekst
 podlaskie,wysokomazowiecki,Klukowo,gmina wiejska,2013042,2025,https://bip-ugklukowo.podlaskie.eu/resource/117630/Raport+o+stanie+gminy+za+2025+rok.pdf,pdf,tekst
-podlaskie,wysokomazowiecki,Kobylin-Borzymy,gmina wiejska,2013052,2018,NIEOSIAGALNY,NIEOSIAGALNY,NIEOSIAGALNY
-podlaskie,wysokomazowiecki,Kobylin-Borzymy,gmina wiejska,2013052,2019,NIEOSIAGALNY,NIEOSIAGALNY,NIEOSIAGALNY
+podlaskie,wysokomazowiecki,Kobylin-Borzymy,gmina wiejska,2013052,2018,brak,brak,brak
+podlaskie,wysokomazowiecki,Kobylin-Borzymy,gmina wiejska,2013052,2019,brak,brak,brak
 podlaskie,wysokomazowiecki,Kobylin-Borzymy,gmina wiejska,2013052,2020,https://kobylinborzymy.biuletyn.net/fls/bip_pliki/2021_04/BIPOLD003703/3703.docx,docx,tekst
-podlaskie,wysokomazowiecki,Kobylin-Borzymy,gmina wiejska,2013052,2021,NIEOSIAGALNY,NIEOSIAGALNY,NIEOSIAGALNY
-podlaskie,wysokomazowiecki,Kobylin-Borzymy,gmina wiejska,2013052,2022,NIEOSIAGALNY,NIEOSIAGALNY,NIEOSIAGALNY
-podlaskie,wysokomazowiecki,Kobylin-Borzymy,gmina wiejska,2013052,2023,NIEOSIAGALNY,NIEOSIAGALNY,NIEOSIAGALNY
-podlaskie,wysokomazowiecki,Kobylin-Borzymy,gmina wiejska,2013052,2024,NIEOSIAGALNY,NIEOSIAGALNY,NIEOSIAGALNY
-podlaskie,wysokomazowiecki,Kobylin-Borzymy,gmina wiejska,2013052,2025,NIEOSIAGALNY,NIEOSIAGALNY,NIEOSIAGALNY
+podlaskie,wysokomazowiecki,Kobylin-Borzymy,gmina wiejska,2013052,2021,brak,brak,brak
+podlaskie,wysokomazowiecki,Kobylin-Borzymy,gmina wiejska,2013052,2022,brak,brak,brak
+podlaskie,wysokomazowiecki,Kobylin-Borzymy,gmina wiejska,2013052,2023,brak,brak,brak
+podlaskie,wysokomazowiecki,Kobylin-Borzymy,gmina wiejska,2013052,2024,brak,brak,brak
+podlaskie,wysokomazowiecki,Kobylin-Borzymy,gmina wiejska,2013052,2025,brak,brak,brak
 podlaskie,wysokomazowiecki,Kulesze Kościelne,gmina wiejska,2013062,2018,brak,brak,brak
 podlaskie,wysokomazowiecki,Kulesze Kościelne,gmina wiejska,2013062,2019,brak,brak,brak
 podlaskie,wysokomazowiecki,Kulesze Kościelne,gmina wiejska,2013062,2020,brak,brak,brak
@@ -1692,7 +1692,7 @@ podlaskie,łomżyński,Łomża,gmina wiejska,2007022,2019,https://www.gminalomza
 podlaskie,łomżyński,Łomża,gmina wiejska,2007022,2020,https://www.gminalomza.pl/bip/download.php?id=12996,pdf,tekst
 podlaskie,łomżyński,Łomża,gmina wiejska,2007022,2021,https://www.gminalomza.pl/bip/download.php?id=13941,pdf,tekst
 podlaskie,łomżyński,Łomża,gmina wiejska,2007022,2022,https://www.gminalomza.pl/bip/download.php?id=15017,pdf,tekst
-podlaskie,łomżyński,Łomża,gmina wiejska,2007022,2023,https://www.gminalomza.pl/bip/download.php?id=16181,pdf,tekst
+podlaskie,łomżyński,Łomża,gmina wiejska,2007022,2023,https://www.gminalomza.pl/bip/download.php?id=16139,pdf,tekst
 podlaskie,łomżyński,Łomża,gmina wiejska,2007022,2024,https://www.gminalomza.pl/bip/download.php?id=17726,pdf,tekst
 podlaskie,łomżyński,Łomża,gmina wiejska,2007022,2025,https://www.gminalomza.pl/bip/download.php?id=20031,pdf,tekst
 podlaskie,łomżyński,Śniadowo,gmina wiejska,2007072,2018,brak,brak,brak
@@ -2079,14 +2079,14 @@ warmińsko-mazurskie,szczycieński,Wielbark,gmina miejsko-wiejska,2817083,2022,h
 warmińsko-mazurskie,szczycieński,Wielbark,gmina miejsko-wiejska,2817083,2023,https://wielbark-ug.bip-wm.pl/public/getFile?id=387468,pdf,tekst
 warmińsko-mazurskie,szczycieński,Wielbark,gmina miejsko-wiejska,2817083,2024,https://wielbark-ug.bip-wm.pl/public/getFile?id=393308,pdf,tekst
 warmińsko-mazurskie,szczycieński,Wielbark,gmina miejsko-wiejska,2817083,2025,https://wielbark-ug.bip-wm.pl/public/getFile?id=397611,pdf,tekst
-warmińsko-mazurskie,szczycieński,Świętajno,gmina wiejska,2817072,2018,NIEOSIAGALNY,NIEOSIAGALNY,NIEOSIAGALNY
-warmińsko-mazurskie,szczycieński,Świętajno,gmina wiejska,2817072,2019,NIEOSIAGALNY,NIEOSIAGALNY,NIEOSIAGALNY
-warmińsko-mazurskie,szczycieński,Świętajno,gmina wiejska,2817072,2020,NIEOSIAGALNY,NIEOSIAGALNY,NIEOSIAGALNY
-warmińsko-mazurskie,szczycieński,Świętajno,gmina wiejska,2817072,2021,NIEOSIAGALNY,NIEOSIAGALNY,NIEOSIAGALNY
-warmińsko-mazurskie,szczycieński,Świętajno,gmina wiejska,2817072,2022,NIEOSIAGALNY,NIEOSIAGALNY,NIEOSIAGALNY
-warmińsko-mazurskie,szczycieński,Świętajno,gmina wiejska,2817072,2023,NIEOSIAGALNY,NIEOSIAGALNY,NIEOSIAGALNY
-warmińsko-mazurskie,szczycieński,Świętajno,gmina wiejska,2817072,2024,NIEOSIAGALNY,NIEOSIAGALNY,NIEOSIAGALNY
-warmińsko-mazurskie,szczycieński,Świętajno,gmina wiejska,2817072,2025,NIEOSIAGALNY,NIEOSIAGALNY,NIEOSIAGALNY
+warmińsko-mazurskie,szczycieński,Świętajno,gmina wiejska,2817072,2018,brak,brak,brak
+warmińsko-mazurskie,szczycieński,Świętajno,gmina wiejska,2817072,2019,brak,brak,brak
+warmińsko-mazurskie,szczycieński,Świętajno,gmina wiejska,2817072,2020,brak,brak,brak
+warmińsko-mazurskie,szczycieński,Świętajno,gmina wiejska,2817072,2021,brak,brak,brak
+warmińsko-mazurskie,szczycieński,Świętajno,gmina wiejska,2817072,2022,brak,brak,brak
+warmińsko-mazurskie,szczycieński,Świętajno,gmina wiejska,2817072,2023,brak,brak,brak
+warmińsko-mazurskie,szczycieński,Świętajno,gmina wiejska,2817072,2024,brak,brak,brak
+warmińsko-mazurskie,szczycieński,Świętajno,gmina wiejska,2817072,2025,brak,brak,brak
 warmińsko-mazurskie,węgorzewski,Budry,gmina wiejska,2819012,2018,https://bipbudry.warmia.mazury.pl/attachment/informacja/3253/3c3d317ccba524a1313d475658a61f56a6b53436.html,pdf,tekst
 warmińsko-mazurskie,węgorzewski,Budry,gmina wiejska,2819012,2019,https://bipbudry.warmia.mazury.pl/attachment/informacja/3254/3e7d04c73adb5c1a6d0820840c14adf6773e251f.html,pdf,tekst
 warmińsko-mazurskie,węgorzewski,Budry,gmina wiejska,2819012,2020,https://bipbudry.warmia.mazury.pl/attachment/informacja/3255/f1d31072e93a3b923eb19df79adb4fe4e1391642.html,pdf,tekst
