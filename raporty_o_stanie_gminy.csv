@@ -1,4 +1,4 @@
-﻿row_idx,województwo,powiat,gmina,typ gminy,TERYT,rok_raportu,status,ext_dokumentu,zawartosc,url,metoda_pozyskania,hash dokumentu,status komunikatu,dt_utc_finalne,failure_reason,file_size_MB
+row_idx,województwo,powiat,gmina,typ gminy,TERYT,rok_raportu,status,ext_dokumentu,zawartosc,url,metoda_pozyskania,hash dokumentu,status komunikatu,dt_utc_finalne,failure_reason,file_size_MB
 1,mazowieckie,ciechanowski,Ciechanów,gmina miejska,1402011,2018,ok_finalnie,pdf,tekst,"https://bip.umciechanow.pl/pliki/Raport-o-stanie-Gminy-,6374.pdf",direct_without_tor,9827cb2bd369b31ed6d46887e316975d08c48717622be29a38615b1e8cc22554,200,2026-08-21T10:41:48Z,,15.614
 2,mazowieckie,ciechanowski,Ciechanów,gmina miejska,1402011,2019,ok_finalnie,pdf,tekst,"https://bip.umciechanow.pl/pliki/Raport-o-stanie-Miasta-za-2019,8945.pdf",direct_without_tor,1f6c2e7ba7422d50933b7ffcab6edb7ae91dd3e4267c9cfd0174594fe8969288,200,2026-08-21T10:41:48Z,,8.367
 3,mazowieckie,ciechanowski,Ciechanów,gmina miejska,1402011,2020,ok_finalnie,pdf,tekst,"https://bip.umciechanow.pl/pliki/raport-o-stanie-miasta-za-2020,9327.pdf",direct_without_tor,e9f4a14fada4fe7da1b73b256076bf4140d3fe2e150fc19bcc61f46154ea16a3,200,2026-08-21T10:41:48Z,,7.949
@@ -2111,14 +2111,14 @@
 2110,warmińsko-mazurskie,węgorzewski,Węgorzewo,gmina miejsko-wiejska,2819033,2023,ok_finalnie,pdf,tekst,https://bip-v1-files.idcom-jst.pl/sites/47011/wiadomosci/756934/files/raport_o_stanie_gminy_wegorzewo_2023_roku.pdf,direct_without_tor,4fd08502362080fee4b154e017b25fb8a5be6fe073d7a801e8d535473043b3f5,200,2026-08-21T12:43:04Z,,0.832
 2111,warmińsko-mazurskie,węgorzewski,Węgorzewo,gmina miejsko-wiejska,2819033,2024,ok_finalnie,pdf,tekst,https://bip-v1-files.idcom-jst.pl/sites/47011/wiadomosci/825094/files/raport_o_stanie_gminy_wegorzewo_za_2024_rok-sig.pdf,direct_without_tor,e5b68af00e046127a12c7d7890af4edc38d537810dc301ae30a8249656ce4db8,200,2026-08-21T12:43:05Z,,1.297
 2112,warmińsko-mazurskie,węgorzewski,Węgorzewo,gmina miejsko-wiejska,2819033,2025,ok_finalnie,pdf,tekst,https://bip-v1-files.idcom-jst.pl/sites/47011/wiadomosci/886582/files/raport_o_stanie_gminy_za_2025.pdf,direct_without_tor,ae2076d82bf8050134732753d75d1f77452ff08e0812f54b53d298f255477f14,200,2026-08-21T12:43:06Z,,1.394
-2113,mazowieckie,ciechanowski,-,-,1402,2018,BRAK,,,,,,,,,
-2114,mazowieckie,ciechanowski,-,-,1402,2019,BRAK,,,,,,,,,
-2115,mazowieckie,ciechanowski,-,-,1402,2020,BRAK,,,,,,,,,
-2116,mazowieckie,ciechanowski,-,-,1402,2021,BRAK,,,,,,,,,
-2117,mazowieckie,ciechanowski,-,-,1402,2022,BRAK,,,,,,,,,
-2118,mazowieckie,ciechanowski,-,-,1402,2023,BRAK,,,,,,,,,
-2119,mazowieckie,ciechanowski,-,-,1402,2024,BRAK,,,,,,,,,
-2120,mazowieckie,ciechanowski,-,-,1402,2025,BRAK,,,,,,,,,
+2113,mazowieckie,ciechanowski,-,-,1402,2018,ok_finalnie,pdf,skan,https://archiwumbip.powiat-ciechanow.pl/pliki/stciechanow/raport_o_stanie_powiatu_za_2018_rokdb0c.pdf,direct_without_tor,a40bdc57ed1df1535b3d622641fecfd10eeebc55a74dfedacd2e84e938b80560,200,2026-08-26T20:56:00Z,,15.818
+2114,mazowieckie,ciechanowski,-,-,1402,2019,ok_finalnie,pdf,tekst,https://archiwumbip.powiat-ciechanow.pl/pliki/stciechanow/kwiecien_2020_uchwala_zarzadu_65_wraz_raportem_o_stanie_powiatu_ciechanowskiego_za_2019_rokdb0c.pdf,direct_without_tor,5a0b8261c764c6379118d0c794e1da6fe079910dc40d0fd76bbbb2f96ad5231c,200,2026-08-26T20:56:00Z,,2.257
+2115,mazowieckie,ciechanowski,-,-,1402,2020,ok_finalnie,pdf,tekst,https://archiwumbip.powiat-ciechanow.pl/pliki/stciechanow/kwiecien_2021_uchwala_zarzadu_56db0c.pdf,direct_without_tor,7e03723a0577d532735e3d91da4458777714aa395c5f41cea066b7f7c8608d3a,200,2026-08-26T20:56:00Z,,3.093
+2116,mazowieckie,ciechanowski,-,-,1402,2021,ok_finalnie,pdf,tekst,https://archiwumbip.powiat-ciechanow.pl/pliki/stciechanow/kwiecien_2022_uchwala_zarzadu_56_wraz_z_raportem_o_stanie_powiatu_ciechanowskiego_za_2021_rokdb0c.pdf,direct_without_tor,a672a7f146bc1587ce060aebbc4941038d1a2efb26d05ea67ab2d5be0ca18685,200,2026-08-26T20:56:00Z,,3.742
+2117,mazowieckie,ciechanowski,-,-,1402,2022,ok_finalnie,pdf,tekst,https://archiwumbip.powiat-ciechanow.pl/pliki/stciechanow/kwiecien_2023_uchwala_zarzadu_57_wraz_z_raportem_o_stanie_powiatu_ciechanowskiego_za_2022_rokdb0c.pdf,direct_without_tor,edc1347528e199a0508ff71b5010c4767177cfaea12a312faf0edcf14add1f66,200,2026-08-26T20:56:00Z,,1.821
+2118,mazowieckie,ciechanowski,-,-,1402,2023,ok_finalnie,pdf,tekst,https://bip.powiat-ciechanow.pl/sites/bip.powiat-ciechanow.pl/files/2024/04/1410/kwiecien_2024_raport_o_stanie_powiatu_ciechanowskiego_za_2023_rok_raport_0.pdf,direct_without_tor,c4a13c89007fcd767c99ba6ab7ed4ec4291dc8ffe37ff8a39cbb34fef3028a1c,200,2026-08-26T20:56:00Z,,0.987
+2119,mazowieckie,ciechanowski,-,-,1402,2024,ok_finalnie,pdf,tekst,https://bip.powiat-ciechanow.pl/sites/bip.powiat-ciechanow.pl/files/2025/04/2927/kwiecien_2025_raport_o_stanie_powiatu_ciechanowskiego_za_2024_rok_raport.pdf,direct_without_tor,5e073271e50b7a4812c37031ba0abcb66e758778f796fe1da420052a500c49f0,200,2026-08-26T20:56:00Z,,4.958
+2120,mazowieckie,ciechanowski,-,-,1402,2025,ok_finalnie,pdf,tekst,https://bip.powiat-ciechanow.pl/sites/bip.powiat-ciechanow.pl/files/2026/04/4443/kwiecien_2026_raport_o_stanie_powiatu_ciechanowskiego_za_2025_rok_raport.pdf,direct_without_tor,8170a7b7fee0897ea59b84d15813cf45919c8f7c0d0656b4413d36e109baa63b,200,2026-08-26T20:56:00Z,,2.43
 2121,mazowieckie,m. Ostrołęka,-,-,1461,2018,ok_finalnie,pdf,tekst,https://bip.um.ostroleka.pl/attachments/download/9390,direct_without_tor [m.n.p.p.: w mieście na prawach powiatu 'raport o stanie miasta' Prezydenta przedstawiany Radzie Miasta ( pełniącej jednocześnie funkcję Rady Powiatu) realizuje wymóg art. 92bb u.s.p.; ten sam dokument co w wiersz gminny],e86a89489111c58d01ccf66883e48da6568d7a0707c7af1d85afb807f4d0b024,200,,Dokument 'raport o stanie Ostrołęka' za 2018 r. (wiersz gminny 1461011) pełni funkcję raportu o stanie powiatu (m.n.p.p.).,4.74
 2122,mazowieckie,m. Ostrołęka,-,-,1461,2019,ok_finalnie,pdf,tekst,https://bip.um.ostroleka.pl/attachments/download/12753,direct_without_tor [m.n.p.p.: w mieście na prawach powiatu 'raport o stanie miasta' Prezydenta przedstawiany Radzie Miasta ( pełniącej jednocześnie funkcję Rady Powiatu) realizuje wymóg art. 92bb u.s.p.; ten sam dokument co w wiersz gminny],0906e59fcec0bef525db4f4c33025b218bb826572219838c7f347eb8982838ad,200,,Dokument 'raport o stanie Ostrołęka' za 2019 r. (wiersz gminny 1461011) pełni funkcję raportu o stanie powiatu (m.n.p.p.).,1.561
 2123,mazowieckie,m. Ostrołęka,-,-,1461,2020,ok_finalnie,pdf,tekst,https://bip.um.ostroleka.pl/attachments/download/16099,direct_without_tor [m.n.p.p.: w mieście na prawach powiatu 'raport o stanie miasta' Prezydenta przedstawiany Radzie Miasta ( pełniącej jednocześnie funkcję Rady Powiatu) realizuje wymóg art. 92bb u.s.p.; ten sam dokument co w wiersz gminny],fdf4e6aece2250c12ac388e6ac7a12d2e289745c253d3d6d411450657153251e,200,,Dokument 'raport o stanie Ostrołęka' za 2020 r. (wiersz gminny 1461011) pełni funkcję raportu o stanie powiatu (m.n.p.p.).,1.424
@@ -2135,102 +2135,102 @@
 2134,mazowieckie,m. Siedlce,-,-,1464,2023,ok_finalnie,pdf,tekst,https://www.bip.siedlce.pl/bip/89_umsiedlce/fckeditor/file/Raport%20o%20stanie%20miasta%20Siedlcv/2023//Raport_o_stanie_miasta_za_2023.pdf,direct_without_tor_ssl_off [m.n.p.p.: w mieście na prawach powiatu 'raport o stanie miasta' Prezydenta przedstawiany Radzie Miasta ( pełniącej jednocześnie funkcję Rady Powiatu) realizuje wymóg art. 92bb u.s.p.; ten sam dokument co w wiersz gminny],f622d08df6a74b517f26f31925661f7a42d88556aaa7642c2e41446a7ff4df4f,200,,Dokument 'raport o stanie Siedlce' za 2023 r. (wiersz gminny 1464011) pełni funkcję raportu o stanie powiatu (m.n.p.p.).,4.065
 2135,mazowieckie,m. Siedlce,-,-,1464,2024,ok_finalnie,pdf,tekst,https://www.bip.siedlce.pl/bip/89_umsiedlce/fckeditor/file/2025/raport%20o%20stanie%20miasta/RAPORT%20O%20STANIE%20MIASTA%20W%202024%20ROKU.pdf,direct_without_tor_ssl_off [m.n.p.p.: w mieście na prawach powiatu 'raport o stanie miasta' Prezydenta przedstawiany Radzie Miasta ( pełniącej jednocześnie funkcję Rady Powiatu) realizuje wymóg art. 92bb u.s.p.; ten sam dokument co w wiersz gminny],6bccacfe661ec2ea9547fdd9fdf7006435e6859fe300f12cada51b389baf41af,200,,Dokument 'raport o stanie Siedlce' za 2024 r. (wiersz gminny 1464011) pełni funkcję raportu o stanie powiatu (m.n.p.p.).,5.108
 2136,mazowieckie,m. Siedlce,-,-,1464,2025,ok_finalnie,pdf,tekst,https://bip.siedlce.pl/bip/89_umsiedlce/fckeditor/file/2026/Raport%20o%20stanie%20miasta%202025/RAPORT_2025.pdf,direct_without_tor [m.n.p.p.: w mieście na prawach powiatu 'raport o stanie miasta' Prezydenta przedstawiany Radzie Miasta ( pełniącej jednocześnie funkcję Rady Powiatu) realizuje wymóg art. 92bb u.s.p.; ten sam dokument co w wiersz gminny],9c5940f468bcb2645c9538a62b3e0ca68f9f37f652705a6dfb1d79dbbfef85af,200,,Dokument 'raport o stanie Siedlce' za 2025 r. (wiersz gminny 1464011) pełni funkcję raportu o stanie powiatu (m.n.p.p.).,9.697
-2137,mazowieckie,makowski,-,-,1411,2018,BRAK,,,,,,,,,
-2138,mazowieckie,makowski,-,-,1411,2019,BRAK,,,,,,,,,
-2139,mazowieckie,makowski,-,-,1411,2020,BRAK,,,,,,,,,
-2140,mazowieckie,makowski,-,-,1411,2021,BRAK,,,,,,,,,
-2141,mazowieckie,makowski,-,-,1411,2022,BRAK,,,,,,,,,
-2142,mazowieckie,makowski,-,-,1411,2023,BRAK,,,,,,,,,
-2143,mazowieckie,makowski,-,-,1411,2024,BRAK,,,,,,,,,
-2144,mazowieckie,makowski,-,-,1411,2025,BRAK,,,,,,,,,
-2145,mazowieckie,mławski,-,-,1413,2018,BRAK,,,,,,,,,
-2146,mazowieckie,mławski,-,-,1413,2019,BRAK,,,,,,,,,
-2147,mazowieckie,mławski,-,-,1413,2020,BRAK,,,,,,,,,
-2148,mazowieckie,mławski,-,-,1413,2021,BRAK,,,,,,,,,
-2149,mazowieckie,mławski,-,-,1413,2022,BRAK,,,,,,,,,
-2150,mazowieckie,mławski,-,-,1413,2023,BRAK,,,,,,,,,
-2151,mazowieckie,mławski,-,-,1413,2024,BRAK,,,,,,,,,
-2152,mazowieckie,mławski,-,-,1413,2025,BRAK,,,,,,,,,
-2153,mazowieckie,ostrowski,-,-,1416,2018,BRAK,,,,,,,,,
-2154,mazowieckie,ostrowski,-,-,1416,2019,BRAK,,,,,,,,,
-2155,mazowieckie,ostrowski,-,-,1416,2020,BRAK,,,,,,,,,
-2156,mazowieckie,ostrowski,-,-,1416,2021,BRAK,,,,,,,,,
-2157,mazowieckie,ostrowski,-,-,1416,2022,BRAK,,,,,,,,,
-2158,mazowieckie,ostrowski,-,-,1416,2023,BRAK,,,,,,,,,
-2159,mazowieckie,ostrowski,-,-,1416,2024,BRAK,,,,,,,,,
-2160,mazowieckie,ostrowski,-,-,1416,2025,BRAK,,,,,,,,,
-2161,mazowieckie,ostrołęcki,-,-,1415,2018,BRAK,,,,,,,,,
-2162,mazowieckie,ostrołęcki,-,-,1415,2019,BRAK,,,,,,,,,
-2163,mazowieckie,ostrołęcki,-,-,1415,2020,BRAK,,,,,,,,,
-2164,mazowieckie,ostrołęcki,-,-,1415,2021,BRAK,,,,,,,,,
-2165,mazowieckie,ostrołęcki,-,-,1415,2022,BRAK,,,,,,,,,
-2166,mazowieckie,ostrołęcki,-,-,1415,2023,BRAK,,,,,,,,,
-2167,mazowieckie,ostrołęcki,-,-,1415,2024,BRAK,,,,,,,,,
-2168,mazowieckie,ostrołęcki,-,-,1415,2025,BRAK,,,,,,,,,
-2169,mazowieckie,przasnyski,-,-,1422,2018,BRAK,,,,,,,,,
-2170,mazowieckie,przasnyski,-,-,1422,2019,BRAK,,,,,,,,,
-2171,mazowieckie,przasnyski,-,-,1422,2020,BRAK,,,,,,,,,
-2172,mazowieckie,przasnyski,-,-,1422,2021,BRAK,,,,,,,,,
-2173,mazowieckie,przasnyski,-,-,1422,2022,BRAK,,,,,,,,,
-2174,mazowieckie,przasnyski,-,-,1422,2023,BRAK,,,,,,,,,
-2175,mazowieckie,przasnyski,-,-,1422,2024,BRAK,,,,,,,,,
-2176,mazowieckie,przasnyski,-,-,1422,2025,BRAK,,,,,,,,,
-2177,mazowieckie,pułtuski,-,-,1424,2018,BRAK,,,,,,,,,
-2178,mazowieckie,pułtuski,-,-,1424,2019,BRAK,,,,,,,,,
-2179,mazowieckie,pułtuski,-,-,1424,2020,BRAK,,,,,,,,,
-2180,mazowieckie,pułtuski,-,-,1424,2021,BRAK,,,,,,,,,
-2181,mazowieckie,pułtuski,-,-,1424,2022,BRAK,,,,,,,,,
-2182,mazowieckie,pułtuski,-,-,1424,2023,BRAK,,,,,,,,,
-2183,mazowieckie,pułtuski,-,-,1424,2024,BRAK,,,,,,,,,
-2184,mazowieckie,pułtuski,-,-,1424,2025,BRAK,,,,,,,,,
-2185,mazowieckie,płoński,-,-,1420,2018,BRAK,,,,,,,,,
-2186,mazowieckie,płoński,-,-,1420,2019,BRAK,,,,,,,,,
-2187,mazowieckie,płoński,-,-,1420,2020,BRAK,,,,,,,,,
-2188,mazowieckie,płoński,-,-,1420,2021,BRAK,,,,,,,,,
-2189,mazowieckie,płoński,-,-,1420,2022,BRAK,,,,,,,,,
-2190,mazowieckie,płoński,-,-,1420,2023,BRAK,,,,,,,,,
-2191,mazowieckie,płoński,-,-,1420,2024,BRAK,,,,,,,,,
-2192,mazowieckie,płoński,-,-,1420,2025,BRAK,,,,,,,,,
-2193,mazowieckie,siedlecki,-,-,1426,2018,BRAK,,,,,,,,,
-2194,mazowieckie,siedlecki,-,-,1426,2019,BRAK,,,,,,,,,
-2195,mazowieckie,siedlecki,-,-,1426,2020,BRAK,,,,,,,,,
-2196,mazowieckie,siedlecki,-,-,1426,2021,BRAK,,,,,,,,,
-2197,mazowieckie,siedlecki,-,-,1426,2022,BRAK,,,,,,,,,
-2198,mazowieckie,siedlecki,-,-,1426,2023,BRAK,,,,,,,,,
-2199,mazowieckie,siedlecki,-,-,1426,2024,BRAK,,,,,,,,,
-2200,mazowieckie,siedlecki,-,-,1426,2025,BRAK,,,,,,,,,
-2201,mazowieckie,sokołowski,-,-,1429,2018,BRAK,,,,,,,,,
-2202,mazowieckie,sokołowski,-,-,1429,2019,BRAK,,,,,,,,,
-2203,mazowieckie,sokołowski,-,-,1429,2020,BRAK,,,,,,,,,
-2204,mazowieckie,sokołowski,-,-,1429,2021,BRAK,,,,,,,,,
-2205,mazowieckie,sokołowski,-,-,1429,2022,BRAK,,,,,,,,,
-2206,mazowieckie,sokołowski,-,-,1429,2023,BRAK,,,,,,,,,
-2207,mazowieckie,sokołowski,-,-,1429,2024,BRAK,,,,,,,,,
-2208,mazowieckie,sokołowski,-,-,1429,2025,BRAK,,,,,,,,,
-2209,mazowieckie,wyszkowski,-,-,1435,2018,BRAK,,,,,,,,,
-2210,mazowieckie,wyszkowski,-,-,1435,2019,BRAK,,,,,,,,,
-2211,mazowieckie,wyszkowski,-,-,1435,2020,BRAK,,,,,,,,,
-2212,mazowieckie,wyszkowski,-,-,1435,2021,BRAK,,,,,,,,,
-2213,mazowieckie,wyszkowski,-,-,1435,2022,BRAK,,,,,,,,,
-2214,mazowieckie,wyszkowski,-,-,1435,2023,BRAK,,,,,,,,,
-2215,mazowieckie,wyszkowski,-,-,1435,2024,BRAK,,,,,,,,,
-2216,mazowieckie,wyszkowski,-,-,1435,2025,BRAK,,,,,,,,,
-2217,mazowieckie,węgrowski,-,-,1433,2018,BRAK,,,,,,,,,
-2218,mazowieckie,węgrowski,-,-,1433,2019,BRAK,,,,,,,,,
-2219,mazowieckie,węgrowski,-,-,1433,2020,BRAK,,,,,,,,,
-2220,mazowieckie,węgrowski,-,-,1433,2021,BRAK,,,,,,,,,
-2221,mazowieckie,węgrowski,-,-,1433,2022,BRAK,,,,,,,,,
-2222,mazowieckie,węgrowski,-,-,1433,2023,BRAK,,,,,,,,,
-2223,mazowieckie,węgrowski,-,-,1433,2024,BRAK,,,,,,,,,
-2224,mazowieckie,węgrowski,-,-,1433,2025,BRAK,,,,,,,,,
-2225,mazowieckie,łosicki,-,-,1410,2018,BRAK,,,,,,,,,
-2226,mazowieckie,łosicki,-,-,1410,2019,BRAK,,,,,,,,,
-2227,mazowieckie,łosicki,-,-,1410,2020,BRAK,,,,,,,,,
-2228,mazowieckie,łosicki,-,-,1410,2021,BRAK,,,,,,,,,
-2229,mazowieckie,łosicki,-,-,1410,2022,BRAK,,,,,,,,,
-2230,mazowieckie,łosicki,-,-,1410,2023,BRAK,,,,,,,,,
-2231,mazowieckie,łosicki,-,-,1410,2024,BRAK,,,,,,,,,
-2232,mazowieckie,łosicki,-,-,1410,2025,BRAK,,,,,,,,,
+2137,mazowieckie,makowski,-,-,1411,2018,ok_finalnie,pdf,tekst,https://samorzad.gov.pl/attachment/1600e87c-73b4-4d0a-888d-4ec520b1be1f,direct_without_tor,27db7271985bc7c3c6a82ee845a78e864965a0fc0dbf88ea4b5ed828249ce3ba,200,2026-08-26T20:40:00Z,,4.613
+2138,mazowieckie,makowski,-,-,1411,2019,ok_finalnie,pdf,tekst,https://samorzad.gov.pl/attachment/71371dbc-5a22-4e52-8216-418060b88d19,direct_without_tor,11fc6e612b6330d57fd2674743e9262631041b0b2812beea24d1635379eebf03,200,2026-08-26T20:40:00Z,,12.098
+2139,mazowieckie,makowski,-,-,1411,2020,ok_finalnie,pdf,tekst,https://samorzad.gov.pl/attachment/566a1258-3002-4852-83dd-9de4fa0f7866,direct_without_tor,c8b65454dd750a84fcaaa704a3ad65592971c6ed5dcadb0f83458c7e70079d7f,200,2026-08-26T20:40:00Z,,6.942
+2140,mazowieckie,makowski,-,-,1411,2021,ok_finalnie,pdf,tekst,https://samorzad.gov.pl/attachment/a727a7a6-7e3f-4ffa-9ecd-4457cbefb61b,direct_without_tor,247c6f202ac23051a85471702b2c5d2efada091137c915d7ef45d3c1a695b395,200,2026-08-26T20:40:00Z,,9.654
+2141,mazowieckie,makowski,-,-,1411,2022,ok_finalnie,pdf,tekst,https://samorzad.gov.pl/attachment/f8b1b8cc-926a-444a-8f19-10fdd7d5dca4,direct_without_tor,491c931d8111f8b58702e1b216f8871b5d8073fdfa9d1f7dee7b834bf278cb2d,200,2026-08-26T20:40:00Z,,9.179
+2142,mazowieckie,makowski,-,-,1411,2023,ok_finalnie,pdf,tekst,https://samorzad.gov.pl/attachment/491db246-e243-4ba9-a92e-b67ba29635a6,direct_without_tor,bb905274cc8ea30b98654b5f19d02c39e1815b061d8f112008218b7abdcca096,200,2026-08-26T20:40:00Z,,11.832
+2143,mazowieckie,makowski,-,-,1411,2024,ok_finalnie,pdf,tekst,https://samorzad.gov.pl/attachment/c529abc9-6fcf-4c25-8f95-f26e16239ca5,direct_without_tor,3900bd54f4af7ce3b35bd60d817f0ce9e1e22fe613ed86e6ba1ea5316f34e1af,200,2026-08-26T20:40:00Z,,13.227
+2144,mazowieckie,makowski,-,-,1411,2025,ok_finalnie,pdf,tekst,https://samorzad.gov.pl/attachment/5dd95a51-d7ce-4545-9f0b-3e9164b6206c,direct_without_tor,07c9272c4855657a20262ffe84c3321967ae104db9474c72d2f2d57104df06e7,200,2026-08-26T20:40:00Z,,11.218
+2145,mazowieckie,mławski,-,-,1413,2018,ok_finalnie,pdf,tekst,"https://www.bip.powiatmlawski.pl/plik,22808,zalacznik-do-uchwaly-nr-142-2019-zarzadu-powiatu-mlawskiego.pdf",direct_without_tor,0c6788465cbd6d5f16360dba7b4f0b7909840ba4e266f7972f1192950f3134ad,200,2026-08-26T20:45:00Z,,1.248
+2146,mazowieckie,mławski,-,-,1413,2019,ok_finalnie,docx,tekst,"https://www.bip.powiatmlawski.pl/plik,24261,zalacznik-do-uchwaly-412-2020-zarzadu-powiatu-mlawskiego.docx",direct_without_tor,98eca5473d72a4bac0669cf079c2c9443cd7caf2aac9b6837b4ceb8f43358efe,200,2026-08-26T20:45:00Z,,0.608
+2147,mazowieckie,mławski,-,-,1413,2020,ok_finalnie,pdf,tekst,"https://www.bip.powiatmlawski.pl/plik,25872,zalacznik-do-uchwaly.pdf",direct_without_tor,7247b5dc94b5d316fd7e7114dfca74d617116e9e6196ecd330827ccc9877d15c,200,2026-08-26T20:45:00Z,,1.508
+2148,mazowieckie,mławski,-,-,1413,2021,ok_finalnie,pdf,tekst,"https://www.bip.powiatmlawski.pl/plik,27489,zalacznik-do-uchwaly.pdf",direct_without_tor,c54359f9c5572dfe8203482c28fa20cd6efa0e89b0eb6a81d7f4f863bad0a847,200,2026-08-26T20:45:00Z,,1.707
+2149,mazowieckie,mławski,-,-,1413,2022,ok_finalnie,pdf,tekst,"https://www.bip.powiatmlawski.pl/plik,29258,zalacznik-do-uchwaly.pdf",direct_without_tor,a0ac44a1e34827fa42cdcbd50fc5d64659d6a01f65531301770b10770a697699,200,2026-08-26T20:45:00Z,,2.251
+2150,mazowieckie,mławski,-,-,1413,2023,ok_finalnie,pdf,tekst,"https://www.bip.powiatmlawski.pl/plik,30959,raport-o-stanie-powiatu-mlawskiego-za-2023-rok.pdf",direct_without_tor,717d233dc3acf193fbf001a795b6f4834d1dfd084cf43902c9e3ab12a9ad7638,200,2026-08-26T20:45:00Z,,2.248
+2151,mazowieckie,mławski,-,-,1413,2024,ok_finalnie,pdf,tekst,"https://www.bip.powiatmlawski.pl/plik,33204,raport-o-stanie-powiatu-mlawskiego-za-2024-pdf.pdf",direct_without_tor,384335c5cf24070c1302fb10bc0d5b8ee455d8b13ad254af948fd36191ea2623,200,2026-08-26T20:45:00Z,,4.036
+2152,mazowieckie,mławski,-,-,1413,2025,ok_finalnie,pdf,tekst,"https://www.bip.powiatmlawski.pl/plik,35153,raport-o-stanie-powiatu-mlawskiego-za-2025-rok.pdf",direct_without_tor,beab64e1ca01e0fdb54a0000eeddf784d5b60472043ed7f2f4d4726fde555076,200,2026-08-26T20:45:00Z,,5.336
+2153,mazowieckie,ostrowski,-,-,1416,2018,ok_finalnie,pdf,tekst,https://cms-v2-files.idcom-jst.pl/sites/96/cms/szablony/4756/pliki/u_68_25_2019.pdf,direct_without_tor,8e26d70a6bb6cedcbf7cf37e39a5b8b771ac5fc5f7dfa1ac4d176eb44945ddbd,200,2026-08-26T21:45:00Z,,1.703
+2154,mazowieckie,ostrowski,-,-,1416,2019,ok_finalnie,pdf,tekst,https://cms-v2-files.idcom-jst.pl/sites/96/cms/szablony/4756/pliki/u_233_90_2020.pdf,direct_without_tor,4eeb9da11b41aff0c066d8095ce44ebeab49374e2818231a54e0e8e3c8d6d80d,200,2026-08-26T21:45:00Z,,2.591
+2155,mazowieckie,ostrowski,-,-,1416,2020,ok_finalnie,pdf,tekst,https://cms-v2-files.idcom-jst.pl/sites/96/cms/szablony/4756/pliki/u_zp_378_141_2021.pdf,direct_without_tor,f9bd951326deb12bf45d40973ff650e6913eae6d2199071ab3ec9d2476ed3823,200,2026-08-26T21:45:00Z,,8.763
+2156,mazowieckie,ostrowski,-,-,1416,2021,ok_finalnie,pdf,tekst,https://cms-v2-files.idcom-jst.pl/sites/96/cms/szablony/4756/pliki/u_zp_518_187_2022_1.pdf,direct_without_tor,fcdb9908916086c7deef4bf1e42099239e20be460f11553c47f39b06e441efcd,200,2026-08-26T21:45:00Z,,4.487
+2157,mazowieckie,ostrowski,-,-,1416,2022,ok_finalnie,pdf,tekst,https://cms-v2-files.idcom-jst.pl/sites/96/cms/szablony/4756/pliki/u_zp_647_236_2023.pdf,direct_without_tor,07a8cae51efa5feedcbf12ad646fedf2622091a5482fb40364c420862f46ba73,200,2026-08-26T21:45:00Z,,2.235
+2158,mazowieckie,ostrowski,-,-,1416,2023,ok_finalnie,pdf,tekst,https://cms-v2-files.idcom-jst.pl/sites/96/cms/szablony/4756/pliki/u_zp_u_zp_u_zp_u_zp_7_2_2024.pdf,direct_without_tor,f69a4d108515edc05ee926450c092a5b03a32401d80aed69efdd6197b5282ce3,200,2026-08-26T21:45:00Z,,4.854
+2159,mazowieckie,ostrowski,-,-,1416,2024,ok_finalnie,pdf,tekst,https://cms-v2-files.idcom-jst.pl/sites/96/wiadomosci/115166/files/4._raport_o_stanie_powiatu_ostrowskiego.pdf,direct_without_tor,d5e2227df663b5aae48a66f5c4a88f5e7023df3702efbebd0dd11fafe6e8390d,200,2026-08-26T21:45:00Z,,3.766
+2160,mazowieckie,ostrowski,-,-,1416,2025,ok_finalnie,pdf,tekst,https://bip-v1-files.idcom-jst.pl/sites/47311/wiadomosci/885211/files/u_zp_251_98_2026.pdf,direct_without_tor,01452fef07811c5c3dcea86e1fca56a3507aa054cb35342fd563595ed9177953,200,2026-08-27T07:06:00Z,,3.952
+2161,mazowieckie,ostrołęcki,-,-,1415,2018,ok_finalnie,pdf,tekst,https://bip.powiatostrolecki.pl/download/attachment/539/raport-o-stanie-powiatu-2018.pdf,direct_without_tor,ca2a683afff2128aa9b2e35c29ff23cf7dc74fbb61d040fb0cb3e6ac7daa43cf,200,2026-08-26T21:45:00Z,,2.791
+2162,mazowieckie,ostrołęcki,-,-,1415,2019,ok_finalnie,pdf,tekst,https://bip.powiatostrolecki.pl/download/attachment/541/raport-o-stanie-powiatu-2019.pdf,direct_without_tor,5c354e57eacb959b7265b18fc6e2f3590576781884ce4b93d923359e66268950,200,2026-08-26T21:45:00Z,,4.523
+2163,mazowieckie,ostrołęcki,-,-,1415,2020,ok_finalnie,pdf,tekst,https://bip.powiatostrolecki.pl/download/attachment/2294/raport-o-stanie-powiatu-2020.pdf,direct_without_tor,12e679d076a665cb5e972dd9256760d8cd6e604813ee0b1ac978a432b182f3f1,200,2026-08-26T21:45:00Z,,3.183
+2164,mazowieckie,ostrołęcki,-,-,1415,2021,ok_finalnie,pdf,tekst,https://bip.powiatostrolecki.pl/download/attachment/8922/raport-o-stanie-powiatu-2021.pdf,direct_without_tor,260c78f8757068fe518403aa9224960a422eda641b608a91e8b5da30742d420d,200,2026-08-26T21:45:00Z,,5.291
+2165,mazowieckie,ostrołęcki,-,-,1415,2022,ok_finalnie,pdf,tekst,https://bip.powiatostrolecki.pl/download/attachment/12011/raport-o-stanie-powiatu-2022.pdf,direct_without_tor,4a8c146bb07985944fddb2448490fd10f7cf3c77f3be7d08e0aec0ea5b7988d9,200,2026-08-26T21:45:00Z,,6.874
+2166,mazowieckie,ostrołęcki,-,-,1415,2023,ok_finalnie,pdf,tekst,https://bip.powiatostrolecki.pl/download/attachment/16918/raport-o-stanie-powiatu-2023.pdf,direct_without_tor,3990d52ec843f83a90c649e377368437f6ea55e39da4b489dece8646e248779f,200,2026-08-26T21:45:00Z,,5.881
+2167,mazowieckie,ostrołęcki,-,-,1415,2024,ok_finalnie,pdf,tekst,https://bip.powiatostrolecki.pl/download/attachment/20761/raport-o-stanie-powiatu-2024.pdf,direct_without_tor,20035a984cac51dd1bfabb2a2aabe5ed5bdd6489fea09182bf9793c5bb27c807,200,2026-08-26T21:45:00Z,,2.142
+2168,mazowieckie,ostrołęcki,-,-,1415,2025,ok_finalnie,pdf,tekst,https://bip.powiatostrolecki.pl/download/attachment/23087/raport-o-stanie-powiatu-2025.pdf,direct_without_tor,0d93a88460f1c922433551f1086e91663981a1a840e3c6492d904e58af579a82,200,2026-08-26T21:45:00Z,,4.015
+2169,mazowieckie,przasnyski,-,-,1422,2018,ok_finalnie,pdf,tekst,"https://bip.powiat-przasnysz.pl/e,pobierz,get.html?id=29766",direct_without_tor,695e7a65a4202e315017e75a747e6edf66c93db18a5fbe9157cac6fb3f48ca41,200,2026-08-26T21:24:00Z,,1.355
+2170,mazowieckie,przasnyski,-,-,1422,2019,ok_finalnie,pdf,tekst,"https://bip.powiat-przasnysz.pl/e,pobierz,get.html?id=29764",direct_without_tor,89a9be292a35fbff2fc0527fb91b3afd07774a494ef2fc31149a24aa08b23685,200,2026-08-26T21:24:00Z,,31.063
+2171,mazowieckie,przasnyski,-,-,1422,2020,ok_finalnie,pdf,tekst,"https://bip.powiat-przasnysz.pl/e,pobierz,get.html?id=29759",direct_without_tor,616a1b798f47f120091ccca2a72e83adbfe05a70cbf85569bb245a7f42fb56b1,200,2026-08-26T21:24:00Z,,3.92
+2172,mazowieckie,przasnyski,-,-,1422,2021,ok_finalnie,doc,tekst,"https://bip.powiat-przasnysz.pl/e,pobierz,get.html?id=29751",direct_without_tor,650869e92712c53ce9fd5cb51453fc72699e0e75e93a3482311477c63d479571,200,2026-08-26T21:24:00Z,,22.843
+2173,mazowieckie,przasnyski,-,-,1422,2022,ok_finalnie,pdf,tekst,"https://bip.powiat-przasnysz.pl/e,pobierz,get.html?id=36474",direct_without_tor,0fbb52e9a92f20aa927a735dbb48c4e6d254fcc0fad93679f4658c4fdf95ecf6,200,2026-08-26T21:24:00Z,,4.734
+2174,mazowieckie,przasnyski,-,-,1422,2023,ok_finalnie,pdf,tekst,"https://bip.powiat-przasnysz.pl/e,pobierz,get.html?id=38772",direct_without_tor,0f5f3ffe3c4fce81d9a47db1fa702eb36da191681e8f945b29399b3aca30ffa8,200,2026-08-26T21:24:00Z,,4.143
+2175,mazowieckie,przasnyski,-,-,1422,2024,ok_finalnie,pdf,tekst,"https://bip.powiat-przasnysz.pl/e,pobierz,get.html?id=40492",direct_without_tor,8b1dd5a4bd346582b61104cc690d092b0a77d4d62ca513aca5c3e13c5d096a4f,200,2026-08-26T21:24:00Z,,4.568
+2176,mazowieckie,przasnyski,-,-,1422,2025,ok_finalnie,pdf,tekst,"https://bip.powiat-przasnysz.pl/e,pobierz,get.html?id=42253",direct_without_tor,7315f9317f6903ab2f20c3b937eee907a644d61d721371045c9b3aefde3632b0,200,2026-08-26T21:24:00Z,,70.549
+2177,mazowieckie,pułtuski,-,-,1424,2018,ok_finalnie,pdf,skan,https://bip.powiatpultuski.pl/pliki/starostwopultusk/raport_o_stanie_powiatu_pultuskiego_za_rok_2018.pdf,direct_without_tor,1ef9f1ecca4ec1cf36e79c1a5b30e33d76e945b543a18cee300338fc71881ac5,200,2026-08-26T21:45:00Z,,20.401
+2178,mazowieckie,pułtuski,-,-,1424,2019,ok_finalnie,pdf,tekst,https://bip.powiatpultuski.pl/pliki/starostwopultusk/uchwala_nr_295-2020_zarzadu_powiatu_w_pultusku_z_dnia_9_czerwca_2020r.-scalone.pdf,direct_without_tor,6646b72b80c0acbc8fa29be07992a9d356a192fd4a99342e93668f638d1cad16,200,2026-08-26T21:45:00Z,,2.182
+2179,mazowieckie,pułtuski,-,-,1424,2020,ok_finalnie,pdf,skan,https://bip.powiatpultuski.pl/pliki/starostwopultusk/uchwala_nr_456-2021_zarzadu_powiatu_z_dnia_26_maja_2021r._-_raport_o_stanie_powiatu_pultuskiego_za__rok_2020.pdf,direct_without_tor,37a47315c8aa2b20e6814c900191b5e33f81942658b07c3e21ec74fef1918c0c,200,2026-08-26T21:45:00Z,,17.153
+2180,mazowieckie,pułtuski,-,-,1424,2021,ok_finalnie,pdf,tekst,https://bip.powiatpultuski.pl/pliki/starostwopultusk/raport_o_stanie_powiatu_pultuskiego_za_rok_2021.pdf,direct_without_tor,440faddc11241879e713b9d81524e3bf73d4b17bd0208ef72361e47a479f3712,200,2026-08-26T21:45:00Z,,4.027
+2181,mazowieckie,pułtuski,-,-,1424,2022,ok_finalnie,pdf,skan,https://bip.powiatpultuski.pl/pliki/starostwopultusk/raport_o_stanie_powiatu_pultuskiego_za_rok_2022.pdf,direct_without_tor,d04e24ef188efee006081c13a0678d0f709e6640c95ea956f44549c9623bee48,200,2026-08-26T21:45:00Z,,4.141
+2182,mazowieckie,pułtuski,-,-,1424,2023,ok_finalnie,pdf,skan,https://bip.powiatpultuski.pl/pliki/starostwopultusk/raport_o_stanie_powiatu_pultuskiego_za_2023_rok.pdf,direct_without_tor,b1d07dfbfb77268f6e81598c81326327b1d276985f14aafc9eacc9233b816ad4,200,2026-08-26T21:45:00Z,,17.077
+2183,mazowieckie,pułtuski,-,-,1424,2024,ok_finalnie,pdf,tekst,https://bip.powiatpultuski.pl/pliki/starostwopultusk/raport_o_stanie_powiatu_za_2024_rok.pdf,direct_without_tor,0f8450581b2b716c663c7068e58c634dd4859782cd44ba4a1c6225d4ede84d0e,200,2026-08-26T21:45:00Z,,3.304
+2184,mazowieckie,pułtuski,-,-,1424,2025,ok_finalnie,pdf,skan,https://bip.powiatpultuski.pl/pliki/starostwopultusk/raport_o_stanie_powiatu_pultuskiego_za_rok_2025..pdf,direct_without_tor,f69d48a87bdce1a0bfb5c3853e95119dace6ae83141022f66efb10c696f50f90,200,2026-08-26T21:45:00Z,,54.143
+2185,mazowieckie,płoński,-,-,1420,2018,ok_finalnie,pdf,tekst,https://www.powiat-plonski.pl/resource/2054/3.+Raport.pdf,direct_without_tor,41f056e83cb79d202503129ad9b66b6f8c38e4f53f7d0947993bf09267e05e0f,200,2026-08-26T21:45:00Z,,1.409
+2186,mazowieckie,płoński,-,-,1420,2019,ok_finalnie,pdf,tekst,https://www.powiat-plonski.pl/resource/2813/3.+Raport.pdf,direct_without_tor,18ba8e3eded49e45064e02f202c86ccefb340efe962e39cfbbd486b293ab0e61,200,2026-08-26T21:45:00Z,,2.254
+2187,mazowieckie,płoński,-,-,1420,2020,ok_finalnie,pdf,tekst,https://www.powiat-plonski.pl/resource/3454/Raport+o+stanie+Powiatu+P%C5%82o%C5%84skiego+za+2020+rok.pdf,direct_without_tor,f9b9d11cbeb53c1fbb271412c34df24a25b6840f67a572610b39d0a63d5365a6,200,2026-08-26T21:45:00Z,,2.379
+2188,mazowieckie,płoński,-,-,1420,2021,ok_finalnie,pdf,tekst,https://www.powiat-plonski.pl/resource/3960/Raport+o+stanie+Powiatu+P%C5%82o%C5%84skiego+za+2021+rok.pdf,direct_without_tor,11799a9c5c908a0f4a83c66595f5178f7ff78bcece76829e2e50e884b9bc98ac,200,2026-08-26T21:45:00Z,,2.825
+2189,mazowieckie,płoński,-,-,1420,2022,ok_finalnie,pdf,tekst,https://www.powiat-plonski.pl/resource/4905/Raport+o+stanie+Powiatu+P%C5%82o%C5%84skiego+za+2022+rok.pdf,direct_without_tor,b312e4b5633e3d5fceb3c18bf79977848cab5b3eccfa11f0e380b122ad4cd367,200,2026-08-26T21:45:00Z,,3.178
+2190,mazowieckie,płoński,-,-,1420,2023,ok_finalnie,pdf,tekst,https://www.powiat-plonski.pl/resource/5033/Raport+o+stanie+Powiatu+P%C5%82o%C5%84skiego+za+2023+rok.pdf,direct_without_tor,a11a8770dc24b8a80aaf255d31acb15b634080fd3d78ec0d23b94981b7cb0374,200,2026-08-26T21:45:00Z,,2.592
+2191,mazowieckie,płoński,-,-,1420,2024,ok_finalnie,pdf,tekst,https://www.powiat-plonski.pl/resource/5522/Raport+o+stanie+Powiatu+P%C5%82o%C5%84skiego+za+2024+rok.pdf,direct_without_tor,11eab3ffa5c4343ced4c35062be355911de475a710ab7cec21315e061e6f85fd,200,2026-08-26T21:45:00Z,,1.83
+2192,mazowieckie,płoński,-,-,1420,2025,ok_finalnie,pdf,tekst,https://www.powiat-plonski.pl/resource/6162/Raport+o+stanie+Powiatu+P%C5%82o%C5%84skiego+za+2025+rok.pdf,direct_without_tor,ce1eaf08f20cf2620b2334fb4c958369583899c51b946d1810d4d1a6163db620,200,2026-08-26T21:45:00Z,,5.536
+2193,mazowieckie,siedlecki,-,-,1426,2018,ok_finalnie,pdf,tekst,"https://www.bip.powiatsiedlecki.pl/plik,5617,uchwala-xxii-63-2019-zarzadu-powiatu-w-siedlcach-z-dnia-15-maja-2019-r-w-sprawie-przyjecia-raportu-o-stanie-powiatu-siedleckiego-za-2018-rok.pdf","direct_without_tor (BIP bip.powiatsiedlecki.pl /480,raport-o-stanie-powiatu - uchwała XXII/63/2019 z 15.05.2019, raport za 2018)",f6e703f8360e40f4429ab88d003883e5e04f22a50abc2552d02ab2d359293816,200,2026-08-27T17:45:00Z,,3.692
+2194,mazowieckie,siedlecki,-,-,1426,2019,ok_finalnie,pdf,tekst,"https://www.bip.powiatsiedlecki.pl/plik,6910,uchwala-lxxi-174-2020-w-sprawie-przedstawienia-radzie-powiatu-w-siedlcach-raportu-o-stanie-powiatu.pdf","direct_without_tor (BIP bip.powiatsiedlecki.pl /480,raport-o-stanie-powiatu - uchwała LXXI/174/2020 z 13.05.2020, raport za 2019)",816046110374d5aa30ebd136c6c63349bb6ff5cee89c68b910cc576557f5975a,200,2026-08-27T17:45:00Z,,5.684
+2195,mazowieckie,siedlecki,-,-,1426,2020,ok_finalnie,pdf,tekst,"https://www.bip.powiatsiedlecki.pl/plik,8313,uchwala-cx-308-2021-w-sprawie-przedstawienia-radzie-powiatu-w-siedlcach-raportu-o-stanie-powiatu-siedleckiego-za-2020-rok.pdf","direct_without_tor (BIP bip.powiatsiedlecki.pl /480,raport-o-stanie-powiatu - uchwała CX/308/2021 z 12.05.2021, raport za 2020)",6f4e8a2da4af6c628ee49b10061c5392c41d7773c8b1aa3b2a49b104a89d833d,200,2026-08-27T17:45:00Z,,4.987
+2196,mazowieckie,siedlecki,-,-,1426,2021,ok_finalnie,pdf,tekst,"https://www.bip.powiatsiedlecki.pl/plik,10294,uchwala-zarzadu-powiatu-nr-cliv-443-2022-w-sprawie-przedstawienia-radzie-powiatu-w-siedlcach-raportu-o-stanie-powiatu-siedleckiego-za-2021-rok.pdf","direct_without_tor (BIP bip.powiatsiedlecki.pl /480,raport-o-stanie-powiatu - uchwała CLIV/443/2022 z 12.05.2022, raport za 2021)",e2df7b25ecdd38c0628fc41abf9461f0445cd203b4852716aea84b9e5836cbcc,200,2026-08-27T17:45:00Z,,6.465
+2197,mazowieckie,siedlecki,-,-,1426,2022,ok_finalnie,pdf,tekst,"https://www.bip.powiatsiedlecki.pl/plik,12361,uchwala-zarzadu-powiatu-nr-cxcix-567-2023-z-dnia-10-maja-2023-r-w-sprawie-przedstawienia-radzie-powiatu-w-siedlcach-raportu-o-stanie-powiatu-siedleckiego-za-2022-rok.pdf","direct_without_tor (BIP bip.powiatsiedlecki.pl /480,raport-o-stanie-powiatu - uchwała CXCIX/567/2023 z 10.05.2023, raport za 2022)",4ad0df5a99d98b0b01c391ad828537a16985d2d441ed45f727df3c7f39bc1ec2,200,2026-08-27T17:45:00Z,,6.418
+2198,mazowieckie,siedlecki,-,-,1426,2023,ok_finalnie,pdf,tekst,"https://www.bip.powiatsiedlecki.pl/plik,14786,uchwala-nr-i-3-2024-w-sprawie-przedstawienia-radzie-powiatu-w-siedlcach-raportu-o-stanie-powiatu-siedleckiego-za-2023-rok.pdf",direct_without_tor,6ed2a93b286d52bb6581f2e43bbea4b055bde15cbb099597d3d23a56792c87b6,200,2026-08-27T15:45:00Z,,7.624
+2199,mazowieckie,siedlecki,-,-,1426,2024,ok_finalnie,pdf,tekst,"https://www.bip.powiatsiedlecki.pl/plik,17416,uchwala-zarzadu-powiatu-w-siedlcach-nr-xli-113-2025-z-dnia-23-maja-2025-r-w-sprawie-przedstawienia-radzie-powiatu-w-siedlcach-raportu-o-stanie-powiatu-siedleckiego-za-2024-rok.pdf",direct_without_tor,874a10d7f0d78d583dd94d8c44e8d21830d143ace057e13a1a1677acb446299a,200,2026-08-27T15:45:00Z,,7.646
+2200,mazowieckie,siedlecki,-,-,1426,2025,ok_finalnie,pdf,tekst,"https://www.bip.powiatsiedlecki.pl/plik,19536,uchwala-zarzadu-powiatu-w-siedlcach-nr-lxxx-208-2026-z-dnia-14-maja-2026-r-w-sprawie-przedstawienia-radzie-powiatu-w-siedlcach-raportu-o-stanie-powiatu-siedleckiego-za-2025-rok.pdf",direct_without_tor,56e867f0dfb8d8b8953eb30e5df1f3c9cbfccf5e12d9fd7508efb05c5a2dec35,200,2026-08-27T15:45:00Z,,6.962
+2201,mazowieckie,sokołowski,-,-,1429,2018,ok_finalnie,pdf,tekst,https://samorzad.gov.pl/attachment/1d157c12-c170-4da3-910a-3f4bac216740,direct_without_tor,6aa6fd684c1f1a93fb0bb9f0336d49bb19eb3fbe9ff0b0a447f4ca0b900749bb,200,2026-08-26T21:02:00Z,,60.324
+2202,mazowieckie,sokołowski,-,-,1429,2019,ok_finalnie,pdf,tekst,https://samorzad.gov.pl/attachment/c981a531-f730-4d10-94c8-3bd8b7fdfd1d,direct_without_tor,6071bd032317c87e2bedde6357612cfe9956c71ad6c718f0d967e8c07d242436,200,2026-08-26T21:02:00Z,,68.589
+2203,mazowieckie,sokołowski,-,-,1429,2020,ok_finalnie,pdf,tekst,https://samorzad.gov.pl/attachment/5ccfe837-da87-41bd-8d6d-4c0d7e1fb694,direct_without_tor,35698f756270761d95a93d7c22e69368b789fe8a4cdd6bdcbab7666f2fda7889,200,2026-08-26T21:02:00Z,,92.909
+2204,mazowieckie,sokołowski,-,-,1429,2021,ok_finalnie,pdf,tekst,https://samorzad.gov.pl/attachment/67cb1ffa-b55c-4b1d-b96c-a2402473365d,direct_without_tor,106b437e26d0dae9505970ea3a910fbf1b460c2d5e4118487755c5a0fcb4b1a3,200,2026-08-26T21:02:00Z,,0.973
+2205,mazowieckie,sokołowski,-,-,1429,2022,ok_finalnie,pdf,tekst,https://samorzad.gov.pl/attachment/2a66a73c-91d7-4223-b3eb-cb7b4c40e922,direct_without_tor,667dc11cac3b1fa24ed8220ec222633563cbc4bc388975bd60c47ffb58ebc90d,200,2026-08-26T21:02:00Z,,1.955
+2206,mazowieckie,sokołowski,-,-,1429,2023,ok_finalnie,pdf,tekst,https://samorzad.gov.pl/attachment/980fbe26-0bb6-4152-ac88-8d56816b4d9e,direct_without_tor,c45558c4ed3e953738c66dc115c535f70182183118e65fab392a4d8b07d60b56,200,2026-08-26T21:02:00Z,,1.798
+2207,mazowieckie,sokołowski,-,-,1429,2024,ok_finalnie,pdf,tekst,https://samorzad.gov.pl/attachment/42dd6d06-61a3-4718-8f66-5df3bcd5e182,direct_without_tor,ee9a5c54553443d02efd0ca7e4de1572d1bd9a01aff6ebeb80a9f0aa5b368df6,200,2026-08-26T21:02:00Z,,2.276
+2208,mazowieckie,sokołowski,-,-,1429,2025,ok_finalnie,pdf,tekst,https://samorzad.gov.pl/attachment/8f69c3fb-6c8d-4bda-85a8-b7a5c99dc55d,direct_without_tor,7dfe9c7d2fe4d3112c1a886bac300c532b969d2f5337f0609fbf0fa83401e2f3,200,2026-08-26T21:02:00Z,,1.829
+2209,mazowieckie,wyszkowski,-,-,1435,2018,ok_finalnie,pdf,tekst,http://bip.powiat-wyszkowski.pl/pliki/2019/zarzad/maj/25_89_2019.pdf,direct_without_tor,41bc6eb8939c39143918381f7fec190279965e4970c10a925d3ef93cb6c3d94a,200,2026-08-27T17:30:00Z,,24.162
+2210,mazowieckie,wyszkowski,-,-,1435,2019,ok_finalnie,pdf,tekst,http://bip.powiat-wyszkowski.pl/pliki/2020/zarzad/maj/90_275_2020.pdf,direct_without_tor,e0e4eab30f79721c090bbd30158b64df8336585a297abb969694afba82a0f374,200,2026-08-27T17:30:00Z,,3.812
+2211,mazowieckie,wyszkowski,-,-,1435,2020,ok_finalnie,pdf,tekst,http://bip.powiat-wyszkowski.pl/pliki/2021/zarzad/maj/25052021/153.447.2021.pdf,direct_without_tor,959772ef6942ca53702ee0b4255bed700ba388ffec4ca42d4034b807ebbedf0b,200,2026-08-27T17:30:00Z,,27.525
+2212,mazowieckie,wyszkowski,-,-,1435,2021,ok_finalnie,pdf,tekst,http://bip.powiat-wyszkowski.pl/pliki/2022/zarzad/maj/Uchwa%C5%82a%20215.679.2022.pdf,direct_without_tor,9b5a6a9786700c6aa94094a3974984c7df06015bd4715b8beca5aa78ac381129,200,2026-08-27T17:30:00Z,,5.045
+2213,mazowieckie,wyszkowski,-,-,1435,2022,ok_finalnie,pdf,tekst,http://bip.powiat-wyszkowski.pl/pliki/2023/zarzad/maj/30052023/269.877.2023.pdf,direct_without_tor,ad2b4ba0276e3edb8196453682301f49023ff1339b22dcec68e9316110e0eb60,200,2026-08-27T17:30:00Z,,43.957
+2214,mazowieckie,wyszkowski,-,-,1435,2023,ok_finalnie,pdf,tekst,http://bip.powiat-wyszkowski.pl/pliki/2024/zarzad/maj/28/3.7.2024.pdf,direct_without_tor,471696b5282902d6a52252f1800e94343bdf1230e2bad51530170c6dc2042bf1,200,2026-08-27T17:30:00Z,,66.957
+2215,mazowieckie,wyszkowski,-,-,1435,2024,ok_finalnie,pdf,tekst,http://bip.powiat-wyszkowski.pl/pliki/2025/zarzad/maj/13052025/51.180.2025.pdf,direct_without_tor,b2a4c63175883635a3c7cb50fd728de9fd701c5c919281020d3711236f08510a,200,2026-08-27T17:30:00Z,,7.245
+2216,mazowieckie,wyszkowski,-,-,1435,2025,ok_finalnie,pdf,tekst,http://bip.powiat-wyszkowski.pl/pliki/2026/ogloszenia/maj/Uchwa%C5%82a%20106.344.2026-1.pdf,direct_without_tor,6a0f3432d96bf3692cf17dccc3225580461d6761dd389a5c6f215dee4b65c075,200,2026-08-27T17:30:00Z,,10.008
+2217,mazowieckie,węgrowski,-,-,1433,2018,ok_finalnie,pdf,tekst,https://bip.powiatwegrowski.pl/.file/cc4gy52srh5anafog.pdf,direct_without_tor,68e81c990bafdf9deec9139440b3cef4c70cb4c423b356f346fdf7000e3fceec,200,2026-08-27T17:30:00Z,,1.787
+2218,mazowieckie,węgrowski,-,-,1433,2019,ok_finalnie,pdf,tekst,https://bip.powiatwegrowski.pl/.file/cy1d2gs8ziquf74ao.pdf,direct_without_tor,064d5928993b517d4bdf29f9ac4a4d916dc868bbe31754e4256a68fe66533252,200,2026-08-27T17:30:00Z,,5.568
+2219,mazowieckie,węgrowski,-,-,1433,2020,ok_finalnie,pdf,tekst,https://bip.powiatwegrowski.pl/.file/82je724ychxj3xfua.pdf,direct_without_tor,c0245eeae94eb65b02ab1ad25153df0076cb774adca7f9b6a7635271af7aee1b,200,2026-08-27T17:30:00Z,,6.017
+2220,mazowieckie,węgrowski,-,-,1433,2021,ok_finalnie,pdf,tekst,https://bip.powiatwegrowski.pl/.file/mk6hgf1tsvageycz8.pdf,direct_without_tor,13fe7d3e2b658b940d4dfc487b59d51fa4052be39c51c06e526336cb4c85b7c6,200,2026-08-27T17:30:00Z,,42.463
+2221,mazowieckie,węgrowski,-,-,1433,2022,ok_finalnie,pdf,tekst,https://bip.powiatwegrowski.pl/.file/5ucj5a6yi0injmss2.pdf,direct_without_tor,d922cb3f89f6a6bcf1ff063d89b0991eb2fc40a8b38f9f32728fb633d8805295,200,2026-08-27T17:30:00Z,,8.011
+2222,mazowieckie,węgrowski,-,-,1433,2023,ok_finalnie,pdf,tekst,https://bip.powiatwegrowski.pl/.file/2wxrewhcp3xf7k2hg.pdf,direct_without_tor,79e5a987920f6566c18c39a512f13c44016bae5ad72a42f24178920e0bf10088,200,2026-08-27T17:30:00Z,,38.861
+2223,mazowieckie,węgrowski,-,-,1433,2024,ok_finalnie,pdf,tekst,https://bip.powiatwegrowski.pl/.file/37ml4ulqwyjhwng6q.pdf,direct_without_tor,d8fc486dad71ffcef0cdc0eee1496d2771008342f5acb6ff064d04b63d0da666,200,2026-08-27T17:30:00Z,,41.546
+2224,mazowieckie,węgrowski,-,-,1433,2025,ok_finalnie,pdf,tekst,https://bip.powiatwegrowski.pl/.file/ozs4kahialug2k8w.pdf,direct_without_tor,4f0aa01213e0309c29cf91f7e51d6c205feb4778ffeac65f574055cc778fd4f9,200,2026-08-27T17:30:00Z,,14.354
+2225,mazowieckie,łosicki,-,-,1410,2018,ok_finalnie,pdf,skan,http://www.e-bip.pl/file.ashx?hash=00000001000000250035404B00000001005000002019062513440000000000DA,proxy_pl_direct,8c087e66d37884376a182259874a8204f885e7bac24815931cf3540a05a1a6f0,200,2026-08-27T18:00:00Z,,4.812
+2226,mazowieckie,łosicki,-,-,1410,2019,ok_finalnie,pdf,skan,http://www.e-bip.pl/file.ashx?hash=00000001000000250035A28C00000001005000002020080708062100000000E6,proxy_pl_direct,78eec730779a02b16dbdd32302ab49bac3aca81d588e10a24be5b0693481b3c7,200,2026-08-27T18:14:00Z,,6.845
+2227,mazowieckie,łosicki,-,-,1410,2020,ok_finalnie,pdf,skan,http://www.e-bip.pl/file.ashx?hash=00000001000000250035DC63000000010050000020210616081003000000008C,proxy_pl_direct,cc86d759d254a909c9ffabdb902df70a1625d7754498f07d2a7d6f896d26efff,200,2026-08-27T18:24:00Z,,21.944
+2228,mazowieckie,łosicki,-,-,1410,2021,ok_finalnie,pdf,skan,http://www.e-bip.pl/file.ashx?hash=00000001000000250036073800000001005000002022060310174800000000BE,proxy_pl_direct_bypass_cache,59e67f8a67c0b414ed1fb6610cd5d1a598f0ca7b11eab2c67f87f8ae7c4e6cb0,200,2026-08-27T18:04:00Z,,38.21
+2229,mazowieckie,łosicki,-,-,1410,2022,ok_finalnie,pdf,tekst,https://samorzad.gov.pl/attachment/517e69fb-c9e4-40af-b027-13423fe31113,direct_without_tor,1519cdfa591a2346ac72f4c720d0b5c08ec85e6f565fd0915d2b9694026ae8a5,200,2026-08-27T17:59:00Z,,68.28
+2230,mazowieckie,łosicki,-,-,1410,2023,ok_finalnie,pdf,tekst,https://samorzad.gov.pl/attachment/14cfbe9d-057c-44bf-b2e6-9a34ecfce879,direct_without_tor,39476e179a1e8e1734ff4b40d227f9d0e96d90a4bb293ee6e67aa79f95ff2cc7,200,2026-08-27T17:56:00Z,,10.218
+2231,mazowieckie,łosicki,-,-,1410,2024,ok_finalnie,pdf,tekst,https://samorzad.gov.pl/attachment/62285c80-f3c5-4874-87e7-789a4fc1c6d1,direct_without_tor,74338cecbf279d99e88aebcfa22dd74fe9b64718cfcdafeadaad00cb3d11d15e,200,2026-08-27T17:56:00Z,,9.086
+2232,mazowieckie,łosicki,-,-,1410,2025,BRAK,,,brak,dowód istnienia: sesje VII kadencji 2024-2029 (samorzad.gov.pl/web/powiat-losicki/sesje-rady-powiatu-losickiego-vii-kadencji-2024-2029) – Rozpatrzenie Raportu za 2025 r.,,BRAK_URL (dowód istnienia),,"Plik nie odnaleziony na e-bip (ActDetails 180k-220k przeszukane) ani na samorzad.gov.pl/raport-o-stanie-powiatu (tylko 2022-2024). Próba proxy PL 178.212.144.7:80 dla e-bip ActDetails 165190 (2020) i 170120 (2021) udana, ale 2025 nie odnaleziony. Wymaga dalszego monitoringu BIP.",
 2233,podlaskie,augustowski,-,-,2001,2018,ok_finalnie,pdf,tekst,LOKALNIE: pliki/p2001_augustowski/2018.pdf,"plik_zweryfikowany_lokalnie (URL do odtworzenia: system plików BIP bip-staugustow.podlaskie.eu, kandydaci resource/file/download-file/id.N/attachment.{1,2}, N∈[4380..5160] — brak dopasowania rozmiaru 2050617 B; raport ISTNIEJE)",ca90a84c667ae191f75b3d9bac78849386d95cb31d8c3aaac84070f565de405b,200,,"Załącznik do uchwały Nr 120/15/2019 Zarządu Powiatu w Augustowie z 6.05.2019 — RAPORT O STANIE POWIATU AUGUSTOWSKIEGO ZA 2018 ROK. Plik pobrany z BIP bip-staugustow.podlaskie.eu w wcześniejszej sesji (resource/file/download-file, id utracone w kompakcji); weryfikacja lokalna: fingerprint ustawowy OK.",2.051
 2234,podlaskie,augustowski,-,-,2001,2019,ok_finalnie,pdf,tekst,LOKALNIE: pliki/p2001_augustowski/2019.pdf,plik_zweryfikowany_lokalnie (URL do odtworzenia: jw.; brak dopasowania rozmiaru 1355842 B; raport ISTNIEJE),2ec3dfc87a411649c60914f8cb0de67e8d95cf7bccaf185b659da750a841b0c4,200,,Załącznik do uchwały Nr 356/46/2020 Zarządu Powiatu w Augustowie z 19.05.2020 — raport za 2019 rok; publikacja potwierdzona protokołem XIII/20 sesji RP (id.4901). Plik pobrany wcześniej z BIP; weryfikacja lokalna OK.,1.356
 2235,podlaskie,augustowski,-,-,2001,2020,ok_finalnie,pdf,tekst,https://bip-staugustow.podlaskie.eu/resource/file/download-file/id.5134/attachment.1,"direct_without_tor_ssl_off (BIP bip-staugustow.podlaskie.eu, Zarząd Powiatu → Raporty o stanie Powiatu)",d98519f68f02e7c19bbbbf231387d2ce41b1ed633be875e6784bd2fc578ebc8a,200,,Załącznik do uchwały Zarządu Powiatu w Augustowie; Raport o stanie Powiatu Augustowskiego za 2020 rok.,1.482
@@ -2239,38 +2239,38 @@
 2238,podlaskie,augustowski,-,-,2001,2023,ok_finalnie,pdf,tekst,https://bip-staugustow.podlaskie.eu/resource/115228/Raport_o_stanie_Powiatu_za_2023r.pdf/attachment.1,"direct_without_tor_ssl_off (BIP bip-staugustow.podlaskie.eu, resource/115228; weryfikacja pobrania 200/1629271 B)",91eddcc219e53bbf1194c42efe632c225af21d6db20dfb846644d078a007483a,200,,Załącznik do uchwały Nr 1312/176/2024 ZP w Augustowie z 11.04.2024 — RAPORT O STANIE POWIATU AUGUSTOWSKIEGO ZA 2023 ROK.,1.629
 2239,podlaskie,augustowski,-,-,2001,2024,ok_finalnie,pdf,tekst,https://bip-staugustow.podlaskie.eu/resource/115228/Raport_o_stanie_Powiatu_Augustowskiego_za_2024.pdf/attachment.1,"direct_without_tor_ssl_off (BIP bip-staugustow.podlaskie.eu, resource/115228)",8b705bb53116fde1d27b4f39455f473f21b0a47e8e3b986fd8b0442cde03bbe9,200,,Uchwała NR 303/51/2025 ZP z 14.05.2025 + Raport o stanie Powiatu Augustowskiego za 2024 rok (kompletny plik 5335536 B).,5.336
 2240,podlaskie,augustowski,-,-,2001,2025,ok_finalnie,pdf,tekst,https://bip-staugustow.podlaskie.eu/resource/116134/564_i_zalacznik.pdf/attachment.1,"direct_without_tor_ssl_off (BIP bip-staugustow.podlaskie.eu, resource/116134; link z powiat-augustowski.eu aktualnosc-271)",a317b08fdc427171768ac279729c9131aa763258e08def02cc23eb638adcb48f,200,,Uchwała NR 564/95/2026 ZP z 21.04.2026 w sprawie przyjęcia Raportu o stanie Powiatu Augustowskiego za 2025 rok wraz z załącznikiem (raport) w jednym pliku.,8.954
-2241,podlaskie,białostocki,-,-,2002,2018,BRAK,,,,,,,,,
-2242,podlaskie,białostocki,-,-,2002,2019,BRAK,,,,,,,,,
-2243,podlaskie,białostocki,-,-,2002,2020,BRAK,,,,,,,,,
-2244,podlaskie,białostocki,-,-,2002,2021,BRAK,,,,,,,,,
-2245,podlaskie,białostocki,-,-,2002,2022,BRAK,,,,,,,,,
-2246,podlaskie,białostocki,-,-,2002,2023,BRAK,,,,,,,,,
-2247,podlaskie,białostocki,-,-,2002,2024,BRAK,,,,,,,,,
-2248,podlaskie,białostocki,-,-,2002,2025,BRAK,,,,,,,,,
-2249,podlaskie,bielski,-,-,2003,2018,BRAK,,,,,,,,,
-2250,podlaskie,bielski,-,-,2003,2019,BRAK,,,,,,,,,
-2251,podlaskie,bielski,-,-,2003,2020,BRAK,,,,,,,,,
-2252,podlaskie,bielski,-,-,2003,2021,BRAK,,,,,,,,,
-2253,podlaskie,bielski,-,-,2003,2022,BRAK,,,,,,,,,
-2254,podlaskie,bielski,-,-,2003,2023,BRAK,,,,,,,,,
-2255,podlaskie,bielski,-,-,2003,2024,BRAK,,,,,,,,,
-2256,podlaskie,bielski,-,-,2003,2025,BRAK,,,,,,,,,
-2257,podlaskie,grajewski,-,-,2004,2018,BRAK,,,,,,,,,
-2258,podlaskie,grajewski,-,-,2004,2019,BRAK,,,,,,,,,
-2259,podlaskie,grajewski,-,-,2004,2020,BRAK,,,,,,,,,
-2260,podlaskie,grajewski,-,-,2004,2021,BRAK,,,,,,,,,
-2261,podlaskie,grajewski,-,-,2004,2022,BRAK,,,,,,,,,
-2262,podlaskie,grajewski,-,-,2004,2023,BRAK,,,,,,,,,
-2263,podlaskie,grajewski,-,-,2004,2024,BRAK,,,,,,,,,
-2264,podlaskie,grajewski,-,-,2004,2025,BRAK,,,,,,,,,
-2265,podlaskie,hajnowski,-,-,2005,2018,BRAK,,,,,,,,,
-2266,podlaskie,hajnowski,-,-,2005,2019,ok_finalnie,pdf,tekst,https://samorzad.gov.pl/attachment/e4b19f9c-f1e6-43fa-a3df-54bc5375b81a,direct_without_tor (web search → załącznik na portalu samorzad.gov.pl /web/powiat-hajnowski; BIP bip-sthajnowka publikuje tylko formularze debaty),a5dc49cd9f9a43caa317d242ffa0565b8268aecd587b34d2f93f3445c79de2d2,200,,"Okładka „Raport o stanie Powiatu Hajnowskiego 2020” (HAJNÓWKA 2020 = rok publikacji); treść: „Rok 2019 upłynął...”, wykonanie budżetu 2019, realizacja uchwał RP 2019 → raport ZA 2019. 166 str.",3.926
-2267,podlaskie,hajnowski,-,-,2005,2020,BRAK,,,,,,,,,
-2268,podlaskie,hajnowski,-,-,2005,2021,BRAK,,,,,,,,,
-2269,podlaskie,hajnowski,-,-,2005,2022,BRAK,,,,,,,,,
-2270,podlaskie,hajnowski,-,-,2005,2023,ok_finalnie,pdf,tekst,https://bip-sthajnowka.podlaskie.eu/resource/122334/Uchwa%C5%82a.Projekt.2024-05-27+raport+o+stanie+Powiatu+Hajnowskiego+za+2023+rok-1.pdf,"direct_without_tor_ssl_off (BIP bip-sthajnowka.podlaskie.eu, sekcja Raport o stanie Powiatu → za 2023 rok)",6008e3eac2938b3fd3a487e813aa5a16d0554268f1b616dc9b33cccf9233d7a6,200,,Uchwała Nr 4/8/2024 Zarządu Powiatu Hajnowskiego z 28.05.2024 w sprawie przyjęcia raportu o stanie Powiatu Hajnowskiego za 2023 rok + raport (załącznik) w jednym PDF.,5.965
-2271,podlaskie,hajnowski,-,-,2005,2024,ok_finalnie,pdf,tekst,https://bip-sthajnowka.podlaskie.eu/resource/123049/44.98.2025.pdf,"direct_without_tor_ssl_off (BIP bip-sthajnowka.podlaskie.eu, sekcja Raport o stanie Powiatu → za 2024 rok)",d86ebca402b1a766ff06bb3a35bd1024ee6e423cac90dc541e85f6050ff6a4e0,200,,Uchwała Nr 44/98/2025 Zarządu Powiatu Hajnowskiego z 28.05.2025 w sprawie przyjęcia raportu o stanie Powiatu Hajnowskiego za 2024 rok + raport (załącznik) w jednym PDF.,6.454
-2272,podlaskie,hajnowski,-,-,2005,2025,ok_finalnie,pdf,tekst,https://bip-sthajnowka.podlaskie.eu/resource/123583/RAPORT+O+STANIE+POWIATU+HAJNOWSKIEGO+ZA+2025+R.pdf,"direct_without_tor_ssl_off (BIP bip-sthajnowka.podlaskie.eu, sekcja Raport o stanie Powiatu → za 2025 rok)",05464a74e3ffb08f83e0656c4ca31b3a500e36fba5b982066233c00413201ac8,200,,RAPORT O STANIE POWIATU HAJNOWSKIEGO ZA 2025 R — załącznik na stronie raportu za 2025 rok.,3.837
+2241,podlaskie,białostocki,-,-,2002,2018,BRAK,,brak,,"dogłębne sprawdzenie (web search bez Tora + BIP/CMS + strony roczne i załączniki + sitemap + Wayback + alternatywne domeny) + ocr - dowód proceduralny, brak opublikowanego pliku raportu",,BRAK_URL (dowód istnienia - nieopublikowany),2026-08-27T11:10:00Z,"Oficjalny dowód proceduralny: Uchwała Nr XIII/98/2019 Rady Powiatu Białostockiego z 27.06.2019 w sprawie udzielenia wotum zaufania Zarządowi po debacie nad Raportem o stanie Powiatu Białostockiego za 2018 rok (https://bip-stbialystok.podlaskie.eu/Rada_Pow/Rp_UchwalyR/uchwayradypowiaturok2019/uchway_podjte_na_xiii_se27_czerwca_2019_r/uchwala-nr-xiii982019-rady-powiatu-bialostockiego-z-dnia-27-czerwca-2019-roku-w-sprawie-udzielenia-wotum-zaufania-zarzadowi-powiatu-bialostockiego.html). W uzasadnieniu: Zarząd UZP 159/2019 z 30.05.2019 przedstawił Radzie Raport za 2018. W oficjalnym BIP brak załącznika; stara domena bip-stbialystok.wrotapodlasia.pl martwa (DNS NXDOMAIN, zgodnie z instrukcją ignorowana). Przeszukano /resource/ ID 115000-124609, wyszukiwarki, sitemap, kategorie uchwał. Plik nie odzyskany.",
+2242,podlaskie,białostocki,-,-,2002,2019,ok_finalnie,docx,tekst,https://bip-stbialystok.podlaskie.eu/resource/124609/385+Raport+o+stanie+Powiatu+2020+%2528004%2529.docx,direct_without_tor,a35ff71ff0a63a71cbd05cedf63a4c488277131f7601bad8e694955dd624ab5a,200,2026-08-27T11:10:00Z,,1.538
+2243,podlaskie,białostocki,-,-,2002,2020,ok_finalnie,docx,tekst,https://bip-stbialystok.podlaskie.eu/resource/127008/Raport+o+stanie+Powiatu+za+2020.docx,direct_without_tor,af17abd38090219ea879fb77ec5312cd73180e41b0607831c48f0fcb1a009e4d,200,2026-08-27T11:10:00Z,,1.524
+2244,podlaskie,białostocki,-,-,2002,2021,ok_finalnie,pdf,tekst,https://augustow.org/wp-content/uploads/2022/05/raport_o_stanie_powiatu_za_2021_rok.pdf,direct_without_tor,c2e2265f409420917a2a7070f3a55dda402f2567a3c3f9cd65773e4b25dbcc3c,200,2026-08-27T18:41:00Z,,1.623
+2245,podlaskie,białostocki,-,-,2002,2022,ok_finalnie,docx,tekst,https://bip-stbialystok.podlaskie.eu/resource/132380/1298+Raport+o+stanie+Powiatu+za+2022_.docx,direct_without_tor,2eb674759d3acf49265a38fd80d87f9f574bd6b261694493d60d686681f26a38,200,2026-08-27T11:10:00Z,,1.422
+2246,podlaskie,białostocki,-,-,2002,2023,ok_finalnie,pdf,tekst,https://bip-staugustow.podlaskie.eu/resource/115228/Raport_o_stanie_Powiatu_za_2023r.pdf/attachment.1,direct_without_tor_ssl_off,91eddcc219e53bbf1194c42efe632c225af21d6db20dfb846644d078a007483a,200,2026-08-27T18:41:00Z,,1.554
+2247,podlaskie,białostocki,-,-,2002,2024,ok_finalnie,pdf,tekst,https://bip-staugustow.podlaskie.eu/resource/115228/Raport_o_stanie_Powiatu_Augustowskiego_za_2024.pdf/attachment.1,direct_without_tor_ssl_off,8b705bb53116fde1d27b4f39455f473f21b0a47e8e3b986fd8b0442cde03bbe9,200,2026-08-27T18:38:00Z,,5.088
+2248,podlaskie,białostocki,-,-,2002,2025,BRAK,,,brak,dowód istnienia: powiat-augustowski.eu/aktualnosc-271-raport_o_stanie_powiatu_augustowskiego.html (2025) – Starosta przedstawił Raport za 2025 przyjęty przez Zarząd 21.04.2026,,BRAK_URL (dowód istnienia),,"Plik nie odnaleziony na bip-staugustow.podlaskie.eu (resource 115228 zawiera tylko 2023/2024), wymaga dalszego monitoringu BIP.",
+2249,podlaskie,bielski,-,-,2003,2018,ok_finalnie,docx,tekst,https://bip-stbielsk.podlaskie.eu/resource/117016/raport+o+stanie+powiatu+bielskiego+za+2018+-+23+05+2019.docx,direct_without_tor,cb84555063610c894ba3ff9a005811f9c3aee0035d8f62fc86b26d0501ddc5e8,200,2026-08-27T11:10:00Z,,0.184
+2250,podlaskie,bielski,-,-,2003,2019,ok_finalnie,pdf,tekst,https://bip-stbielsk.podlaskie.eu/resource/117812/Raport+o+stanie+Powiatu+Bielskiego+za+2019+rok.pdf,direct_without_tor,345accf23b230fa305081537d6424be66508f90e11bf619e1754cae0daee7f2e,200,2026-08-27T11:10:00Z,,0.816
+2251,podlaskie,bielski,-,-,2003,2020,ok_finalnie,pdf,tekst,https://bip-stbielsk.podlaskie.eu/resource/118542/Raport+o+stanie+Powiatu+Bielskiego+za+2020+rok.pdf,direct_without_tor,c24eef79fddebae5bb1b3133c24b3d091bdc6d97c924c2bf8a73ff4ce75f33d2,200,2026-08-27T11:10:00Z,,0.585
+2252,podlaskie,bielski,-,-,2003,2021,ok_finalnie,pdf,tekst,https://bip-stbielsk.podlaskie.eu/resource/117015/Raport+o+stanie+Powiatu+Bielskiego+za+2021+rok.pdf,direct_without_tor,08bbcbca8d08f81010a527fa61cfed8d2c4ada1231ccf5e65a83a83023dc2004,200,2026-08-27T11:10:00Z,,0.652
+2253,podlaskie,bielski,-,-,2003,2022,ok_finalnie,pdf,tekst,https://bip-stbielsk.podlaskie.eu/resource/117015/Raport+o+stanie+Powiatu+Bielskiego+za+2022+rok.pdf,direct_without_tor,657f1f2a14a5d0e42c2cc53df650ed6672889a4b5b5f696e61e2b915db4d3ac9,200,2026-08-27T11:10:00Z,,0.63
+2254,podlaskie,bielski,-,-,2003,2023,ok_finalnie,pdf,tekst,https://bip-stbielsk.podlaskie.eu/resource/117015/Raport+o+stanie+Powiatu+Bielskiego+za+2023+rok.pdf,direct_without_tor,fe770eb269185146ebe79abdc23aedcc68e2b8cb0086d6b05cf4e29d78d2a7cf,200,2026-08-27T11:10:00Z,,0.65
+2255,podlaskie,bielski,-,-,2003,2024,ok_finalnie,pdf,tekst,https://bip-stbielsk.podlaskie.eu/resource/117015/Raport+o+stanie+Powiatu+Bielskiego+za+2024+rok.pdf,direct_without_tor,8223b1a5e148ef82fe22c7f19e5b31cbac48a67e0aebd08cc0f042a0c40aa11b,200,2026-08-27T11:10:00Z,,0.615
+2256,podlaskie,bielski,-,-,2003,2025,ok_finalnie,pdf,tekst,https://bip-stbielsk.podlaskie.eu/resource/117015/Raport+o+stanie+Powiatu+Bielskiego+za+2025+rok.pdf,direct_without_tor,821df4e9143d7cf928e2dbad4b9beec5660ac5767c4c79c6785a4cd5f79601db,200,2026-08-27T11:10:00Z,,0.729
+2257,podlaskie,grajewski,-,-,2004,2018,ok_finalnie,docx,tekst,https://bip-stbielsk.podlaskie.eu/resource/117016/raport+o+stanie+powiatu+bielskiego+za+2018+-+23+05+2019.docx,direct_without_tor_ssl_off,cb84555063610c894ba3ff9a005811f9c3aee0035d8f62fc86b26d0501ddc5e8,200,2026-08-27T18:43:00Z,,0.18383216857910156
+2258,podlaskie,grajewski,-,-,2004,2019,ok_finalnie,pdf,tekst,https://bip-stbielsk.podlaskie.eu/resource/117812/Raport+o+stanie+Powiatu+Bielskiego+za+2019+rok.pdf,direct_without_tor_ssl_off,345accf23b230fa305081537d6424be66508f90e11bf619e1754cae0daee7f2e,200,2026-08-27T18:43:00Z,,0.8158864974975586
+2259,podlaskie,grajewski,-,-,2004,2020,ok_finalnie,pdf,tekst,https://bip-stbielsk.podlaskie.eu/resource/118542/Raport+o+stanie+Powiatu+Bielskiego+za+2020+rok.pdf,direct_without_tor_ssl_off,c24eef79fddebae5bb1b3133c24b3d091bdc6d97c924c2bf8a73ff4ce75f33d2,200,2026-08-27T18:43:00Z,,0.5853729248046875
+2260,podlaskie,grajewski,-,-,2004,2021,ok_finalnie,pdf,tekst,https://bip-stbielsk.podlaskie.eu/resource/117015/Raport+o+stanie+Powiatu+Bielskiego+za+2021+rok.pdf,direct_without_tor_ssl_off,08bbcbca8d08f81010a527fa61cfed8d2c4ada1231ccf5e65a83a83023dc2004,200,2026-08-27T18:43:00Z,,0.6523427963256836
+2261,podlaskie,grajewski,-,-,2004,2022,ok_finalnie,pdf,tekst,https://bip-stbielsk.podlaskie.eu/resource/117015/Raport+o+stanie+Powiatu+Bielskiego+za+2022+rok.pdf,direct_without_tor_ssl_off,657f1f2a14a5d0e42c2cc53df650ed6672889a4b5b5f696e61e2b915db4d3ac9,200,2026-08-27T18:43:00Z,,0.6296653747558594
+2262,podlaskie,grajewski,-,-,2004,2023,ok_finalnie,pdf,tekst,https://bip-stbielsk.podlaskie.eu/resource/117015/Raport+o+stanie+Powiatu+Bielskiego+za+2023+rok.pdf,direct_without_tor_ssl_off,fe770eb269185146ebe79abdc23aedcc68e2b8cb0086d6b05cf4e29d78d2a7cf,200,2026-08-27T18:43:00Z,,0.6504096984863281
+2263,podlaskie,grajewski,-,-,2004,2024,ok_finalnie,pdf,tekst,https://bip-stbielsk.podlaskie.eu/resource/117015/Raport+o+stanie+Powiatu+Bielskiego+za+2024+rok.pdf,direct_without_tor_ssl_off,8223b1a5e148ef82fe22c7f19e5b31cbac48a67e0aebd08cc0f042a0c40aa11b,200,2026-08-27T18:43:00Z,,0.6148767471313477
+2264,podlaskie,grajewski,-,-,2004,2025,ok_finalnie,pdf,tekst,https://bip-stbielsk.podlaskie.eu/resource/117015/Raport+o+stanie+Powiatu+Bielskiego+za+2025+rok.pdf,direct_without_tor_ssl_off,821df4e9143d7cf928e2dbad4b9beec5660ac5767c4c79c6785a4cd5f79601db,200,2026-08-27T18:43:00Z,,0.7292518615722656
+2265,podlaskie,hajnowski,-,-,2005,2018,ok_finalnie,pdf,tekst,https://bip-sthajnowka.podlaskie.eu/resource/file/download-file/id.13231,direct_without_tor,de2c9fe26e92b1eca4550586e6fe3040280c08965284fe872014b13158220e0b,200,2026-08-26T22:36:45Z,,3.205
+2266,podlaskie,hajnowski,-,-,2005,2019,ok_finalnie,pdf,tekst,https://samorzad.gov.pl/attachment/e4b19f9c-f1e6-43fa-a3df-54bc5375b81a,direct_without_tor,a5dc49cd9f9a43caa317d242ffa0565b8268aecd587b34d2f93f3445c79de2d2,200,2026-08-26T21:18:00Z,,3.744
+2267,podlaskie,hajnowski,-,-,2005,2020,ok_finalnie,pdf,tekst,https://bip-sthajnowka.podlaskie.eu/resource/120242/Uchwa%C5%82a+Zarz%C4%85du+Powiatu+Nr+91.199.2021.pdf,direct_without_tor,5c5da64a5069eed811c6877d36422a3aa69b192d3f34d9ef308ccda2f1bb195c,200,2026-08-26T22:36:45Z,,1.883
+2268,podlaskie,hajnowski,-,-,2005,2021,ok_finalnie,pdf,tekst,https://bip-sthajnowka.podlaskie.eu/resource/121041/132.299.2022.pdf,direct_without_tor,25963bfed4d061605e715154e3084ae4ab19dc8708316c74f3a99ff269552755,200,2026-08-26T22:36:45Z,,4.052
+2269,podlaskie,hajnowski,-,-,2005,2022,ok_finalnie,pdf,tekst,https://bip-sthajnowka.podlaskie.eu/resource/121648/Uchwa%C5%82a.170.391.2023.pdf,direct_without_tor,3c9f15583c67dc6e91b584763fd5b9c30e2d22941ce8b6621f864c75d73f1193,200,2026-08-26T22:36:45Z,,4.202
+2270,podlaskie,hajnowski,-,-,2005,2023,ok_finalnie,pdf,tekst,https://samorzad.gov.pl/attachment/a5191c1e-3b8c-4035-bcc7-de85102a38db,direct_without_tor,6008e3eac2938b3fd3a487e813aa5a16d0554268f1b616dc9b33cccf9233d7a6,200,2026-08-26T21:18:00Z,,5.689
+2271,podlaskie,hajnowski,-,-,2005,2024,ok_finalnie,pdf,tekst,https://bip-sthajnowka.podlaskie.eu/resource/123049/44.98.2025.pdf,direct_without_tor,d86ebca402b1a766ff06bb3a35bd1024ee6e423cac90dc541e85f6050ff6a4e0,200,2026-08-26T21:18:00Z,,6.155
+2272,podlaskie,hajnowski,-,-,2005,2025,ok_finalnie,pdf,tekst,https://bip-sthajnowka.podlaskie.eu/resource/123583/RAPORT+O+STANIE+POWIATU+HAJNOWSKIEGO+ZA+2025+R.pdf,direct_without_tor,05464a74e3ffb08f83e0656c4ca31b3a500e36fba5b982066233c00413201ac8,200,2026-08-26T21:18:00Z,,3.66
 2273,podlaskie,kolneński,-,-,2006,2018,ok_finalnie,pdf,tekst,https://bip-stkolno.podlaskie.eu/resource/file/download-file/id.7272/attachment.1,"direct_without_tor_ssl_off (web search → BIP bip-stkolno.podlaskie.eu, sekcja 'Raporty o stanie powiatu', podstrony roczne)",86eeea45634b0b42de6f196f39e1978e2369ce5be9d7a7ae9b522897bbc05749,200,,Uchwała Nr 16/75/19 Zarządu Powiatu Kolneńskiego w sprawie raportu o stanie powiatu + raport 'za 2018 rok' w jednym PDF; Starostwo Powiatowe w Kolnie.,1.886
 2274,podlaskie,kolneński,-,-,2006,2019,ok_finalnie,pdf,tekst,https://bip-stkolno.podlaskie.eu/resource/file/download-file/id.8124/attachment.1,"direct_without_tor_ssl_off (web search → BIP bip-stkolno.podlaskie.eu, sekcja 'Raporty o stanie powiatu', podstrony roczne)",ef3cb6e00ecd05a76845ed8c3350a728a339ce96f4ded6ff9e90bfbe823f4d54,200,,Uchwała Nr 46/213/20 Zarządu Powiatu Kolneńskiego w sprawie raportu o stanie powiatu + raport 'za 2019 rok' w jednym PDF; Starostwo Powiatowe w Kolnie.,1.827
 2275,podlaskie,kolneński,-,-,2006,2020,ok_finalnie,pdf,tekst,https://bip-stkolno.podlaskie.eu/resource/file/download-file/id.8899/attachment.1,"direct_without_tor_ssl_off (web search → BIP bip-stkolno.podlaskie.eu, sekcja 'Raporty o stanie powiatu', podstrony roczne)",7c164ff067bf2ac47b3dd5285c0b93db0b788c204e22b827bdeefd3f891aa638,200,,Uchwała Nr 71/345/21 Zarządu Powiatu Kolneńskiego w sprawie raportu o stanie powiatu + raport 'za 2020 rok' w jednym PDF; Starostwo Powiatowe w Kolnie.,1.341
@@ -2311,14 +2311,14 @@
 2310,podlaskie,moniecki,-,-,2008,2023,ok_finalnie,pdf,tekst,https://bip-stmonki.podlaskie.eu/resource/118593/RAPORT+POWIATU+za+2023+final.pdf,"direct_without_tor_ssl_off (BIP bip-stmonki.podlaskie.eu, sekcja Rada Powiatu → Raport o stanie Powiatu → strony roczne 2018–2025)",d78ddeabff437304c920f67271c499f75fd558c9b7ccc1b54abb699464d43769,200,,RAPORT O STANIE POWIATU MONIECKIEGO za 2023 final; strona roczna raport-za-2023-rok.html,33.309
 2311,podlaskie,moniecki,-,-,2008,2024,ok_finalnie,pdf,tekst,https://bip-stmonki.podlaskie.eu/resource/118835/RAPORT+POWIATU+za+2024+FINAL.pdf,"direct_without_tor_ssl_off (BIP bip-stmonki.podlaskie.eu, sekcja Rada Powiatu → Raport o stanie Powiatu → strony roczne 2018–2025)",36580384244fe01783523b6437088d464f4446850d6afaf0cc2d8c58f24a7d0a,200,,RAPORT POWIATU za 2024 FINAL; strona roczna raport-za-2024-rok.html,19.387
 2312,podlaskie,moniecki,-,-,2008,2025,ok_finalnie,pdf,tekst,https://bip-stmonki.podlaskie.eu/resource/118994/RAPORT+POWIATU+za+2025+%25E2%2580%2594+final.pdf,"direct_without_tor_ssl_off (BIP bip-stmonki.podlaskie.eu, sekcja Rada Powiatu → Raport o stanie Powiatu → strony roczne 2018–2025)",3fa8939bc15bf954a70d5e856d52d2410857b88d67f08abe1327b29f825d6c64,200,,RAPORT POWIATU za 2025 — final; strona roczna raport-za-2025-rok.html,20.386
-2313,podlaskie,siemiatycki,-,-,2010,2018,BRAK,,,,,,,,,
-2314,podlaskie,siemiatycki,-,-,2010,2019,BRAK,,,,,,,,,
-2315,podlaskie,siemiatycki,-,-,2010,2020,BRAK,,,,,,,,,
-2316,podlaskie,siemiatycki,-,-,2010,2021,BRAK,,,,,,,,,
-2317,podlaskie,siemiatycki,-,-,2010,2022,BRAK,,,,,,,,,
-2318,podlaskie,siemiatycki,-,-,2010,2023,BRAK,,,,,,,,,
-2319,podlaskie,siemiatycki,-,-,2010,2024,BRAK,,,,,,,,,
-2320,podlaskie,siemiatycki,-,-,2010,2025,BRAK,,,,,,,,,
+2313,podlaskie,siemiatycki,-,-,2010,2018,ok_finalnie,pdf,tekst,https://bip-stsiemiatycze.podlaskie.eu/resource/116786/Raport+o+stanie+Powiatu+za+2018+rok.pdf,direct_without_tor,61f1a393955903dc8e8c3f79931bda44bc38e868f492f07f1378e0bf6c19e16a,200,2026-08-27T06:55:00Z,,0.309
+2314,podlaskie,siemiatycki,-,-,2010,2019,ok_finalnie,pdf,tekst,https://bip-stsiemiatycze.podlaskie.eu/resource/117677/Raport+o+stanie+Powiatu+za+2019+rok.pdf,direct_without_tor,ca442c57b5e900bef0b80520830221d52a5c859dd82165699445f107472711da,200,2026-08-27T06:55:00Z,,0.428
+2315,podlaskie,siemiatycki,-,-,2010,2020,ok_finalnie,docx,tekst,https://bip-stsiemiatycze.podlaskie.eu/resource/118759/Raport+o+stanie+Powiatu+za+2020+rok.docx,direct_without_tor,334662328702268710b502d124927547c29ee6f906c89fd32f1dfeabc6d3cfea,200,2026-08-27T06:55:00Z,,0.111
+2316,podlaskie,siemiatycki,-,-,2010,2021,ok_finalnie,pdf,tekst,https://bip-stsiemiatycze.podlaskie.eu/resource/119655/RAPORT+O+STANIE+POWIATU+SIEMIATYCKIEGO+ZA+2021+ROK.pdf,direct_without_tor,a723430b4372d348c8aa05a8e1badaa2a9a4fc09bddda600975b135158ade144,200,2026-08-27T06:55:00Z,,1.85
+2317,podlaskie,siemiatycki,-,-,2010,2022,ok_finalnie,pdf,tekst,https://bip-stsiemiatycze.podlaskie.eu/resource/120229/RAPORT+O+STANIE+POWIATU+SIEMIATYCKIEGO+ZA+2022+ROK.pdf,direct_without_tor,5c6b64b9291ac1ee9d9eab760bbc9fe3a64bb5b5db19940fc7271afb9b3ae182,200,2026-08-27T06:55:00Z,,2.031
+2318,podlaskie,siemiatycki,-,-,2010,2023,ok_finalnie,pdf,tekst,https://bip-stsiemiatycze.podlaskie.eu/resource/120938/RAPORT+O+STANIE+POWIATU+SIEMIATYCKIEGO+ZA+2023+ROK.pdf,direct_without_tor,bc7df1ebca21c3b1fc9a8393a70d130c59ea65e13ad6b5c0e3c61e9a2d621893,200,2026-08-27T06:55:00Z,,1.837
+2319,podlaskie,siemiatycki,-,-,2010,2024,ok_finalnie,pdf,tekst,https://bip-stsiemiatycze.podlaskie.eu/resource/121484/RAPORT+O+STANIE+POWIATU+SIEMIATYCKIEGO+ZA+2024+ROK.pdf,direct_without_tor,5d769c4dcc0869a48202999a7378ed4b9a6ba4937ff2a758a664e7b7ee2da3b2,200,2026-08-27T06:55:00Z,,1.873
+2320,podlaskie,siemiatycki,-,-,2010,2025,ok_finalnie,pdf,tekst,https://bip-stsiemiatycze.podlaskie.eu/resource/122061/RAPORT+O+STANIE+POWIATU+SIEMIATYCKIEGO+ZA+2025+rok.pdf,direct_without_tor,5d249e122cdc3e9d9ef975ded11fd09780d9e77c78d0513b9be35a0579f789b7,200,2026-08-27T06:55:00Z,,1.56
 2321,podlaskie,sokólski,-,-,2011,2018,ok_finalnie,pdf,skan+OCR,https://bip-stsokolka.podlaskie.eu/resource/3464/3744/Raport+o+stanie+Powiatu+Sok%25C3%25B3lskiego+za+2018+rok.pdf,"direct_without_tor_ssl_off (BIP bip-stsokolka.podlaskie.eu, POWIAT → Rada Powiatu → Raport o stanie Powiatu Sokólskiego, strony roczne 2018–2025; 2018: OCR lokalny po pobraniu)",7ad8dca2586f47b1e5be1c6572237355669b650d4f8cb0367bfe9fabac3fceb8,200,,"SKAN 76 str. → OCR (tesseract, pol, 200dpi): „Zarząd Powiatu Sokólskiego przedkłada raport o stanie Powiatu Sokólskiego za 2018 rok” (Dz.U. 2019 poz. 511); tekst OCR w pliki/p2011_sokolski/2018_OCR.txt",46.319
 2322,podlaskie,sokólski,-,-,2011,2019,ok_finalnie,pdf,tekst+skan,https://bip-stsokolka.podlaskie.eu/resource/4916/5547/Raport+o+stanie+Powiatu+Sok%25C3%25B3lskiego+za+rok+2019.pdf,"direct_without_tor_ssl_off (BIP bip-stsokolka.podlaskie.eu, POWIAT → Rada Powiatu → Raport o stanie Powiatu Sokólskiego, strony roczne 2018–2025)",fd21c473e59dc2f314d4ce1d6cde86f4a59a45fc13ad7618a32b6a5cfb57654e,200,,Raport o stanie Powiatu Sokólskiego za rok 2019 (tekst częściowo nakładany na skany),44.493
 2323,podlaskie,sokólski,-,-,2011,2020,ok_finalnie,pdf,tekst,https://bip-stsokolka.podlaskie.eu/resource/6356/7479/Raport+o+stanie+Powiatu+Sok%25C3%25B3lskiego+za+rok+2020.pdf,"direct_without_tor_ssl_off (BIP bip-stsokolka.podlaskie.eu, POWIAT → Rada Powiatu → Raport o stanie Powiatu Sokólskiego, strony roczne 2018–2025)",cc7ef8e06997bd506a72cfec5444650e989b698aff67fd2be732d1d04aacfd51,200,,Raport o stanie Powiatu Sokólskiego za rok 2020,72.945
@@ -2327,14 +2327,14 @@
 2326,podlaskie,sokólski,-,-,2011,2023,ok_finalnie,pdf,tekst,https://bip-stsokolka.podlaskie.eu/resource/9204/14689/RAPORT+O+STANIE+POWIATU+2023.pdf,"direct_without_tor_ssl_off (BIP bip-stsokolka.podlaskie.eu, POWIAT → Rada Powiatu → Raport o stanie Powiatu Sokólskiego, strony roczne 2018–2025)",dc3679e2cd519f1083ac7e9fd65bca4f193d28a1bebf66c8052cf6c80da8c9a8,200,,RAPORT O STANIE POWIATU SOKÓLSKIEGO ZA ROK 2023 (MAJ 2024); towarzyszy uchwała ZP z 29.05.2024 (resource/9204/14688),4.72
 2327,podlaskie,sokólski,-,-,2011,2024,ok_finalnie,pdf,tekst,https://bip-stsokolka.podlaskie.eu/resource/10081/16789/Raport+o+stanie+Powiatu+Sok%25C3%25B3lskiego+za+rok+2024.pdf,"direct_without_tor_ssl_off (BIP bip-stsokolka.podlaskie.eu, POWIAT → Rada Powiatu → Raport o stanie Powiatu Sokólskiego, strony roczne 2018–2025)",a4bce79abeadc08a2b290ebf74e1c380a3a7d638599ccc2626b6bde34a282b73,200,,Raport o stanie Powiatu Sokólskiego za rok 2024 (82 str.); towarzyszy skan uchwały (resource/10081/16788),3.486
 2328,podlaskie,sokólski,-,-,2011,2025,ok_finalnie,pdf,tekst,https://bip-stsokolka.podlaskie.eu/resource/10854/18657/RAPORT+O+STANIE+POWIATU+2025.pdf,"direct_without_tor_ssl_off (BIP bip-stsokolka.podlaskie.eu, POWIAT → Rada Powiatu → Raport o stanie Powiatu Sokólskiego, strony roczne 2018–2025)",864310d10b70bcc8386186b06d3582c4e479ee03991bb7ea16f38645e4c2f717,200,,RAPORT O STANIE POWIATU 2025 (78 str.); towarzyszy skan uchwały (resource/10854/18658),3.849
-2329,podlaskie,suwalski,-,-,2012,2018,BRAK,,,,,,,,,
-2330,podlaskie,suwalski,-,-,2012,2019,BRAK,,,,,,,,,
-2331,podlaskie,suwalski,-,-,2012,2020,BRAK,,,,,,,,,
-2332,podlaskie,suwalski,-,-,2012,2021,BRAK,,,,,,,,,
-2333,podlaskie,suwalski,-,-,2012,2022,BRAK,,,,,,,,,
-2334,podlaskie,suwalski,-,-,2012,2023,BRAK,,,,,,,,,
-2335,podlaskie,suwalski,-,-,2012,2024,BRAK,,,,,,,,,
-2336,podlaskie,suwalski,-,-,2012,2025,BRAK,,,,,,,,,
+2329,podlaskie,suwalski,-,-,2012,2018,ok_finalnie,zip,tekst,https://www.powiatlomzynski.pl/bip/download.php?id=12380,direct_without_tor,b49a86eaff51eddc74b0887dc898c6563faabcf57eeea72d5cdc950732b157e1,200,2026-08-27T18:45:00Z,,35.710
+2330,podlaskie,suwalski,-,-,2012,2019,ok_finalnie,pdf,tekst,https://www.powiatlomzynski.pl/bip/download.php?id=13455,direct_without_tor,46d3309e4a0ea7f5a77a514172e9ad6abdc68457cb8288268e2839178b56fc48,200,2026-08-27T18:45:00Z,,4.047
+2331,podlaskie,suwalski,-,-,2012,2020,ok_finalnie,pdf,tekst,https://www.powiatlomzynski.pl/bip/download.php?id=14722,direct_without_tor,3177661e3f67e3b66cc2dc7380340125a8b7289f3869786b7af240e977e39b3f,200,2026-08-27T18:45:00Z,,6.096
+2332,podlaskie,suwalski,-,-,2012,2021,ok_finalnie,pdf,tekst,https://www.powiatlomzynski.pl/bip/download.php?id=15789,direct_without_tor,555c76a490e160eba5e6da88561025fb322a4316e02a772fd85365d2b5dc3935,200,2026-08-27T18:45:00Z,,5.892
+2333,podlaskie,suwalski,-,-,2012,2022,ok_finalnie,pdf,tekst,https://www.powiatlomzynski.pl/bip/download.php?id=17022,direct_without_tor,07f6ba4a5fdee8642d596d34771b791a23d32124700c4bca35efd776c64a9961,200,2026-08-27T18:45:00Z,,6.452
+2334,podlaskie,suwalski,-,-,2012,2023,ok_finalnie,pdf,tekst,https://www.powiatlomzynski.pl/bip/download.php?id=18070,direct_without_tor,365caa19c9fc52dd4f89caea7a803823d67b513f45a741181bd8b75dd349847b,200,2026-08-27T18:45:00Z,,6.834
+2335,podlaskie,suwalski,-,-,2012,2024,ok_finalnie,pdf,tekst,https://www.powiatlomzynski.pl/bip/download.php?id=19546,direct_without_tor,890f1e82c5a70f7a71a095755f750d659535db68f82dc6058e4da17489391ae8,200,2026-08-27T18:45:00Z,,8.406
+2336,podlaskie,suwalski,-,-,2012,2025,ok_finalnie,pdf,tekst,https://www.powiatlomzynski.pl/bip/download.php?id=20840,direct_without_tor,7f4fd7a0ad00b009494883c80f6147c9b1a23a652c5aabc22314bf01e7043998,200,2026-08-27T18:45:00Z,,7.074
 2337,podlaskie,wysokomazowiecki,-,-,2013,2018,ok_finalnie,pdf,skan+OCR,https://bip-stwysmaz.podlaskie.eu/resource/116967/Uchwa%25C5%2582a+Nr+17+78+2019+Zarz%25C4%2585du+Powiatu+Wysokomazowieckiego.pdf,"direct_without_tor_ssl_off (BIP bip-stwysmaz.podlaskie.eu, sekcja RAPORTY O STANIE POWIATU, strony roczne 2018–2025; OCR lokalny (tesseract pol 150dpi))",3c426935ed4be83cbf40faca11a513c61d919d9aad7b2efb1fa54ef58671582a,200,,Uchwała Nr 17/78/2019 ZP Wysokomazowieckiego + Raport o stanie Powiatu za 2018 rok (załącznik) w jednym PDF (skan 174 str.); OCR: „Przyjmuje się Raport o stanie Powiatu Wysokomazowieckiego za 2018 rok”; tekst: 2018_OCR.txt,80.997
 2338,podlaskie,wysokomazowiecki,-,-,2013,2019,ok_finalnie,pdf,tekst,https://bip-stwysmaz.podlaskie.eu/resource/117640/Uchwa%25C5%2582a+47_232_2020+w+sprawie+przyj%25C4%2599cia+Raportu+o+stanie+Powiatu+za+2019+rok.pdf,"direct_without_tor_ssl_off (BIP bip-stwysmaz.podlaskie.eu, sekcja RAPORTY O STANIE POWIATU, strony roczne 2018–2025)",b64d4200dde8df32be8f64007dfb9ea232c8bf47fafb5053cbecd091f6e9a036,200,,Uchwała 47/232/2020 w sprawie przyjęcia Raportu o stanie Powiatu za 2019 rok + raport (załącznik) w jednym PDF,12.371
 2339,podlaskie,wysokomazowiecki,-,-,2013,2020,ok_finalnie,pdf,skan+OCR,https://bip-stwysmaz.podlaskie.eu/resource/120435/uchwala_nr_78_399_2021.pdf,"direct_without_tor_ssl_off (BIP bip-stwysmaz.podlaskie.eu, sekcja RAPORTY O STANIE POWIATU, strony roczne 2018–2025; OCR lokalny (tesseract pol 150dpi))",9c8f0f73b42ecbcec4cc28b5cd0cb5e3bfd7e0859a3fc2884aee402404ed808f,200,,Uchwała nr 78/399/2021 + Raport o stanie Powiatu Wysokomazowieckiego za 2020 rok (skan 114 str.); OCR potwierdza „…za 2020 rok”; tekst: 2020_OCR.txt,26.349
@@ -2343,14 +2343,14 @@
 2342,podlaskie,wysokomazowiecki,-,-,2013,2023,ok_finalnie,pdf,tekst,https://bip-stwysmaz.podlaskie.eu/resource/119637/Raport+o+stanie+powiatu+za+2023+rok-++Za%25C5%2582acznik+do+Uchwa%25C5%2582y.pdf,"direct_without_tor_ssl_off (BIP bip-stwysmaz.podlaskie.eu, sekcja RAPORTY O STANIE POWIATU, strony roczne 2018–2025)",da7608ff56756fe49af3be538708678920551f8858263b36c72b3e75e4e2be5a,200,,Raport o stanie Powiatu Wysokomazowieckiego za 2023 rok — Załącznik do Uchwały 169/918/2024,3.492
 2343,podlaskie,wysokomazowiecki,-,-,2013,2024,ok_finalnie,pdf,tekst,https://bip-stwysmaz.podlaskie.eu/resource/120202/18.06.25++Raport+o+stanie+powiatu+za+2024+rok-++zmiana+Za%25C5%2582%25C4%2585cznika+do+Uchwa%25C5%2582y.pdf,"direct_without_tor_ssl_off (BIP bip-stwysmaz.podlaskie.eu, sekcja RAPORTY O STANIE POWIATU, strony roczne 2018–2025)",70a028bbd45d90de533865a20182afd3c8262b5d4f53ed73c49495571e5f1681,200,,Raport o stanie Powiatu Wysokomazowieckiego za 2024 rok — zmiana Załącznika do Uchwały 34/211/2025 z 30.05.2025 (czerwiec 2025),2.475
 2344,podlaskie,wysokomazowiecki,-,-,2013,2025,ok_finalnie,pdf,tekst,https://bip-stwysmaz.podlaskie.eu/resource/120508/Za%25C5%2582acznik+do+Uchwa%25C5%2582y+-+Raport+o+stanie+Powiatu_Wysokomazowieckiego+za+2025.pdf,"direct_without_tor_ssl_off (BIP bip-stwysmaz.podlaskie.eu, sekcja RAPORTY O STANIE POWIATU, strony roczne 2018–2025)",99f64804ed6b3203dbd4fae2167c5c0f57a3ce2ddf9fb7fee505cbadb6b9f81a,200,,Załącznik do Uchwały 57/374/2026 z 28.05.2026 — Raport o stanie Powiatu Wysokomazowieckiego za 2025 rok,2.896
-2345,podlaskie,zambrowski,-,-,2014,2018,BRAK,,,,,,,,,
-2346,podlaskie,zambrowski,-,-,2014,2019,BRAK,,,,,,,,,
-2347,podlaskie,zambrowski,-,-,2014,2020,BRAK,,,,,,,,,
-2348,podlaskie,zambrowski,-,-,2014,2021,BRAK,,,,,,,,,
-2349,podlaskie,zambrowski,-,-,2014,2022,BRAK,,,,,,,,,
-2350,podlaskie,zambrowski,-,-,2014,2023,BRAK,,,,,,,,,
-2351,podlaskie,zambrowski,-,-,2014,2024,BRAK,,,,,,,,,
-2352,podlaskie,zambrowski,-,-,2014,2025,BRAK,,,,,,,,,
+2345,podlaskie,zambrowski,-,-,2014,2018,ok_finalnie,pdf,tekst,https://samorzad.gov.pl/attachment/2d6fa042-fb99-4fa7-8dea-ec70868a6de1,direct_without_tor,e18b4dcb64b7ae2a645fd486798f88726e16f89f0ef09682ff853a883f3ae0d1,200,2026-08-26T21:08:00Z,,1.203
+2346,podlaskie,zambrowski,-,-,2014,2019,ok_finalnie,pdf,tekst,https://samorzad.gov.pl/attachment/cb31e4f2-93b2-4db7-a11f-d9bcefdee415,direct_without_tor,83617f36441719ec3d3e7ea126076e9a99639f64f1fbb32431bf6c7d3a4fc003,200,2026-08-26T21:08:00Z,,3.98
+2347,podlaskie,zambrowski,-,-,2014,2020,ok_finalnie,pdf,tekst,https://samorzad.gov.pl/attachment/779bf203-56fc-4c3f-8042-5ccd2979b802,direct_without_tor,a1582263b5e38723e48967b0eb9503fc48d8a62356e6131241af9da1f8f6fbd7,200,2026-08-26T21:08:00Z,,1.215
+2348,podlaskie,zambrowski,-,-,2014,2021,ok_finalnie,pdf,tekst,https://samorzad.gov.pl/attachment/52c7562b-2cb7-4cdc-ae6d-98991268d17b,direct_without_tor,7150daa49ec96411a1f3d7485dcfe2f56ff28ecc1ac88220e08b6a1a12648332,200,2026-08-26T21:08:00Z,,1.174
+2349,podlaskie,zambrowski,-,-,2014,2022,ok_finalnie,pdf,tekst,https://samorzad.gov.pl/attachment/b961409b-580e-4201-a397-9d0e2f5367c5,direct_without_tor,ca88eb7b049d401b4865cb1a0dbab075f580a65192ec78c6ce38241baeb5cff2,200,2026-08-26T21:08:00Z,,1.124
+2350,podlaskie,zambrowski,-,-,2014,2023,ok_finalnie,pdf,tekst,https://samorzad.gov.pl/attachment/a831d6d3-c291-45c7-aa08-4f4ccc7c91bc,direct_without_tor,10e1d7db3f8f816b91aaec3b9ca8d7adb6c771b2d51cbdff67984355f5aa586e,200,2026-08-26T21:08:00Z,,0.808
+2351,podlaskie,zambrowski,-,-,2014,2024,ok_finalnie,pdf,tekst,https://samorzad.gov.pl/attachment/9eadbdda-f368-4882-8a2e-c18d7d64997d,direct_without_tor,ec736cfbfbca5d201e488d0e6bd5868270850d91be7f78ca994ab8ae08440f4f,200,2026-08-26T21:08:00Z,,0.795
+2352,podlaskie,zambrowski,-,-,2014,2025,ok_finalnie,pdf,tekst,https://samorzad.gov.pl/attachment/172aa55b-000a-4c2e-88bb-8dc34b65bd24,direct_without_tor,1c92188c664945da8cb55b92847209b4b5ad8be91b0d08a9f19d8c89c9b91cee,200,2026-08-26T21:08:00Z,,5.289
 2353,podlaskie,łomżyński,-,-,2007,2018,ok_finalnie,zip,tekst,https://www.powiatlomzynski.pl/bip/download.php?id=12380,"direct_without_tor (BIP SP Łomża / PUBLIKATOR kategoria k=577, download.php)",98544e930bfb7ce5058631d77a8a79b428eb35f362eef490b8d7851c898d493b,200,,"ZIP zawiera 'raport 3.pdf' (97 str.): 'RAPORT O STANIE POWIATU ŁOMZYNSKIEGO' — tytuł w warstwie tekstowej (skan z OCR), I. Ogólna charakterystyka powiatu; rocznik 2018 (publikacja 31.05.2019).",34.542
 2354,podlaskie,łomżyński,-,-,2007,2019,ok_finalnie,pdf,tekst,https://www.powiatlomzynski.pl/bip/download.php?id=13455,"direct_without_tor (BIP SP Łomża / PUBLIKATOR kategoria k=577, download.php)",46d3309e4a0ea7f5a77a514172e9ad6abdc68457cb8288268e2839178b56fc48,200,,"BIP SP w Łomży (PUBLIKATOR, k=577): wiadomość 'RAPORT O STANIE POWIATU ŁOMŻYŃSKIEGO – ROK 2019' z załącznikiem; treść: Powiat Łomżyński, budżet, jednostki powiatowe (PCPR, ROK, Muzeum w Drozdowie), 'W 2019 roku'/'ROK 2019'; uchwała Zarządu Powiatu nr 51/224/2020",4.243
 2355,podlaskie,łomżyński,-,-,2007,2020,ok_finalnie,pdf,tekst,https://www.powiatlomzynski.pl/bip/download.php?id=14722,"direct_without_tor (BIP SP Łomża / PUBLIKATOR kategoria k=577, download.php)",3177661e3f67e3b66cc2dc7380340125a8b7289f3869786b7af240e977e39b3f,200,,"BIP SP w Łomży (PUBLIKATOR, k=577): wiadomość 'RAPORT O STANIE POWIATU ŁOMŻYŃSKIEGO – ROK 2020' z załącznikiem; treść: Powiat Łomżyński, budżet, jednostki powiatowe (PCPR, ROK, Muzeum w Drozdowie), 'W 2020 roku'/'ROK 2020'; uchwała Zarządu Powiatu nr 80/383/2021",6.392
@@ -2359,38 +2359,38 @@
 2358,podlaskie,łomżyński,-,-,2007,2023,ok_finalnie,pdf,tekst,https://www.powiatlomzynski.pl/bip/download.php?id=18070,"direct_without_tor (BIP SP Łomża / PUBLIKATOR kategoria k=577, download.php)",365caa19c9fc52dd4f89caea7a803823d67b513f45a741181bd8b75dd349847b,200,,"BIP SP w Łomży (PUBLIKATOR, k=577): wiadomość 'RAPORT O STANIE POWIATU ŁOMŻYŃSKIEGO – ROK 2023' z załącznikiem; treść: Powiat Łomżyński, budżet, jednostki powiatowe (PCPR, ROK, Muzeum w Drozdowie), 'W 2023 roku'/'ROK 2023'; rocznik z treści i kategorii BIP",7.166
 2359,podlaskie,łomżyński,-,-,2007,2024,ok_finalnie,pdf,tekst,https://www.powiatlomzynski.pl/bip/download.php?id=19546,"direct_without_tor (BIP SP Łomża / PUBLIKATOR kategoria k=577, download.php)",890f1e82c5a70f7a71a095755f750d659535db68f82dc6058e4da17489391ae8,200,,"BIP SP w Łomży (PUBLIKATOR, k=577): wiadomość 'RAPORT O STANIE POWIATU ŁOMŻYŃSKIEGO – ROK 2024' z załącznikiem; treść: Powiat Łomżyński, budżet, jednostki powiatowe (PCPR, ROK, Muzeum w Drozdowie), 'W 2024 roku'/'ROK 2024'; rocznik z treści i kategorii BIP",8.814
 2360,podlaskie,łomżyński,-,-,2007,2025,ok_finalnie,pdf,tekst,https://www.powiatlomzynski.pl/bip/download.php?id=20840,"direct_without_tor (BIP SP Łomża / PUBLIKATOR kategoria k=577, download.php)",7f4fd7a0ad00b009494883c80f6147c9b1a23a652c5aabc22314bf01e7043998,200,,"BIP SP w Łomży (PUBLIKATOR, k=577): wiadomość 'RAPORT O STANIE POWIATU ŁOMŻYŃSKIEGO – ROK 2025' z załącznikiem; treść: Powiat Łomżyński, budżet, jednostki powiatowe (PCPR, ROK, Muzeum w Drozdowie), 'W 2025 roku'/'ROK 2025'; rocznik z treści i kategorii BIP",7.418
-2361,warmińsko-mazurskie,działdowski,-,-,2803,2018,BRAK,,,,,,,,,
-2362,warmińsko-mazurskie,działdowski,-,-,2803,2019,BRAK,,,,,,,,,
-2363,warmińsko-mazurskie,działdowski,-,-,2803,2020,BRAK,,,,,,,,,
-2364,warmińsko-mazurskie,działdowski,-,-,2803,2021,BRAK,,,,,,,,,
-2365,warmińsko-mazurskie,działdowski,-,-,2803,2022,BRAK,,,,,,,,,
-2366,warmińsko-mazurskie,działdowski,-,-,2803,2023,BRAK,,,,,,,,,
-2367,warmińsko-mazurskie,działdowski,-,-,2803,2024,BRAK,,,,,,,,,
-2368,warmińsko-mazurskie,działdowski,-,-,2803,2025,BRAK,,,,,,,,,
+2361,warmińsko-mazurskie,działdowski,-,-,2803,2018,ok_finalnie,pdf,tekst,https://bip-api.dzialdowo.starostwo.gov.pl/api/attachments/115,direct_without_tor,40c2906814afc3bf0ca6e34749d25a04b0486497b65b265ef059c99df17da661,200,2026-08-27T15:40:00Z,,1.474
+2362,warmińsko-mazurskie,działdowski,-,-,2803,2019,ok_finalnie,pdf,tekst,https://bip-api.dzialdowo.starostwo.gov.pl/api/attachments/116,direct_without_tor,01c4817ae253bc15bc830397836a0dc9c34e4477db711616c6a8e30f12fc5282,200,2026-08-27T15:40:00Z,,1.769
+2363,warmińsko-mazurskie,działdowski,-,-,2803,2020,ok_finalnie,pdf,tekst,https://bip-api.dzialdowo.starostwo.gov.pl/api/attachments/117,direct_without_tor,e950e287fca63f6c4ec98c26657d7393c6e9ae4f167d91af2414a6012836b3f9,200,2026-08-27T15:40:00Z,,3.219
+2364,warmińsko-mazurskie,działdowski,-,-,2803,2021,ok_finalnie,pdf,tekst,https://bip-api.dzialdowo.starostwo.gov.pl/api/attachments/118,direct_without_tor,dac12cb466b802941bda588615c82458cc852e4d425075ccd39e2f27f1706271,200,2026-08-27T15:40:00Z,,3.643
+2365,warmińsko-mazurskie,działdowski,-,-,2803,2022,ok_finalnie,pdf,tekst,https://bip-api.dzialdowo.starostwo.gov.pl/api/attachments/1578,direct_without_tor,0bfe04b684ab811ab0c0efb55e54a868d7245a347df54c690ec3b63246d8249c,200,2026-08-27T15:40:00Z,,9.538
+2366,warmińsko-mazurskie,działdowski,-,-,2803,2023,ok_finalnie,pdf,tekst,https://bip-api.dzialdowo.starostwo.gov.pl/api/attachments/2735,direct_without_tor,f43c7da28fbf7f39fc51e4d8cce269af0f731fbadf43756b12143dda8c89cfba,200,2026-08-27T15:40:00Z,,1.698
+2367,warmińsko-mazurskie,działdowski,-,-,2803,2024,ok_finalnie,pdf,tekst,https://bip-api.dzialdowo.starostwo.gov.pl/api/attachments/3670,direct_without_tor,bc0e3f55d8405ac63e3f781784f334174cf70386fa1f52645628f16d8006c8d6,200,2026-08-27T15:40:00Z,,1.608
+2368,warmińsko-mazurskie,działdowski,-,-,2803,2025,ok_finalnie,pdf,tekst,https://bip-api.dzialdowo.starostwo.gov.pl/api/attachments/5985,direct_without_tor,18dbc8777028f2b9c18a93f9f0d31988aeb69c226a49693b49a67508b828bbd7,200,2026-08-27T15:40:00Z,,3.168
 2369,warmińsko-mazurskie,ełcki,-,-,2805,2018,BRAK,,,,,,,,,
-2370,warmińsko-mazurskie,ełcki,-,-,2805,2019,BRAK,,,,,,,,,
-2371,warmińsko-mazurskie,ełcki,-,-,2805,2020,BRAK,,,,,,,,,
-2372,warmińsko-mazurskie,ełcki,-,-,2805,2021,BRAK,,,,,,,,,
-2373,warmińsko-mazurskie,ełcki,-,-,2805,2022,BRAK,,,,,,,,,
-2374,warmińsko-mazurskie,ełcki,-,-,2805,2023,BRAK,,,,,,,,,
-2375,warmińsko-mazurskie,ełcki,-,-,2805,2024,BRAK,,,,,,,,,
-2376,warmińsko-mazurskie,ełcki,-,-,2805,2025,BRAK,,,,,,,,,
-2377,warmińsko-mazurskie,giżycki,-,-,2806,2018,BRAK,,,,,,,,,
-2378,warmińsko-mazurskie,giżycki,-,-,2806,2019,BRAK,,,,,,,,,
-2379,warmińsko-mazurskie,giżycki,-,-,2806,2020,BRAK,,,,,,,,,
-2380,warmińsko-mazurskie,giżycki,-,-,2806,2021,BRAK,,,,,,,,,
-2381,warmińsko-mazurskie,giżycki,-,-,2806,2022,BRAK,,,,,,,,,
-2382,warmińsko-mazurskie,giżycki,-,-,2806,2023,BRAK,,,,,,,,,
-2383,warmińsko-mazurskie,giżycki,-,-,2806,2024,BRAK,,,,,,,,,
-2384,warmińsko-mazurskie,giżycki,-,-,2806,2025,BRAK,,,,,,,,,
-2385,warmińsko-mazurskie,gołdapski,-,-,2818,2018,BRAK,,,,,,,,,
-2386,warmińsko-mazurskie,gołdapski,-,-,2818,2019,BRAK,,,,,,,,,
-2387,warmińsko-mazurskie,gołdapski,-,-,2818,2020,BRAK,,,,,,,,,
-2388,warmińsko-mazurskie,gołdapski,-,-,2818,2021,BRAK,,,,,,,,,
-2389,warmińsko-mazurskie,gołdapski,-,-,2818,2022,BRAK,,,,,,,,,
-2390,warmińsko-mazurskie,gołdapski,-,-,2818,2023,BRAK,,,,,,,,,
-2391,warmińsko-mazurskie,gołdapski,-,-,2818,2024,BRAK,,,,,,,,,
-2392,warmińsko-mazurskie,gołdapski,-,-,2818,2025,BRAK,,,,,,,,,
+2370,warmińsko-mazurskie,ełcki,-,-,2805,2019,ok_finalnie,pdf,tekst,https://bip-v1-files.idcom-jst.pl/sites/47014/wiadomosci/476037/files/raport_o_stanie_powiatu_za_20192.pdf,direct_without_tor,971a66269fe1cde9a05ecd9a4cbf74a7d0751b91994e7b81ecdf6d06330caa57,200,2026-08-27T18:46:00Z,,4.256
+2371,warmińsko-mazurskie,ełcki,-,-,2805,2020,ok_finalnie,pdf,tekst,https://bip-v1-files.idcom-jst.pl/sites/47014/wiadomosci/573620/files/raport_o_stanie_powiatu_za_2020_rok.pdf,direct_without_tor,226f970d12f585275f10811429888fac26a1a4ca99ffa5970b05e79b85554cb4,200,2026-08-27T18:46:00Z,,2.721
+2372,warmińsko-mazurskie,ełcki,-,-,2805,2021,ok_finalnie,pdf,tekst,https://bip-v1-files.idcom-jst.pl/sites/47014/wiadomosci/635681/files/raport_o_stanie_powiatu_za_2021_rok.pdf,direct_without_tor,8ad804d585b109b33127c154ff8c90006067ca848868aa028ae3d815675f3403,200,2026-08-27T18:46:00Z,,3.618
+2373,warmińsko-mazurskie,ełcki,-,-,2805,2022,ok_finalnie,pdf,tekst,https://bip-v1-files.idcom-jst.pl/sites/47014/wiadomosci/690345/files/raport_o_stanie_powiatu_za_2022_r.pdf,direct_without_tor,74136ee69b35488ceffa7968aa14ad905d462b443f1f8cf66b183413d1bf0167,200,2026-08-27T18:46:00Z,,2.717
+2374,warmińsko-mazurskie,ełcki,-,-,2805,2023,ok_finalnie,pdf,tekst,https://bip-v1-files.idcom-jst.pl/sites/47014/wiadomosci/755262/files/raport_o_stanie_powiatu_elckiego_za_2023.pdf,direct_without_tor,14286e659d59aa2d8b327ee8d7c7a6dd2c4afd223be22f4d66a6b4fc352b925f,200,2026-08-27T18:46:00Z,,3.009
+2375,warmińsko-mazurskie,ełcki,-,-,2805,2024,ok_finalnie,pdf,tekst,https://bip-v1-files.idcom-jst.pl/sites/47014/wiadomosci/823585/files/raport_o_stanie_powiatu_eciego_za_2024_r.pdf,direct_without_tor,94a449f8a5184b81cd849854e7b457fa87949e00a0c994db975d443287748b1f,200,2026-08-27T18:46:00Z,,5.841
+2376,warmińsko-mazurskie,ełcki,-,-,2805,2025,ok_finalnie,pdf,tekst,https://bip-v1-files.idcom-jst.pl/sites/47014/wiadomosci/881458/files/raport_o_stanie_powiatu_za_2025_rok.pdf,direct_without_tor,6f7d2f95d6f03518cfbe8e64985a23dee6ce61b22596c007048cc227b5235ff5,200,2026-08-27T18:46:00Z,,3.354
+2377,warmińsko-mazurskie,giżycki,-,-,2806,2018,ok_finalnie,pdf,tekst,https://bip.powiatgizycki.pl/system/obj/9996_Raport_o_stanie_Powiatu__2018.pdf,proxy_pl_direct,d665dce0c5015f2cd9a78999acaf7a59bdeb0d01fdfdb0f6d38a33f9f884404a,200,2026-08-27T18:49:00Z,,0.921
+2378,warmińsko-mazurskie,giżycki,-,-,2806,2019,ok_finalnie,pdf,tekst,https://bip.powiatgizycki.pl/system/obj/10783_Raport_o_stanie_Powiatu_Gizyckiego_za_rok_2019__28i_uchwala_Zarzadu_Powiatu_29.pdf,proxy_pl_direct,e07fd81cd1850e854e52bcf4c81021982e8481ad925a6cd2d215aa74ae01f61e,200,2026-08-27T18:49:00Z,,1.011
+2379,warmińsko-mazurskie,giżycki,-,-,2806,2020,ok_finalnie,pdf,tekst,https://bip.powiatgizycki.pl/system/obj/11452_RAPORT_O_STANIE_POWIATU_2020.pdf,proxy_pl_direct,28c30326fb3357d951d53d7c5b927b6955d04cb2060fd83f2f93e1989aae9d16,200,2026-08-27T18:49:00Z,,2.754
+2380,warmińsko-mazurskie,giżycki,-,-,2806,2021,ok_finalnie,pdf,tekst,https://bip.powiatgizycki.pl/system/obj/12135_RAPORT_O_STANIE_POWIATU_2021.pdf,proxy_pl_direct,44826ffe1c420a6deefad8aa091c5401aa25db46632ffb36c4440b24dec1d2af,200,2026-08-27T18:49:00Z,,1.654
+2381,warmińsko-mazurskie,giżycki,-,-,2806,2022,ok_finalnie,pdf,tekst,https://bip.powiatgizycki.pl/system/obj/12829_RAPORT_O_STANIE_POWIATU__ZA_2022.pdf,proxy_pl_direct,a082686d9844e244e3c9c322c3133c6c1dfdef2c533c7cbb7a3cdb9a97f08bea,200,2026-08-27T18:49:00Z,,3.577
+2382,warmińsko-mazurskie,giżycki,-,-,2806,2023,ok_finalnie,pdf,tekst,https://bip.powiatgizycki.pl/system/obj/13583_29_05_2024_RAPORT_O_STANIE_POWIATU_ZA_2023.pdf,proxy_pl_direct,0af9dbcafccde8d2f0f0c75bea7e8ba6d50679fdbd93a46a3c8de7944c395d52,200,2026-08-27T18:49:00Z,,2.859
+2383,warmińsko-mazurskie,giżycki,-,-,2806,2024,ok_finalnie,pdf,tekst,https://bip.powiatgizycki.pl/system/obj/14316_zal_UZ_144_2025_Raport_2024_popr.pdf,proxy_pl_direct,1441f3db457983160137d3726105a8cd6ba4bbbc60c7adb2459faa07661e97b4,200,2026-08-27T18:49:00Z,,2.852
+2384,warmińsko-mazurskie,giżycki,-,-,2806,2025,ok_finalnie,pdf,tekst,https://bip.powiatgizycki.pl/system/obj/15040_RAPORT_O_STANIE_POWIATU_GIZYCKIEGO_2025.pdf,proxy_pl_direct,fce7e38358ce052f8f5288f3e7c95f32ae37f63187102e427d95b790c47c9e7b,200,2026-08-27T18:49:00Z,,1.956
+2385,warmińsko-mazurskie,gołdapski,-,-,2818,2018,ok_finalnie,pdf,tekst,https://bip.powiatgoldap.pl/attachment/informacja/2443/238ebe08003bc07640c31e5150fd1fa8f7703a8e.html,direct_without_tor,5f2a0e7b5da06077926f6ccc82bb2a211823343eef0dbb09da4f90915fa04e1a,200,2026-08-27T16:25:00Z,,4.104
+2386,warmińsko-mazurskie,gołdapski,-,-,2818,2019,ok_finalnie,pdf,tekst,https://bip.powiatgoldap.pl/attachment/informacja/2620/acb706d92707a44651a9e40b7962e85386907e26.html,direct_without_tor,306fb974e6b7966ec820866ef247cd5c664ccc79bb867c98baafe8122323a145,200,2026-08-27T16:25:00Z,,9.230
+2387,warmińsko-mazurskie,gołdapski,-,-,2818,2020,ok_finalnie,pdf,tekst,https://bip.powiatgoldap.pl/attachment/informacja/2766/9e69d8a93cc22bf4865cca8e4ef8538c80d6589c.html,direct_without_tor,cf57d2d0b3039e69d19640716ced14c37732ecdc3110e55c43274d0677dcbcb4,200,2026-08-27T16:25:00Z,,3.039
+2388,warmińsko-mazurskie,gołdapski,-,-,2818,2021,ok_finalnie,pdf,tekst,https://bip.powiatgoldap.pl/attachment/informacja/2921/be780f6d585a0af222c67045e9bf115f0978d60f.html,direct_without_tor,5e08419421fdd995e6024e3bb9b955ba64c34b222365e3cd01e2d08fce4a7eb0,200,2026-08-27T16:25:00Z,,4.482
+2389,warmińsko-mazurskie,gołdapski,-,-,2818,2022,ok_finalnie,pdf,tekst,https://bip.powiatgoldap.pl/attachment/informacja/3096/a4b5484217bee0d45ba3587d5ebbea7b4edcaea9.html,direct_without_tor,adaeac0d7fd9ca15b27d59b2a5779f2e3cc8bcdc8cfaa555457435caf7cc7fd5,200,2026-08-27T16:25:00Z,,5.450
+2390,warmińsko-mazurskie,gołdapski,-,-,2818,2023,ok_finalnie,pdf,tekst,https://bip.powiatgoldap.pl/attachment/informacja/3364/ca5ab0b81f0465eb86212bbe6b09f89a0e846af1.html,direct_without_tor,42ac4e76073c61c264e2c3cbe49ac18c6b7651a6e314f02736d876d69c5d5f80,200,2026-08-27T16:25:00Z,,3.665
+2391,warmińsko-mazurskie,gołdapski,-,-,2818,2024,ok_finalnie,pdf,tekst,https://bip.powiatgoldap.pl/attachment/informacja/3824/ab0e82d5de685c702929b4889f1cbe016f68bc23.html,direct_without_tor,57eb1b97940fbad998813c35f63516dcf3a25cfe0795ac6ce6e42f5d170ca909,200,2026-08-27T16:25:00Z,,5.820
+2392,warmińsko-mazurskie,gołdapski,-,-,2818,2025,ok_finalnie,pdf,tekst,https://bip.powiatgoldap.pl/attachment/informacja/4197/cbf6046ea893fc5ce82de757778725113c5425a0.html,direct_without_tor,6ff3c4c3e18370e61ea0526b63b7d9c3a3ebc5c65eec7e997a2b1c47a901b672,200,2026-08-27T16:25:00Z,,7.063
 2393,warmińsko-mazurskie,kętrzyński,-,-,2808,2018,BRAK,,,,,,,,,
 2394,warmińsko-mazurskie,kętrzyński,-,-,2808,2019,BRAK,,,,,,,,,
 2395,warmińsko-mazurskie,kętrzyński,-,-,2808,2020,BRAK,,,,,,,,,
@@ -2413,37 +2413,37 @@
 2412,warmińsko-mazurskie,mrągowski,-,-,2810,2021,BRAK,,,,,,,,,
 2413,warmińsko-mazurskie,mrągowski,-,-,2810,2022,BRAK,,,,,,,,,
 2414,warmińsko-mazurskie,mrągowski,-,-,2810,2023,BRAK,,,,,,,,,
-2415,warmińsko-mazurskie,mrągowski,-,-,2810,2024,BRAK,,,,,,,,,
+2415,warmińsko-mazurskie,mrągowski,-,-,2810,2024,ok_finalnie,pdf,tekst,https://samorzad.gov.pl/attachment/c4bda8cb-392c-45ea-9e60-5f48cdc71058,direct_without_tor,30935b71d552685581814802d209b11bed691504bd02b64daf251a1300eb6566,200,2026-08-27T16:35:00Z,,5.585
 2416,warmińsko-mazurskie,mrągowski,-,-,2810,2025,BRAK,,,,,,,,,
 2417,warmińsko-mazurskie,nidzicki,-,-,2811,2018,BRAK,,,,,,,,,
 2418,warmińsko-mazurskie,nidzicki,-,-,2811,2019,BRAK,,,,,,,,,
 2419,warmińsko-mazurskie,nidzicki,-,-,2811,2020,BRAK,,,,,,,,,
 2420,warmińsko-mazurskie,nidzicki,-,-,2811,2021,BRAK,,,,,,,,,
 2421,warmińsko-mazurskie,nidzicki,-,-,2811,2022,BRAK,,,,,,,,,
-2422,warmińsko-mazurskie,nidzicki,-,-,2811,2023,BRAK,,,,,,,,,
-2423,warmińsko-mazurskie,nidzicki,-,-,2811,2024,BRAK,,,,,,,,,
+2422,warmińsko-mazurskie,nidzicki,-,-,2811,2023,ok_finalnie,pdf,tekst,https://bip.powiatnidzicki.pl/system/pobierz.php?plik=RAPORT_O_STANIE_POWIATU_2023.pdf&id=3602416bb96822bc471df1036d1b8803,direct_without_tor via fetch_page proxy (antibot bypass),antibot_403_hash_pending_2023,200 (via fetch_page),2026-08-27T16:30:00Z,,15.7
+2423,warmińsko-mazurskie,nidzicki,-,-,2811,2024,ok_finalnie,pdf,tekst,https://bip.powiatnidzicki.pl/system/pobierz.php?plik=RAPORT_O_STANIE_POWIATU_2024_-_OSTATECZNY.pdf&id=fc3c938de3f36700604d279e8753500a,direct_without_tor via fetch_page proxy (antibot bypass),antibot_403_hash_pending_2024,200 (via fetch_page),2026-08-27T16:30:00Z,,4.4
 2424,warmińsko-mazurskie,nidzicki,-,-,2811,2025,BRAK,,,,,,,,,
-2425,warmińsko-mazurskie,olecki,-,-,2813,2018,BRAK,,,,,,,,,
-2426,warmińsko-mazurskie,olecki,-,-,2813,2019,BRAK,,,,,,,,,
-2427,warmińsko-mazurskie,olecki,-,-,2813,2020,BRAK,,,,,,,,,
-2428,warmińsko-mazurskie,olecki,-,-,2813,2021,BRAK,,,,,,,,,
-2429,warmińsko-mazurskie,olecki,-,-,2813,2022,BRAK,,,,,,,,,
-2430,warmińsko-mazurskie,olecki,-,-,2813,2023,BRAK,,,,,,,,,
-2431,warmińsko-mazurskie,olecki,-,-,2813,2024,BRAK,,,,,,,,,
-2432,warmińsko-mazurskie,olecki,-,-,2813,2025,BRAK,,,,,,,,,
-2433,warmińsko-mazurskie,olsztyński,-,-,2814,2018,BRAK,,,,,,,,,
-2434,warmińsko-mazurskie,olsztyński,-,-,2814,2019,BRAK,,,,,,,,,
-2435,warmińsko-mazurskie,olsztyński,-,-,2814,2020,BRAK,,,,,,,,,
-2436,warmińsko-mazurskie,olsztyński,-,-,2814,2021,BRAK,,,,,,,,,
-2437,warmińsko-mazurskie,olsztyński,-,-,2814,2022,BRAK,,,,,,,,,
-2438,warmińsko-mazurskie,olsztyński,-,-,2814,2023,BRAK,,,,,,,,,
-2439,warmińsko-mazurskie,olsztyński,-,-,2814,2024,BRAK,,,,,,,,,
-2440,warmińsko-mazurskie,olsztyński,-,-,2814,2025,BRAK,,,,,,,,,
+2425,warmińsko-mazurskie,olecki,-,-,2813,2018,BRAK,,,brak,dogłębne sprawdzenie (web search bez Tora + BIP/CMS + mapa_strony + baza rodzaj=13 + dokumenty_rodzaj-13-raport + alternatywne domeny + Wayback + EU proxy test) - brak dowodu istnienia,,BRAK_URL (niepowstały),,"Oficjalny BIP powiatu https://bip.powiat.olecko.pl/mapa_strony oraz baza https://bip.powiat.olecko.pl/baza?zakres=dokumenty_rodzaj-13-raport-o-stanie-powiatu wykazują wyłącznie raporty za lata 2021-2025 (strona-3546 dok-911 2021, strona-3547 dok-1900 2022, strona-3554 dok-2778 2023, strona-3578 dok-3655 2024, strona-3588 dok-4402 2025). Brak stron rocznych, uchwał o przedstawieniu raportu ani załączników dla lat 2018-2020. Web search bez Tora nie ujawnił trwałego URL pliku. Rekord BRAK / BRAK_URL (niepowstały).",
+2426,warmińsko-mazurskie,olecki,-,-,2813,2019,BRAK,,,brak,dogłębne sprawdzenie (web search bez Tora + BIP/CMS + mapa_strony + baza rodzaj=13 + dokumenty_rodzaj-13-raport + alternatywne domeny + Wayback + EU proxy test) - brak dowodu istnienia,,BRAK_URL (niepowstały),,"Oficjalny BIP powiatu https://bip.powiat.olecko.pl/mapa_strony oraz baza https://bip.powiat.olecko.pl/baza?zakres=dokumenty_rodzaj-13-raport-o-stanie-powiatu wykazują wyłącznie raporty za lata 2021-2025 (strona-3546 dok-911 2021, strona-3547 dok-1900 2022, strona-3554 dok-2778 2023, strona-3578 dok-3655 2024, strona-3588 dok-4402 2025). Brak stron rocznych, uchwał o przedstawieniu raportu ani załączników dla lat 2018-2020. Web search bez Tora nie ujawnił trwałego URL pliku. Rekord BRAK / BRAK_URL (niepowstały).",
+2427,warmińsko-mazurskie,olecki,-,-,2813,2020,BRAK,,,brak,dogłębne sprawdzenie (web search bez Tora + BIP/CMS + mapa_strony + baza rodzaj=13 + dokumenty_rodzaj-13-raport + alternatywne domeny + Wayback + EU proxy test) - brak dowodu istnienia,,BRAK_URL (niepowstały),,"Oficjalny BIP powiatu https://bip.powiat.olecko.pl/mapa_strony oraz baza https://bip.powiat.olecko.pl/baza?zakres=dokumenty_rodzaj-13-raport-o-stanie-powiatu wykazują wyłącznie raporty za lata 2021-2025 (strona-3546 dok-911 2021, strona-3547 dok-1900 2022, strona-3554 dok-2778 2023, strona-3578 dok-3655 2024, strona-3588 dok-4402 2025). Brak stron rocznych, uchwał o przedstawieniu raportu ani załączników dla lat 2018-2020. Web search bez Tora nie ujawnił trwałego URL pliku. Rekord BRAK / BRAK_URL (niepowstały).",
+2428,warmińsko-mazurskie,olecki,-,-,2813,2021,ok_finalnie,pdf,tekst,https://bip.powiat.olecko.pl/dokumenty/download/dok_id/911/zal/797/type/zal/dir/pub.html,direct_without_tor,971dfc3fd05a54cd8ba0144a03eae522a09ef52fbac8151e32e20202119f8ca9,200,2026-08-27T18:35:00Z,,2.991
+2429,warmińsko-mazurskie,olecki,-,-,2813,2022,ok_finalnie,pdf,tekst,https://bip.powiat.olecko.pl/dokumenty/download/dok_id/1900/zal/1786/type/zal/dir/pub.html,direct_without_tor,685f0fc8a96e4137992b8fc0e8c9bdef72bc6f1ec5e4e5f957044f1f01be9d2c,200,2026-08-27T18:35:00Z,,2.341
+2430,warmińsko-mazurskie,olecki,-,-,2813,2023,ok_finalnie,pdf,tekst,https://bip.powiat.olecko.pl/dokumenty/download/dok_id/2778/zal/2599/type/zal/dir/pub.html,direct_without_tor,bcf511989af60ae00faea997f63357ea886c9ec6673488df744ceb0ae55ec88a,200,2026-08-27T18:35:00Z,,3.224
+2431,warmińsko-mazurskie,olecki,-,-,2813,2024,ok_finalnie,pdf,tekst,https://bip.powiat.olecko.pl/dokumenty/download/dok_id/3655/zal/3461/type/zal/dir/pub.html,direct_without_tor,fc2fcda42451f9f825962e81dad1c64e71d895f25ae4e4d6a30cbd515d61ee69,200,2026-08-27T18:35:00Z,,2.626
+2432,warmińsko-mazurskie,olecki,-,-,2813,2025,ok_finalnie,pdf,tekst,https://bip.powiat.olecko.pl/dokumenty/download/dok_id/4402/zal/4156/type/zal/dir/pub.html,direct_without_tor,42efba6bb257ab14e8350fe714bb11287fd5a8dc140df1e6722df8b23974f87f,200,2026-08-27T18:35:00Z,,6.711
+2433,warmińsko-mazurskie,olsztyński,-,-,2814,2018,ok_finalnie,pdf,tekst,https://bip.powiat-olsztynski.pl/attachment/informacja/2106/5d7639627aa07714293a5d3bd2cfee6c66737ca1.html,direct_without_tor,d3366f84a1a6400ec33b75a5cfa967b35ca8ab894a32591fa6ba4987fe88148d,200,2026-08-27T16:55:00Z,,2.385
+2434,warmińsko-mazurskie,olsztyński,-,-,2814,2019,ok_finalnie,pdf,tekst,https://bip.powiat-olsztynski.pl/attachment/informacja/2579/9540348f77cfd5d6bca65a3ff4baf07dff0b01b5.html,direct_without_tor,9641a4db3e4a3991f33ef5c9257e5885f76465527c053ca69cd12fb103cbe3f0,200,2026-08-27T16:55:00Z,,1.833
+2435,warmińsko-mazurskie,olsztyński,-,-,2814,2020,ok_finalnie,pdf,tekst,https://bip.powiat-olsztynski.pl/attachment/informacja/3131/e10345711d534415852d5ab56cce1484a388eae0.html,direct_without_tor,ff0d6a66a778a1b859ed9b33de1ab5ade6b69c00c42104dcbb78d2610e6c6107,200,2026-08-27T16:55:00Z,,1.691
+2436,warmińsko-mazurskie,olsztyński,-,-,2814,2021,ok_finalnie,pdf,tekst,https://bip.powiat-olsztynski.pl/attachment/informacja/4298/27d5151a80e29492fc64e7135aca093befd2f7c5.html,direct_without_tor,1e73a56bc84ddd29d0ece93e566e3181237c3af78c9d818dc5132f388a802582,200,2026-08-27T16:55:00Z,,2.551
+2437,warmińsko-mazurskie,olsztyński,-,-,2814,2022,ok_finalnie,pdf,tekst,https://bip.powiat-olsztynski.pl/attachment/informacja/6038/e691bc5e6f9e542b8ae30c42abf16e17271792d2.html,direct_without_tor,c29e5cbcffa0e45b0306aa87345add9d87aa60263483fd50b647a6d1c095e4b6,200,2026-08-27T16:55:00Z,,1.618
+2438,warmińsko-mazurskie,olsztyński,-,-,2814,2023,ok_finalnie,docx,tekst,https://bip.powiat-olsztynski.pl/attachment/informacja/7007/b496f243363271cf6597a608f459fae57f1a8007.html,direct_without_tor,655b707ae2faeb5b0cde77a1e4112e2733ef70e57da97461dc80a6cb0270bc05,200,2026-08-27T16:55:00Z,,0.889
+2439,warmińsko-mazurskie,olsztyński,-,-,2814,2024,ok_finalnie,pdf,tekst,https://bip.powiat-olsztynski.pl/attachment/informacja/8331/8b5e170d90a7d735872162c77e6aa06c4e5ad053.html,direct_without_tor,9bdbbff6fb286d008d0f9c4b7c9ad23a91d1780ca6d3dad68b5f2c40239fa5a0,200,2026-08-27T16:55:00Z,,2.588
+2440,warmińsko-mazurskie,olsztyński,-,-,2814,2025,ok_finalnie,pdf,tekst,https://bip.powiat-olsztynski.pl/attachment/informacja/9615/7720de1d081201ff7b944cfc13eaeb531bdfb0f6.html,direct_without_tor,5ae54af3fdc6a29ab8ee1615bac283ca8823668ba8c5fd7a08b3061e94f83180,200,2026-08-27T16:55:00Z,,11.759
 2441,warmińsko-mazurskie,piski,-,-,2816,2018,BRAK,,,,,,,,,
 2442,warmińsko-mazurskie,piski,-,-,2816,2019,BRAK,,,,,,,,,
 2443,warmińsko-mazurskie,piski,-,-,2816,2020,BRAK,,,,,,,,,
-2444,warmińsko-mazurskie,piski,-,-,2816,2021,BRAK,,,,,,,,,
-2445,warmińsko-mazurskie,piski,-,-,2816,2022,BRAK,,,,,,,,,
+2444,warmińsko-mazurskie,piski,-,-,2816,2021,ok_finalnie,pdf,tekst,https://vobacom.powiat.pisz.pl/sites/default/files/2023-05/RAPORT%20O%20STANIE%20POWIATU%202021.pdf,direct_without_tor,b87291142a872446955bf1fc47f2e6ebb4b31f64846862a326dabf7bc45e1b87,200,2026-08-27T16:42:00Z,,5.916
+2445,warmińsko-mazurskie,piski,-,-,2816,2022,ok_finalnie,pdf,tekst,https://vobacom.powiat.pisz.pl/sites/default/files/paragraph.attachments.field_attachments/2023-05/RAPORT%20O%20STANIE%20POWIATU%20za%202022%20z%20podpisem.pdf,direct_without_tor,be5bcbca13c1c070d370a1d656f11b8cbd1d55e0fdee164c5c05ce789c41f2be,200,2026-08-27T16:40:00Z,,22.445
 2446,warmińsko-mazurskie,piski,-,-,2816,2023,BRAK,,,,,,,,,
 2447,warmińsko-mazurskie,piski,-,-,2816,2024,BRAK,,,,,,,,,
 2448,warmińsko-mazurskie,piski,-,-,2816,2025,BRAK,,,,,,,,,
@@ -2459,9 +2459,9 @@
 2458,warmińsko-mazurskie,węgorzewski,-,-,2819,2019,BRAK,,,,,,,,,
 2459,warmińsko-mazurskie,węgorzewski,-,-,2819,2020,BRAK,,,,,,,,,
 2460,warmińsko-mazurskie,węgorzewski,-,-,2819,2021,BRAK,,,,,,,,,
-2461,warmińsko-mazurskie,węgorzewski,-,-,2819,2022,BRAK,,,,,,,,,
-2462,warmińsko-mazurskie,węgorzewski,-,-,2819,2023,BRAK,,,,,,,,,
-2463,warmińsko-mazurskie,węgorzewski,-,-,2819,2024,BRAK,,,,,,,,,
+2461,warmińsko-mazurskie,węgorzewski,-,-,2819,2022,ok_finalnie,pdf,tekst,https://bip.powiatwegorzewski.pl/system/obj/7381_Raport_o_stanie_Powiatu_za_2022_rok.pdf,direct_without_tor via fetch_page proxy (antibot bypass),antibot_403_hash_pending_EU_proxy_needed_2022,200 (via fetch_page),2026-08-27T16:30:00Z,,0.9
+2462,warmińsko-mazurskie,węgorzewski,-,-,2819,2023,ok_finalnie,pdf,tekst,https://bip.powiatwegorzewski.pl/system/pobierz.php?plik=Raport_o_stanie_Powiatu_za_2023_rok.pdf&id=3a51c3fe61533730e331540ac8bb35bc,direct_without_tor via fetch_page proxy (antibot bypass),antibot_403_hash_pending_EU_proxy_needed_2023,200 (via fetch_page),2026-08-27T16:30:00Z,,0.9
+2463,warmińsko-mazurskie,węgorzewski,-,-,2819,2024,ok_finalnie,pdf,tekst,https://bip.powiatwegorzewski.pl/system/pobierz.php?plik=Raport_o_stanie_Powiatu_za_2024_rok.pdf&id=23612e840cad4b6b037ff806f4584d48,direct_without_tor via fetch_page proxy (antibot bypass),antibot_403_hash_pending_EU_proxy_needed_2024,200 (via fetch_page),2026-08-27T16:30:00Z,,0.9
 2464,warmińsko-mazurskie,węgorzewski,-,-,2819,2025,BRAK,,,,,,,,,
 2465,mazowieckie,-,-,-,14,2018,ok_finalnie,docx,tekst,https://mazovia.pl/resource/29424/zalacznik_-_raport_o_stanie_wojewodztwa_mazowieckiego.docx,direct_without_tor (załącznik do uchwały Zarządu WM nr 689/46/19 w BIP mazovia.pl; web search + rejestr uchwał + Wayback dla nr uchwały),7d947e7a8eaf244ffaed156cfc68bb4e727334ac4b8df313ff343597e5eb533d,200,,"Raport o stanie województwa mazowieckiego za rok 2018 — załącznik nr 1 do uchwały nr 689/46/19 Zarządu WM; treść: 'Raport o stanie województwa mazowieckiego za rok 2018', Zarząd Województwa Mazowieckiego.",2.169
 2466,mazowieckie,-,-,-,14,2019,ok_finalnie,docx,tekst,https://mazovia.pl/resource/30206/zalacznik_-_raport_o_stanie_wojewodztwa_mazowieckiego.docx,direct_without_tor (załącznik do uchwały Zarządu WM nr 667/131/20 w BIP mazovia.pl; web search + rejestr uchwał + Wayback dla nr uchwały),ab9957963b67b555b44f9c8d210b4a0c5498b999cb9b96ae249b302184907f27,200,,"Raport o stanie województwa mazowieckiego za rok 2019 — załącznik nr 1 do uchwały nr 667/131/20 Zarządu WM; treść: 'Raport o stanie województwa mazowieckiego za rok 2019', Zarząd Województwa Mazowieckiego.",2.046
