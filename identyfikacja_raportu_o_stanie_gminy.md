@@ -367,3 +367,8 @@ Checklist rocznika:
 - §1e: **23** z 25 `identity:*` → `ok_finalnie` (9× ` + ocr`; 8× year potwierdzony treścią; 6× `.doc` przez `catdoc`/`antiword`). **2** zostają `not_ok` / `identity:wrong_doc_type` (Zambrów miasto 2020, Pozezdrze 2020) — URL zachowany; to fałszywy hint POŚ/SRPS.
 
 JSON tury 1: `/home/user/work/probe_identity_11.json`.
+
+Platformy eSesja (*.esesja.pl): kadencje przez /?kid={id}, pliki pod /zalaczniki/{dir}/{plik} (w HTML: <li file='...'>; dekodowane z scripts.js → oz()). Rejestry uchwał z załącznikami sesyjnymi to kopalnia raportów sprzed migracji BIP.
+Archiwalne BIP-y (CakePHP na bip.gov.pl): szukać przez POST /search/articlesr (data[Search][name]=...) — indeksują artykuły, których nie ma w menu; pliki pod /fobjects/download/{id}/{slug}.
+Pole file (libmagic) zmyla liczbę stron PDF — zawsze pdfinfo.
+catdoc -d cp1250 potwierdza się kolejny raz jako jedyny poprawny czytnik polskich DOC.
