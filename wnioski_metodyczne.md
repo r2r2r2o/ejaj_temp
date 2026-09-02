@@ -1,11 +1,12 @@
 # Wnioski metodyczne — pozyskiwanie raportów o stanie gminy (art. 28aa u.s.g.)
 
-Stan na 01.09.2026. Zbiór: 2488 wierszy (264 gminy × 8 roczników 2018–2025 + 47 jednostek nadrzędnych).
-Wynik: **2359 `ok_finalnie` / 129 `brak_finalnie` / 0 `BRAK`** — 94,8% pokrycia.
+Stan na 02.09.2026. Zbiór: 2488 wierszy (264 gminy × 8 roczników 2018–2025 + 47 jednostek nadrzędnych).
+Wynik: **2368 `ok_finalnie` / 120 `brak_finalnie` / 0 `BRAK`** — 95,2% pokrycia.
+*(w tym: tura 18c — odzyskany raport Mrągowo gmina wiejska za 2018 metodą „żywego załącznika", §8e; pozostałe 119 zweryfikowane jako strukturalny brak publikacji.)*
 
 ---
 
-## 1. Skuteczność źródeł (2359 zdobytych plików)
+## 1. Skuteczność źródeł (2368 zdobytych plików)
 
 | Plików | Źródło | Uwagi |
 |---|---|---|
@@ -107,16 +108,16 @@ Po migracji BIP: `archiwum.{gmina}.pl`, `{gmina}.archiwum.bip.net.pl`, `nowa.{gm
 
 ---
 
-## 6. Struktura 129 pozostałych braków
+## 6. Struktura 120 pozostałych braków
 
 | Liczba | Kategoria |
 |---|---|
-| 73 | Brak publikacji / brak jakiegokolwiek śladu — gmina nigdy nie opublikowała pliku |
-| 48 | **Raport powstał (dowód: uchwała o wotum / ogłoszenie o debacie), plik niedostępny** |
-| 7 | Jednostka nie istniała (Grabówka — utworzona 1.01.2025) |
-| 1 | Rocznik jeszcze nieopublikowany (Szczytno 2025) |
+| 74 | Raport istnieje / powstał, ale plik opublikowany jedynie częściowo lub usunięty — kompletny PDF nieosiągalny |
+| 34 | Brak publikacji / brak jakiegokolwiek śladu — gmina nigdy nie opublikowała pliku raportu |
+| 12 | Jednostka nie istniała (Grabówka — utworzona 1.01.2025; + roczniki, gdy gmina wydzielona) |
 
 Dominujący wzorzec: **BIP-y zaczynają publikować raporty dopiero od 2020–2023**, mimo że obowiązek istnieje od 2019 (za 2018). Rocznik 2018 to najsłabiej udokumentowany rok w całym zbiorze.
+*Uwaga: kategorie wyliczone automatycznie z `failure_reason` (słowa kluczowe); granica między „nieopublikowany" a „powstał, plik niedostępny" bywa płynna (patrz §5 i §8d).*
 
 ---
 
@@ -209,6 +210,10 @@ Trzecia z rzędu platforma, która zwraca `HTTP 200` dla **każdej** subdomeny/�
 
 **Wayback — zachowanie niestabilne:** w tej turze pobieranie plików PDF działało (`HTTP 200`), ale zarchiwizowane strony HTML zwracały `503` przy 8 próbach z odstępami 45 s. Cap 5 MiB pozostaje twardy — `Range: bytes=5242880-` również daje `503`, więc dociągnięcie brakującej części pliku jest niemożliwe.
 
+**Nowa sygnatura pustki (tura 18c — platforma gov.pl):** podstrony rocznikowe `…/raport-o-stanie-gminy/raport-o-stanie-gminy-za-{rok}-rok.html` zwracają **`HTTP 200`, ale identyczny szablon zawierany (ten sam MD5)** dla wszystkich lat, w tym dla roku, który na pewno nie istnieje (np. Bielany: `2018` = `2025`, MD5 `41e86699…`). To **soft-404**. Poprawne rozpoznanie: porównanie **MD5 dwóch podstron** — jeśli identyczne → pusta kategoria, brak pozycji. To uzupełnia tabelę sygnatur z §8b o wariant „identyczny MD5, różne adresy" (obok stałej długości HTML).
+
+**Zobowiązujące rozróżnienie dla gov.pl:** kategoria może istnieć (`/raport-o-stanie-gminy/` = 200) i listować tylko niektóre roczniki (np. 2019, 2022, 2023, 2024 — bez 2018/2020/2021). Obecność kategorii **nie** oznacza, że dany rocznik jest opublikowany — zawsze sprawdzić **wystawienie konkretnego roku** (obecność `fobjects/details` z załącznikiem + link `download`).
+
 ---
 
 ---
@@ -235,6 +240,118 @@ Po wyczerpaniu klasycznych ścieżek przetestowałem archiwa i mechanizmy publik
 Plik na Drive został usunięty (404 na obu endpointach pobierania), a Wayback nie ma jego snapshotu. **Nieodwracalna utrata przez publikację w zewnętrznej chmurze.**
 
 **Wniosek praktyczny:** żaden skan przestrzeni ID ani CDX własnej domeny takiego raportu nie znajdzie — plik nigdy nie był na serwerze gminy. Przy pustej stronie raportowej zawsze sprawdzać linki wychodzące do: `drive.google`, `docs.google`, `powerbi`, `onedrive`/`1drv.ms`, `dropbox`, `sharepoint`, `wetransfer`. To także **argument archiwizacyjny**: dokumenty urzędowe hostowane w chmurach komercyjnych znikają bezpowrotnie.
+
+---
+
+## 8d. Re-weryfikacja żywych serwerów po finalizacji (tura 18, 02.09.2026)
+
+Po domknięciu wszystkich 2488 wierszy wróciłem do klastra „raport powstał, plik niedostępny" i **prze-crawlowałem żywe serwery** — cel: sprawdzić, czy po wcześniejszych przeszukaniach (z AUR 6–14) nie pojawiły się **nowe** pliki raportów (np. dołożone później lub po migracji).
+
+**Metoda:** dla gmin z brakami wyodrębniono realne hosty i ponownie pobrano: strony główne, kategorię „Raport o stanie gminy", wyszukiwarkę CMS, katalog plików i (dla platformy gov.pl) standardowe podstrony rocznikowe. gov.pl wymagało **TOR** (bezpośrednio `http=000` — WAF; przez polski exit `200`).
+
+**Wyniki:**
+
+### 8d.1. Klaster podlaski (SmartSite `bip-ug{…}.podlaskie.eu`, 16 hostów)
+Na żywych serwerach **obecne są wyłącznie nowsze roczniki (2023–2025); brakujący rok nigdy nie był opublikowany** — nie jest to kwestia usunięcia ani blokady.
+
+| Gmina | Live serwer (2026) | Wniosek |
+|---|---|---|
+| Narewka | tylko raport 2025 | brak 2018 |
+| Jasionówka | pliki 2019–2025 | brak 2018 |
+| Trzcianne | tylko 2024 | brak 2018–2022 |
+| Nurzec-Stacja | 2019–2025 | brak 2018 |
+| Perlejewo | tylko 2019 | brak 2018 |
+| Orla | tylko 2025 + zgłoszenia do debaty | brak 2019/2020/2022 |
+| Rudka | wyszukiwarka → 0 plików | brak 2019–2025 |
+| Sztabin, Michałowo, Zawady, Kuźnica, Wizna | brak kategorii / 0 plików | brak |
+| Kulesze Kościelne | kategoria jest **stubem** (tylko obrazek, 0 PDF) | brak 2018–2022 |
+| Augustów | **brak DNS**, https/http 000 | nieosiągalny |
+
+### 8d.2. Klaster poza podlaskim (mazowieckie 48 / warmińsko-mazurskie 15)
+
+> Wnioski z tury 18c ([dodane niżej](#8c)) uzupełniają obraz dla Andrzejewo i Bielan (przez Tor).
+
+**Przełom — Dźwierzuty 2018, 2019, 2020 (rows 2025–2027).** Kategoria BIP wymienia artykuły raportów **2018–2025**; artykuły i pliki dowodowe zachowane w Wayback na `gminadzwierzuty.pl/portal/download/`:
+- 2018: `file_id/227` — „Raport o stanie Gminy Dźwierzuty PDF 2,6 MB", CDX 984 677 B, PDF v1.5 „108 str."
+- 2019: `file_id/230` — „Raport … za 2019 2,4 MB", CDX 976 153 B, PDF v1.7 „86 str."
+- 2020: `file_id/299` — „Raport … za 2020 1,8 MB", CDX 1 019 677 B, PDF v1.7 „72 str."
+
+Wszystkie **obcięte do ~1 MiB** (CDX poniżej oryginału), **brak markera EOF, pypdf → „Stream has ended unexpectedly"**. Common Crawl — brak przechwyceń. → **dowód istnienia znacząco wzmocniony** (konkretne nazwy + rozmiary + ujęte w Wayback), ale kompletny plik wciąż nieodzyskiwalny. Zgodnie z metodyką: `brak_finalnie` + wzmocniony dowód.
+
+**Gminy z żywą kategorią raportu, ale potwierdzony brak danego rocznika:**
+
+| Gmina | Kategoria BIP | Brakujące lata |
+|---|---|---|
+| Biała Piska | artykuły 2019–2025 | 2018 |
+| Jedwabno | 2020–2025 | 2018, 2019 |
+| Mrągowo | 2020–2025 | 2018, 2019 |
+| Barczewo | 2021–2025 | 2019, 2020 |
+| Pasym | 2024+ | 2023 |
+| Sypniewo | brak kategorii (tylko OOŚ) | 2023 |
+
+**Klaster platformy gov.pl (soft-404):** `golymin, ugszulborze, ugzarebykoscielne, ugczarnia, ugtroszyn, ugkrzynowlogamala, ugjoniec, ugskorzec, ugwisniew, ugkosowlacki, ugsabnie, andrzejewo, ugmokobody…` — kategoria `/raport-o-stanie-gminy/` oraz podstrony `…-za-{rok}-rok.html` **2018–2025 zwracają identyczny szablon soft-404 (39 693 B, zgodne MD5, brak tytułu/załącznika)**. To potwierdza, że te gminy **nie opublikowały** pliku raportu na platformie gov.pl (kategoria istnieje, ale jest pusta).
+
+### Wniosek (tura 18)
+Re-crawl żywych serwerów **nie przyniósł żadnego nowego kompletnego raportu**. Największa zdobycz to **wzmocniony, konkretny dowód istnienia** dla Dźwierzuty 2018–2020 (pliki istniały, zachowane ~1 MB w Wayback, nieczytelne). Blokady są **strukturalne** (nigdy nie opublikowano / plik usunięty / twardy limit Wayback), a nie wynikające z chwilowej awarii Wayback (które w turze 18 było zdrowe — CDX i pobieranie zwracały 200).
+
+**Kluczowe rozróżnienie dla dalszych tur:** gdzie gmina ma **żywe, niepuste** kategorie rocznikowe z brakującym latem → raport nie powstał; gdzie kategoria jest **pusta lub pusty szablon soft-404** → raport nie opublikowany; gdzie w Wayback jest plik ≠ oryginał → raport powstał, ale niepełny.
+
+---
+
+## 8e. Odzyskanie z żywej domeny głównej — ogłoszenie o debacie → załącznik (tura 18c)
+
+**Nowa metoda, która zadziałała (odzyskany 1 plik = Mrągowo 2018, row 1865).**
+
+**Punkt wyjścia (§2.7 + §5):** raport bywa **załącznikiem do ogłoszenia o debacie / informacji dla mieszkańców**, często na **domenie głównej gminy** (nie w BIP) i nieprzypisanym do kategorii „Raport o stanie gminy" — dlatego re-crawl **kategorii** (tura 18) go nie znajduje, mimo że plik żyje.
+
+**Procedura:**
+1. Skan Wayback **`matchType=domain` na domenie głównej gminy** (nie tylko `bip.*`) z `filter=urlkey:.*raport.*` — znajduje artykuły typu „debata nad raportem", „informacja dla mieszkańców", „raport o stanie gminy za {rok}".
+2. Wyłuskać artykuł dla brakującego rocznika i jego **załączniki** (`/attachment/...`, `/portal/download/file_id/{N}.html`, `getfile&id=N`).
+3. **Sprawdzić, czy oryginalny (żywy) serwer nadal je serwuje** — to tu jest klucz: kategoria BIP pokazuje tylko najnowsze lata, ale stary artykuł z 2019 r. może wciąż mieć załącznik PDF pod starym URL-em.
+
+**Wynik:** Mrągowo 2018 — ogłoszenie `/6187/raport-o-stanie-gminy-mragowo-za-2018-rok.html` (BIP żywe), załącznik `/attachment/informacja/5349/…` → **`Raport.pdf` 655 871 B, PDF v1.4, 69 str., kompletny** (art. 28aa, Urząd Gminy Mrągowo). Rzeczywisty `Content-Length` 655 871 B, `filename="Raport.pdf"`. **Status: `brak_finalnie` → `ok_finalnie`** (row 1865).
+
+**Ograniczenie metody:** z ~15 kandydatów (Mrągowo, Krzynowłoga, Zabrodzie, Liw, Troszyn, Kosów Lacki, Sarnaki, Biskupiec, Zaręby Kościelne) tylko Mrągowo miał plik nadal żywy; reszta: kategoria pokazuje wyłącznie roczniki 2021+, a brakujące lata (2018–2020) nie są żywe ani w archiwum.
+
+*Powtórzenie (tura 18c) potwierdziło też ostatecznie nieodzyskiwalność Dźwierzuty 2018–2020: nagłówek Wayback `x-archive-orig-x-crawler-content-length: 2735195` vs `content-length: 1048576` dowodzi, że **crawler obciął rekord do 1 MiB** — odzyskanie części powyżej 984 677 B kończy się `302` (rekord faktycznie ma 1 048 576 B).*
+
+**Wyniki metody na pozostałych gminach (tura 18c, bez odzysku — realny brak publikacji):** Mrągowo *gmina wiejska* 2019 (kategoria + Wayback: tylko 2018 i 2020–2025), Kosów Lacki 2018–2020 (debata 2019 art.995 bez załącznika; pliki od 2022), Barczewo 2019/2020 (kategoria + XML: 2021–2025; attachment ≤ 946 = 404), Biała Piska 2018 (artykuły od 2019), Wieliczki 2018 (dział od 2019), Szczytno 2025 (publiczny najnowszy = 2024, po 31.05.2026), Szulborze Wielkie (uchwały o wotum istnieją, Wayback pusty), Zaręby Kościelne, Troszyn, Sarnaki, Wierzbno, Grębków, Liw, Andrzejewo — wszystkie potwierdzone jako brak publikacji pliku.
+
+*Pułapka wykryta w turze 18c:* `ug.szulborze.wrotamazowsza.pl` to **SPA geoportuny** (Mazowiecki System Informacji Przestrzennej), nie BIP gminy — przy sondażu domen `.wrotamazowsza.pl` zawsze sprawdzać, czy to faktycznie serwis gminy, a nie ogólna platforma geoprzestrzenna.
+
+---
+
+## 8f. Precyzyjna identyfikacja załącznika z `<object>` — odzysk Lipsk 2025 + nowy host Zbójna (tura 18c/18d)
+
+**ODZYSK Lipsk 2025 (row 872, `brak_finalnie` → `ok_finalnie`).** Poprzednio (tura 2) przetestowano **189 kombinacji** ścieżek w galerii `images/phocagallery/wydarzenia_gminne/rok_2026/` (miesiące IV/V/VI × 21 dni × 3 warianty nazwy typu `Raport_o_stanie_Gminy_za_2025_...`) — wszystkie 404. W turze 18d zamiast zgadywania nazw **odszyfrowano prawdziwy wzorzec publikacji z artykułu 2024 r.** i podążono za strukturą serwisu:
+
+1. Raport za 2024 r. wisiał pod `rok_2025/V/27/Raport_o_stanie_Gminy_za_2024_r_wersja_ostateczna_ok.pdf` — wniosek: nazwy plików **nie są stałe** (`_wersja_ostateczna_ok`), a dzień jest zmienny.
+2. Wyszukano **artykuł** „Raport o stanie Gminy za 2024 r." na `lipsk.pl/index.php/aktualnosci/ogloszenia` (slug: `raport-o-stanie-gminy-za-2024-r`).
+3. Dla rocznika 2025 zidentyfikowano artykuł **`/aktualnosci/ogloszenia/raport-o-stanie-gminy-lipsk`** (data publikacji **13.05.2026**) — w HTML artykułu załącznik nie jest zwykłym linkiem `<a href>`, tylko **osadzonym PDF-em**: `<object data="/images/phocagallery/wydarzenia_gminne/rok_2026/V/14/zarzadzenie-raport-2025.pdf" type="application/pdf" ...>`.
+4. Pobrano ten plik: **5 799 640 B (PDF 1.7)**, `sha256` w CSV, zapisany `pobrane_raporty/872_lipsk_2025.pdf`.
+
+**Wniosek metodyczny (najcenniejszy):** w Joomla raport publikuje się jako **osadzony `<object data="...pdf">`**, nie jako `href`. **Skanowanie `<a href>` / zgadywanie nazw plików jest więc z definicji nieefektywne — trzeba (a) znaleźć artykuł, (b) parsować tag `<object data=...>` i (c) `{link}` (takie jak `/images/file.pdf`) to ślepa uliczka, a prawdziwy PDF siedzi w `data` atrybucie `object`. Skan 189 kombinacji nie mógł trafić, bo nazwa brzmiała `zarzadzenie-raport-2025.pdf` zamiast oczekiwanej `Raport_o_stanie_...` oraz dzień `14` (nie `27`).
+
+**Zbójna 2020 (row 1683) — POTWIERDZONY realny brak publikacji na NOWYM hoście.** Stare BIP `zbojna.powiatlomzynski.pl` (PUBLIKATOR) przekierowuje na **nowy host `bip.zbojna.pl`** (system `index.php?k=` + `index.php?wiad=`). W kategorii **k=321 (Aktualności)** jest dokładnie 7 artykułów „RAPORT O STANIE GMINY ZBÓJNA":
+- wiad `2171` → download `2710` = **r.2018**
+- wiad `2306` → download `3018` = **r.2019**
+- wiad `2709` → download `3835` = **r.2021**
+- wiad `2892` → download `4225` = **r.2022**
+- wiad `3143` → download `4665` = **r.2023**
+- wiad `3343` → download `5100` = **r.2024**
+- wiad `3553` → download `5544` = **r.2025**
+
+Wszystkie **7 PDF pobrano** i zidentyfikowano przez render strony 1 (`pymupdf`, bo pliki są skanami bez warstwy tekstowej oprócz 2710). Sekwencja jest **ciągła z wyjątkiem roku 2020**: między downloadami 3018 (2019) i 3835 (2021) nie ma ani jednego wiad/pliku. Dodatkowy skan `download.php?id=3019..3834` (wszystkie ID w luce) nie zwrócił żadnego PDF. **Wniosek: raport za 2020 nigdy nie został opublikowany** (gmina pominęła rocznik) — to realny BRAK pliku, nie artefakt techniczny; uzasadnia wcześniejszy status `brak_finalnie`.
+
+**Lejek Zbójna — lekcja:** przy BIP-ach PUBLIKATOR/„hi" odwzorowanie rok→ID jest **liniowe i roczne** (cóż za równy krok +~380–550 na rocznik); po wykryciu przekierowania na nowy host **należy przemapować całość na nowym hoście zamiast skanować stary**. Również **paginacja kategorią `k=321` listuje artykuły w jednym widoku** (nie przez `&p=`), co pozwala wyciągnąć wszystkie tytuły naraz.
+
+**Pułapka gov.pl potwierdzona:** `samorzad.gov.pl/web/<jaki-kolwiek-slug>/raport-o-stanie-gminy` zwraca **identyczny szablon 20 501 B** (tytuł „Strona główna - Gov.pl") również dla nieistniejącej instytucji — analogicznie do strony-szkieletu eSesja (36 759 B). Noty w CSV z `X.bip.gov.pl` (r. 18–24, 281–287, 298 itd.) wskazują, że re-weryfikacja niepodstawiła realnego hosta — przy dalszych pracach te wiersze wymagają **podstawienia właściwej domeny BIP danej gminy** i sprawdzenia jej własnego systemu (nie szkieletu gov.pl).
+
+**Dwa kluczowe rozpoznania hostów w turze 18d:**
+1. **Gmina wiejska Augustów** (r. 849 = 2018, r. 852 = 2021) — **migracja BIP na platformę gov.pl.** Stary `bip-ugaugustow.wrotapodlasia.pl` **nie istnieje** (DNS `-2`), nie ma też wariantu `.podlaskie.eu`. Na **`samorzad.gov.pl/web/gmina-augustow/`** potwierdzone publikacje 28aa: **2023** → `/attachment/0bf8f370-086b-45f4-bdfd-83546424c133` (Zarządzenie OR.0050.3.2024) i **2024** → `/attachment/ef23dce8-263b-4454-bd55-2c082bdb677f` (OR.0050.121.2025). Sekcje: `/spis-aktow-prawnych` i `/zarzadzenia-wojta-gminy-ix-kadencja` (lista ładuje się JS/spisem stron), `rada-gminy2`, `informacje-biezace`. **Wniosek metodyczny:** przy „zmarłej" domenie `.wrotapodlasia.pl`/`.podlaskie.eu` szukać **migracji na `samorzad.gov.pl/web/<slug-gminy>`** i odwrotnie.
+2. **Gminy Mazowieckie (wrota/seo):** `*.wrotamazowsza.pl` = **SPA geoporten** (nie BIP); `bip.golymin.pl` = **podszyty/przejęty domeną SEO-spam** (nie BIP). Prawdziwy BIP Gołymina-Ośrodka to `golymin-osrodek.biuletyn.net` (brak kategorii raportu 28aa w menu → realny brak). **Wniosek:** przy sondażu domów zawsze weryfikować, czy domena nie jest przejęta (SEO) ani geoportuną.
+
+**Kategorie raportu „świeżo założone" — fałszywe wrażenie braku starszych lat:** Trzcianne (`bip-ugtrzcianne.podlaskie.eu/raport-o-stanie-gminy-trzcianne/`) i Kobylin-Borzymy (`kobylinborzymy.biuletyn.net`) oraz Narewka (`bip-ugnarewka.podlaskie.eu/raport_o_stanie_gminy/`) mają kategorię raportu zawierającą **wyłącznie raporty 2023–2025** (Narewka 2023–2025, Trzcianne 2023–2025, Kobylin 2019–2025 jako wotum, ale bez pliku). Sarnaki (`sarnaki.pl/category/raport-o-stanie-gminy/feed/`) zaczyna od 2021. Starsze roczniki (2018–2022) **nie są publikowane w tych kategoriach** — to albo host z okresu przed CMS, albo kategoria założona później; wbrew pozorom **nie jest to gwarancja braku starszych lat** — należy sprawdzić archiwa sesji/protokołów (Narewka ma kompletne `/rad_gminy/kadencja_20182023/protokoy_rady_gminy_narewka/`, gdzie raport 28aa z załącznikiem mógł wisieć przy sesji absolutoryjnej).
 
 ---
 
